@@ -1,0 +1,3 @@
+[submodule "Packages/com.codomaster.uniject"]
+	path = Packages/com.codomaster.uniject
+	url = git@home:KurbanismailovZaur/Uniject.git
