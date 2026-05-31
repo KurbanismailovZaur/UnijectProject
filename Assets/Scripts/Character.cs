@@ -1,8 +1,10 @@
+using Uniject.Attributes;
 using UnityEngine;
 
-public class Character : ICharacter
+public class Character : MonoBehaviour, ICharacter
 {
-    public Character(Enemy enemy)
+    [Inject]
+    public void Construct(Enemy enemy)
     {
         Debug.Log($"Character {GetHashCode()} created with enemy {enemy.GetHashCode()}");
     }
