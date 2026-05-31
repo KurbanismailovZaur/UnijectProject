@@ -1,5 +1,11 @@
 {
   "dependencies": {
+    "com.codomaster.uniject": {
+      "version": "file:com.codomaster.uniject",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "com.kubacholabs.vtabs": {
       "version": "file:com.kubacholab.vtabs",
       "depth": 0,
