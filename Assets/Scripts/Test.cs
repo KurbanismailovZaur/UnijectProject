@@ -13,8 +13,9 @@ public class Test : MonoBehaviour
         container.Bind<Character>();
         container.Bind<Enemy>();
 
-        container.Resolve<Character>().Move();
-        container.Resolve<Character>().Move();
-        container.Resolve<Character>().Move();
+        // container.Resolve<Character>().Move();
+        // container.Resolve<Character>().Move();
+        // container.Resolve<Character>().Move();
+        container.Instantiate<Character>().Move();
     }
 }
