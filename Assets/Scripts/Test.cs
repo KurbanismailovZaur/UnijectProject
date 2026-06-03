@@ -16,15 +16,15 @@ public class Test : MonoBehaviour
         // Container.Bind<ICharacter>().From
 
         var container = new Container();
-        container.Bind<GameObject>().To<GameObject>().FromComponentInNewPrefab(_characterPrefab.gameObject).AsCached().NonLazy();
+        container.Bind<ICharacter>().To<ICharacter>().FromComponentInNewPrefab(_characterPrefab).AsCached().NonLazy();
         container.Bind<Enemy>();
 
         // container.Bind<GameObject>().To<GameObject>().FromComponentInNewPrefab(_characterPrefab.gameObject);
         // container.Bind<Character>().To<Character>().FromComponentInNewPrefab(_characterPrefab);
         // container.Bind<ICharacter>().To<ICharacter>().FromComponentInNewPrefab(_characterPrefab);
 
-        container.Resolve<GameObject>().GetComponent<Character>().Move();
-        container.Resolve<GameObject>().GetComponent<Character>().Move();
+        container.Resolve<ICharacter>().Move();
+        container.Resolve<ICharacter>().Move();
         Debug.Log("Instantiating Character prefab...");
 
         yield return null;
