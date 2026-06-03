@@ -16,7 +16,7 @@ public class Test : MonoBehaviour
         // Container.Bind<ICharacter>().From
 
         var container = new Container();
-        container.Bind<ICharacter>().To<ICharacter>().FromComponentInNewPrefab(_characterPrefab).AsCached().NonLazy();
+        container.Bind<ICharacter>().To<Character>().FromComponentInNewPrefab(_characterPrefab);
         container.Bind<Enemy>();
 
         // container.Bind<GameObject>().To<GameObject>().FromComponentInNewPrefab(_characterPrefab.gameObject);
