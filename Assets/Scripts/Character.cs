@@ -4,7 +4,7 @@ using UnityEngine;
 public class Character : MonoBehaviour, ICharacter
 {
     [Inject]
-    public void Construct(Enemy enemy)
+    public void Construct(Enemy1 enemy)
     {
         Debug.Log($"Character {GetHashCode()} created with enemy {enemy.GetHashCode()}");
     }
