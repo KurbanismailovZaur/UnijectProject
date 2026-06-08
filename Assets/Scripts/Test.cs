@@ -1,6 +1,7 @@
 using System.Collections;
 using Uniject;
 using Uniject.Tests;
+using Uniject.Tests.Fixtures;
 using UnityEngine;
 
 public class Test : MonoBehaviour
