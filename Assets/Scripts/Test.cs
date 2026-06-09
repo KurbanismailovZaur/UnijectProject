@@ -13,8 +13,21 @@ public class Test : MonoBehaviour
         // Container.Bind<Contract>().To<Concrete>().From*().AsScope().NonLazy();
 
         var container = new Container();
-        container.Bind<Class>().To<Class>().FromComponentInNewPrefab(new GameObject());
+        container.Bind<Script>().FromNewComponentOnNewGameObject().WithObjectName("Zaur").UnderTransform(_characterPrefab.transform).AsTransient();
+
+        container.Resolve<Script>();
+        container.Resolve<Script>();
 
         yield return null;
     }
+}
+
+public class Foo<T>
+{
+    public int Value { get; set; }
+}
+
+public class Bar
+{
+    public Bar(Foo<int> foo) { }
 }
