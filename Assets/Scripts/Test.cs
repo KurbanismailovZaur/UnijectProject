@@ -13,7 +13,7 @@ public class Test : MonoBehaviour
         // Container.Bind<Contract>().To<Concrete>().From*().AsScope().NonLazy();
 
         var container = new Container();
-        container.Bind<Script>().FromNewComponentOnNewGameObject().WithObjectName("Zaur").UnderTransform(_characterPrefab.transform).AsTransient();
+        container.Bind(typeof(Script)).To<Script>().FromNewComponentOnNewGameObject().AsTransient();
 
         container.Resolve<Script>();
         container.Resolve<Script>();
