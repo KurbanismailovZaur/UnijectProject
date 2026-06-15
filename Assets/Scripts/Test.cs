@@ -1,5 +1,7 @@
 using System.Collections;
+using System.Reflection;
 using Uniject;
+using Uniject.Lifecycle;
 using Uniject.Tests;
 using Uniject.Tests.Fixtures;
 using UnityEngine;
@@ -8,26 +10,49 @@ public class Test : MonoBehaviour
 {
     [SerializeField] private Character _characterPrefab;
 
+    private static void ResolveNonLazyBindings(Container container)
+    {
+        var method = typeof(Container).GetMethod("ResolveNonLazyBindings", BindingFlags.Instance | BindingFlags.NonPublic);
+        method.Invoke(container, null);
+    }
+
+    private static void InjectQueuedInstances(Container container)
+    {
+        var method = typeof(Container).GetMethod("InjectQueuedInstances", BindingFlags.Instance | BindingFlags.NonPublic);
+        method.Invoke(container, null);
+    }
+
+    private static void CallEntryPoints(Container container)
+    {
+        var method = typeof(Container).GetMethod("CallEntryPoints", BindingFlags.Instance | BindingFlags.NonPublic);
+        method.Invoke(container, null);
+    }
+
     private IEnumerator Start()
     {
-        // Container.Bind<Contract>().To<Concrete>().From*().AsScope().NonLazy();
-
+        // Container.Bind<Contract>().To<Concrete>().From*().WithObjectName().UnderTransform().AsScope().NonLazy().AsEntryPoint();
         var container = new Container();
-        container.Bind(typeof(Script)).To<Script>().FromNewComponentOnNewGameObject().AsTransient();
+        
+        // container.Bind<TickableManager>().FromNewComponentOnNewGameObject().AsCached();
+        // container.Bind<ClassWithEntryPoint>().AsEntryPoint();
 
-        container.Resolve<Script>();
-        container.Resolve<Script>();
+        var t2 = container.Instantiate<Test2>();
+        Debug.Log(t2.Container != null);
+        
+        ResolveNonLazyBindings(container);
+        InjectQueuedInstances(container);
+        CallEntryPoints(container);
 
-        yield return null;
+        yield return new WaitForSeconds(1);
     }
 }
 
-public class Foo<T>
+public class Test2
 {
-    public int Value { get; set; }
-}
+    public Test2(Container container)
+    {
+        Container = container;
+    }
 
-public class Bar
-{
-    public Bar(Foo<int> foo) { }
+    public Container Container { get; }
 }

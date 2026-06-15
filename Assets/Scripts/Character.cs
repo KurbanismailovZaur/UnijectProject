@@ -1,17 +1,16 @@
 using Uniject.Attributes;
+using Uniject.Lifecycle;
 using UnityEngine;
 
-public class Character : MonoBehaviour, ICharacter
+public class Character : MonoBehaviour, ICharacter, IEntryPoint
 {
-    [Inject]
-    public void Construct(Enemy1 enemy)
-    {
-        Debug.Log($"Character {GetHashCode()} created with enemy {enemy.GetHashCode()}");
-    }
-
     public void Move()
     {
         Debug.Log($"Character {GetHashCode()} is moving");
     }
 
+    public void Run()
+    {
+        Debug.Log("Script Started!");
+    }
 }
