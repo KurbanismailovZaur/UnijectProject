@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Reflection;
 using Uniject;
+using Uniject.Factories;
 using Uniject.Lifecycle;
 using Uniject.Tests;
 using Uniject.Tests.Fixtures;
@@ -30,15 +31,15 @@ public class Test : MonoBehaviour
 
     private IEnumerator Start()
     {
-        // Container.Bind<Contract>().To<Concrete>().From*().WithObjectName().UnderTransform().AsScope().NonLazy().AsEntryPoint();
+        // Container.Bind<Contract>().To<Concrete>().From*().WithGameObjectName().UnderTransform().AsScope().NonLazy().AsEntryPoint();
+        
         var container = new Container();
-        
-        // container.Bind<TickableManager>().FromNewComponentOnNewGameObject().AsCached();
-        // container.Bind<ClassWithEntryPoint>().AsEntryPoint();
+        container.Bind<Enemy.Factory>().AsCached();
 
-        var t2 = container.Instantiate<Test2>();
-        Debug.Log(t2.Container != null);
-        
+        var enemyFactory = container.Resolve<Enemy.Factory>();
+        enemyFactory.Create().Initialize();
+        enemyFactory.Create().Initialize();
+
         ResolveNonLazyBindings(container);
         InjectQueuedInstances(container);
         CallEntryPoints(container);
@@ -47,12 +48,17 @@ public class Test : MonoBehaviour
     }
 }
 
-public class Test2
+class Enemy : MonoBehaviour
 {
-    public Test2(Container container)
+    public class Factory : Factory<Enemy>
     {
-        Container = container;
+        public Factory(IObjectBuilder objectBuilder) : base(objectBuilder) { }
+
+        public override Enemy Create() => _objectBuilder.AddComponent<Enemy>(new GameObject("Enemy"));
     }
 
-    public Container Container { get; }
+    public void Initialize()
+    {
+        Debug.Log("Enemy Initialized!");
+    }
 }
