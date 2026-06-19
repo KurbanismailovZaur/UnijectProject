@@ -11,12 +11,12 @@ class Enemy : MonoBehaviour, IEnemy
 
     public class CustomFactory : IFactory<Enemy>
     {
-        private Container _container;
+        private IObjectBuilder _objectBuilder;
 
         [Inject]
-        private void Construct(Container container) => _container = container;
+        private void Construct(IObjectBuilder objectBuilder) => _objectBuilder = objectBuilder;
 
-        Enemy IFactory<Enemy>.Create() => _container.AddComponent<Enemy>(new GameObject("Enemy"));
+        Enemy IFactory<Enemy>.Create() => _objectBuilder.AddComponent<Enemy>(new GameObject("Enemy"));
     }
 
     public void Initialize()
