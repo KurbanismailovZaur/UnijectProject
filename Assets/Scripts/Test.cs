@@ -1,7 +1,6 @@
 using System.Collections;
 using System.Reflection;
 using Uniject;
-using Uniject.Factories;
 using Uniject.Lifecycle;
 using Uniject.Tests;
 using Uniject.Tests.Fixtures;
@@ -23,42 +22,39 @@ public class Test : MonoBehaviour
         method.Invoke(container, null);
     }
 
-    private static void CallEntryPoints(Container container)
+    private static void RunEntryPoints(Container container)
     {
-        var method = typeof(Container).GetMethod("CallEntryPoints", BindingFlags.Instance | BindingFlags.NonPublic);
+        var method = typeof(Container).GetMethod("RunEntryPoints", BindingFlags.Instance | BindingFlags.NonPublic);
         method.Invoke(container, null);
     }
 
     private IEnumerator Start()
     {
         // Container.Bind<Contract>().To<Concrete>().From*().WithGameObjectName().UnderTransform().AsScope().NonLazy().AsEntryPoint();
+        // Container.BindFactory<TResult, TFactory>().To<TConcrete>().From*().AsScope();
         
         var container = new Container();
-        container.Bind<Enemy.Factory>().AsCached();
 
-        var enemyFactory = container.Resolve<Enemy.Factory>();
-        enemyFactory.Create().Initialize();
-        enemyFactory.Create().Initialize();
+        container.Bind<IEnemy, Factory<IEnemy>>().To<Enemy>().FromFactory<Enemy.CustomFactory>().AsCached();
 
         ResolveNonLazyBindings(container);
         InjectQueuedInstances(container);
-        CallEntryPoints(container);
+        RunEntryPoints(container);
+
+
+        var fact1 = container.Resolve<Factory<IEnemy>>();
+        var fact2 = container.Resolve<Factory<IEnemy>>();
+
+        Debug.Log($"Factory 1 {fact1.GetHashCode()}");
+        Debug.Log($"Factory 2 {fact2.GetHashCode()}");
+
+        fact1.Create().Initialize();
+        fact1.Create().Initialize();
+        fact2.Create().Initialize();
+        fact2.Create().Initialize();
+
+        
 
         yield return new WaitForSeconds(1);
-    }
-}
-
-class Enemy : MonoBehaviour
-{
-    public class Factory : Factory<Enemy>
-    {
-        public Factory(IObjectBuilder objectBuilder) : base(objectBuilder) { }
-
-        public override Enemy Create() => _objectBuilder.AddComponent<Enemy>(new GameObject("Enemy"));
-    }
-
-    public void Initialize()
-    {
-        Debug.Log("Enemy Initialized!");
     }
 }
