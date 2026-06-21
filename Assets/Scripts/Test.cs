@@ -33,15 +33,14 @@ public class Test : MonoBehaviour
         
         var container = new Container();
 
-        container.BindFactory<IEnemy, IEnemy>().To<IEnemy>().FromComponentInNewPrefab().AsCached();
+        container.BindFactory<Enemy, Enemy>().To<Enemy>().FromFactory<Enemy.CustomFactory2>().AsCached();
 
         ResolveNonLazyBindings(container);
         InjectQueuedInstances(container);
         RunEntryPoints(container);
 
-
-        var fact1 = container.Resolve<Factory<IEnemy, IEnemy>>();
-        var fact2 = container.Resolve<Factory<IEnemy, IEnemy>>();
+        var fact1 = container.Resolve<Factory<Enemy, Enemy>>();
+        var fact2 = container.Resolve<Factory<Enemy, Enemy>>();
 
         Debug.Log($"Factory 1 {fact1.GetHashCode()}");
         Debug.Log($"Factory 2 {fact2.GetHashCode()}");
@@ -50,8 +49,6 @@ public class Test : MonoBehaviour
         fact1.Create(_enemyPrefab).Initialize();
         fact2.Create(_enemyPrefab).Initialize();
         fact2.Create(_enemyPrefab).Initialize();
-
-        
 
         yield return new WaitForSeconds(1);
     }
