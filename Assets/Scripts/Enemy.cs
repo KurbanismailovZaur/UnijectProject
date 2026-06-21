@@ -4,25 +4,29 @@ using UnityEngine;
 
 class Enemy : MonoBehaviour, IEnemy
 {
-    public class Factory : Factory<Enemy>
-    {
-        
-    }
+    public class Factory : Factory<Enemy> { }
 
-    public class CustomFactory : IFactory<Enemy>
+    public class CustomFactory1 : IFactory<Enemy>
     {
         private IObjectBuilder _objectBuilder;
 
         [Inject]
         private void Construct(IObjectBuilder objectBuilder) => _objectBuilder = objectBuilder;
 
-        Enemy IFactory<Enemy>.Create() => _objectBuilder.AddComponent<Enemy>(new GameObject("Enemy"));
+        public Enemy Create() => _objectBuilder.AddComponent<Enemy>(new GameObject("Enemy"));
     }
 
-    public void Initialize()
+    public class CustomFactory2 : IFactory<Enemy, Enemy>
     {
-        Debug.Log($"Enemy {GetHashCode()} Initialized!");
+        private IObjectBuilder _objectBuilder;
+
+        [Inject]
+        private void Construct(IObjectBuilder objectBuilder) => _objectBuilder = objectBuilder;
+
+        public Enemy Create(Enemy enemyPrefab) => _objectBuilder.Instantiate(enemyPrefab);
     }
+
+    public void Initialize() => Debug.Log($"Enemy {GetHashCode()} Initialized!");
 }
 
 public interface IEnemy

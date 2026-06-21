@@ -1,14 +1,12 @@
 using System.Collections;
 using System.Reflection;
 using Uniject;
-using Uniject.Lifecycle;
-using Uniject.Tests;
-using Uniject.Tests.Fixtures;
 using UnityEngine;
 
 public class Test : MonoBehaviour
 {
     [SerializeField] private Character _characterPrefab;
+    [SerializeField] private Enemy _enemyPrefab;
 
     private static void ResolveNonLazyBindings(Container container)
     {
@@ -35,23 +33,23 @@ public class Test : MonoBehaviour
         
         var container = new Container();
 
-        container.Bind<IEnemy, Factory<IEnemy>>().To<Enemy>().FromFactory<Enemy.CustomFactory>().AsCached();
+        container.BindFactory<IEnemy, IEnemy>().To<IEnemy>().FromComponentInNewPrefab().AsCached();
 
         ResolveNonLazyBindings(container);
         InjectQueuedInstances(container);
         RunEntryPoints(container);
 
 
-        var fact1 = container.Resolve<Factory<IEnemy>>();
-        var fact2 = container.Resolve<Factory<IEnemy>>();
+        var fact1 = container.Resolve<Factory<IEnemy, IEnemy>>();
+        var fact2 = container.Resolve<Factory<IEnemy, IEnemy>>();
 
         Debug.Log($"Factory 1 {fact1.GetHashCode()}");
         Debug.Log($"Factory 2 {fact2.GetHashCode()}");
 
-        fact1.Create().Initialize();
-        fact1.Create().Initialize();
-        fact2.Create().Initialize();
-        fact2.Create().Initialize();
+        fact1.Create(_enemyPrefab).Initialize();
+        fact1.Create(_enemyPrefab).Initialize();
+        fact2.Create(_enemyPrefab).Initialize();
+        fact2.Create(_enemyPrefab).Initialize();
 
         
 
