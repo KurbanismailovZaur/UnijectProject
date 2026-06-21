@@ -7,6 +7,7 @@ public class Test : MonoBehaviour
 {
     [SerializeField] private Character _characterPrefab;
     [SerializeField] private Enemy _enemyPrefab;
+    [SerializeField] private Enemy2 _enemy2Prefab;
 
     private static void ResolveNonLazyBindings(Container container)
     {
@@ -26,6 +27,12 @@ public class Test : MonoBehaviour
         method.Invoke(container, null);
     }
 
+    private static void Build(Container container)
+    {
+        var method = typeof(Container).GetMethod("Build", BindingFlags.Instance | BindingFlags.NonPublic);
+        method.Invoke(container, null);
+    }
+
     private IEnumerator Start()
     {
         // Container.Bind<Contract>().To<Concrete>().From*().WithGameObjectName().UnderTransform().AsScope().NonLazy().AsEntryPoint();
@@ -33,22 +40,31 @@ public class Test : MonoBehaviour
         
         var container = new Container();
 
-        container.BindFactory<Enemy, Enemy>().To<Enemy>().FromFactory<Enemy.CustomFactory2>().AsCached();
+        container.BindFactory<Enemy, Enemy>().FromFactory<Enemy.CustomFactory2>().AsCached();
 
-        ResolveNonLazyBindings(container);
-        InjectQueuedInstances(container);
-        RunEntryPoints(container);
+        container.Bind<Enemy>().FromComponentInNewPrefab(_enemyPrefab);
+        container.Bind<Enemy1>().FromNewComponentOnNewGameObject();
+        container.Bind<Enemy2>().FromComponentInNewPrefab(_enemy2Prefab);
+        container.BindInstances("Hello!", 3.1415f);
 
-        var fact1 = container.Resolve<Factory<Enemy, Enemy>>();
-        var fact2 = container.Resolve<Factory<Enemy, Enemy>>();
+        Build(container);
 
-        Debug.Log($"Factory 1 {fact1.GetHashCode()}");
-        Debug.Log($"Factory 2 {fact2.GetHashCode()}");
+        var fact = container.Resolve<Factory<Enemy, Enemy>>();
 
-        fact1.Create(_enemyPrefab).Initialize();
-        fact1.Create(_enemyPrefab).Initialize();
-        fact2.Create(_enemyPrefab).Initialize();
-        fact2.Create(_enemyPrefab).Initialize();
+        yield return new WaitForSeconds(2f);
+
+        var enemy = fact.Create(_enemyPrefab);
+
+        // var fact1 = container.Resolve<Factory<Enemy, Enemy>>();
+        // var fact2 = container.Resolve<Factory<Enemy, Enemy>>();
+
+        // Debug.Log($"Factory 1 {fact1.GetHashCode()}");
+        // Debug.Log($"Factory 2 {fact2.GetHashCode()}");
+
+        // fact1.Create(_enemyPrefab).Initialize();
+        // fact1.Create(_enemyPrefab).Initialize();
+        // fact2.Create(_enemyPrefab).Initialize();
+        // fact2.Create(_enemyPrefab).Initialize();
 
         yield return new WaitForSeconds(1);
     }

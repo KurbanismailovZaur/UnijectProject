@@ -4,29 +4,27 @@ using UnityEngine;
 
 class Enemy : MonoBehaviour, IEnemy
 {
-    public class Factory : Factory<Enemy> { }
+    [SerializeField] private Enemy1 _enemy1;
 
-    public class CustomFactory1 : IFactory<Enemy>
+    [Inject]
+    private void Construct(Enemy1 enemy1)
     {
-        private IObjectBuilder _objectBuilder;
-
-        [Inject]
-        private void Construct(IObjectBuilder objectBuilder) => _objectBuilder = objectBuilder;
-
-        public Enemy Create() => _objectBuilder.AddComponent<Enemy>(new GameObject("Enemy"));
-    }
-
-    public class CustomFactory2 : IFactory<Enemy, Enemy>
-    {
-        private IObjectBuilder _objectBuilder;
-
-        [Inject]
-        private void Construct(IObjectBuilder objectBuilder) => _objectBuilder = objectBuilder;
-
-        public Enemy Create(Enemy enemyPrefab) => _objectBuilder.Instantiate(enemyPrefab);
+        _enemy1 = enemy1;
     }
 
     public void Initialize() => Debug.Log($"Enemy {GetHashCode()} Initialized!");
+
+    public class Factory : Factory<Enemy> { }
+
+    public class CustomFactory1 : CustomFactory<Enemy>
+    {
+        public override Enemy Create() => _objectBuilder.AddComponent<Enemy>(new GameObject("Enemy"));
+    }
+
+    public class CustomFactory2 : CustomFactory<Enemy, Enemy>
+    {
+        public override Enemy Create(Enemy enemyPrefab) => _objectBuilder.Instantiate(enemyPrefab);
+    }
 }
 
 public interface IEnemy

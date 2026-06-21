@@ -1,15 +1,15 @@
+using Uniject.Attributes;
 using UnityEngine;
 
-public class Enemy2
+public class Enemy2 : MonoBehaviour
 {
-    public Enemy2(Enemy3 enemy3)
-    {
-    }   
-}
+    [SerializeField] private string _message;
+    [SerializeField] private float _pi;
 
-public class Enemy3
-{
-    public Enemy3(Enemy1 enemy1)
+    [Inject]
+    private void Construct(string message, float pi)
     {
-    }   
+        _message = message;
+        _pi = pi;
+    }  
 }
