@@ -6,12 +6,6 @@ class Enemy : MonoBehaviour, IEnemy
 {
     [SerializeField] private Enemy1 _enemy1;
 
-    [Inject]
-    private void Construct(Enemy1 enemy1)
-    {
-        _enemy1 = enemy1;
-    }
-
     public void Initialize() => Debug.Log($"Enemy {GetHashCode()} Initialized!");
 
     public class Factory : Factory<Enemy> { }

@@ -36,36 +36,37 @@ public class Test : MonoBehaviour
     private IEnumerator Start()
     {
         // Container.Bind<Contract>().To<Concrete>().From*().WithGameObjectName().UnderTransform().AsScope().NonLazy().AsEntryPoint();
-        // Container.BindFactory<TResult, TFactory>().To<TConcrete>().From*().AsScope();
         
+        var subcontainer = new Container();
+        subcontainer.BindInstances('#');
+        subcontainer.Bind<SubTest>();
+
         var container = new Container();
-
-        container.BindFactory<Enemy, Enemy>().FromFactory<Enemy.CustomFactory2>().AsCached();
-
-        container.Bind<Enemy>().FromComponentInNewPrefab(_enemyPrefab);
-        container.Bind<Enemy1>().FromNewComponentOnNewGameObject();
-        container.Bind<Enemy2>().FromComponentInNewPrefab(_enemy2Prefab);
-        container.BindInstances("Hello!", 3.1415f);
+        container.BindInstances("Hello from Uniject!", 3.1415f);
+        container.Bind<Enemy>().FromNewComponentOnNewGameObject().AsTransient().NonLazy();
+        container.Bind<SubTest>().FromSubcontainerResolve().ByInstance(subcontainer).AsCached();
 
         Build(container);
 
-        var fact = container.Resolve<Factory<Enemy, Enemy>>();
+        yield return new WaitForSeconds(3f);
 
-        yield return new WaitForSeconds(2f);
+        container.Resolve<Enemy>();
+        container.Resolve<Enemy>();
 
-        var enemy = fact.Create(_enemyPrefab);
+        yield return new WaitForSeconds(3f);
 
-        // var fact1 = container.Resolve<Factory<Enemy, Enemy>>();
-        // var fact2 = container.Resolve<Factory<Enemy, Enemy>>();
-
-        // Debug.Log($"Factory 1 {fact1.GetHashCode()}");
-        // Debug.Log($"Factory 2 {fact2.GetHashCode()}");
-
-        // fact1.Create(_enemyPrefab).Initialize();
-        // fact1.Create(_enemyPrefab).Initialize();
-        // fact2.Create(_enemyPrefab).Initialize();
-        // fact2.Create(_enemyPrefab).Initialize();
-
-        yield return new WaitForSeconds(1);
+        container.Resolve<SubTest>();
+        container.Resolve<SubTest>();
+        container.Resolve<SubTest>();
     }
+}
+
+public class SubTest : ISubTest
+{
+    public SubTest(string message, float pi, char character) => Debug.Log($"{message} {pi} {character}");
+}
+
+public interface ISubTest 
+{
+    
 }
