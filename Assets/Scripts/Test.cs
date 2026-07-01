@@ -35,29 +35,35 @@ public class Test : MonoBehaviour
 
     private IEnumerator Start()
     {
-        // Container.Bind<Contract>().To<Concrete>().From*().WithGameObjectName().UnderTransform().AsScope().NonLazy().AsEntryPoint();
+        // Container.Bind<TContract>().To<TConcrete>().From*().WithGameObjectName().UnderTransform().AsScope().NonLazy().AsEntryPoint();
+        // container.BindPool<TContract>().WithInitialSize(8).ExpandBy*().To<TConcrete>().From*().WithGameObjectName().UnderTransform().AsScope().NonLazy();
         
-        var subcontainer = new Container();
-        subcontainer.BindInstances('#');
-        subcontainer.Bind<SubTest>();
+        // var enemy = enemyPool.GetObject();
+        // enemyPool.TakeObject(enemy);
 
         var container = new Container();
-        container.BindInstances("Hello from Uniject!", 3.1415f);
-        container.Bind<Enemy>().FromNewComponentOnNewGameObject().AsTransient().NonLazy();
-        container.Bind<SubTest>().FromSubcontainerResolve().ByInstance(subcontainer).AsCached();
+        
+        container.Bind<Enemy>()
+            .FromNewComponentOnNewGameObject()
+            .AsTransient();
+        
+        container.BindPool<Enemy, Pool<Enemy>>()
+            .WithInitialSize(3)
+            .WithMaxSize(5)
+            .ExpandByDoubling()
+            .To<Enemy>()
+            .FromResolve()
+            .AsCached();;
 
         Build(container);
 
-        yield return new WaitForSeconds(3f);
+        yield return new WaitForSeconds(2f);
 
-        container.Resolve<Enemy>();
-        container.Resolve<Enemy>();
+        var enemyPool = container.Resolve<Pool<Enemy>>();
+        enemyPool.Spawn().Initialize();
+        enemyPool.Spawn().Initialize();
+        enemyPool.Spawn().Initialize();
 
-        yield return new WaitForSeconds(3f);
-
-        container.Resolve<SubTest>();
-        container.Resolve<SubTest>();
-        container.Resolve<SubTest>();
     }
 }
 
@@ -69,4 +75,13 @@ public class SubTest : ISubTest
 public interface ISubTest 
 {
     
+}
+
+public class MyInstaller : IInstaller
+{
+    public void Install(Container container)
+    {
+        container.BindInstances('#');
+        container.Bind<SubTest>();
+    }
 }

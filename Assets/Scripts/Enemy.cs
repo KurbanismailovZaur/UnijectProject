@@ -4,8 +4,6 @@ using UnityEngine;
 
 class Enemy : MonoBehaviour, IEnemy
 {
-    [SerializeField] private Enemy1 _enemy1;
-
     public void Initialize() => Debug.Log($"Enemy {GetHashCode()} Initialized!");
 
     public class Factory : Factory<Enemy> { }
