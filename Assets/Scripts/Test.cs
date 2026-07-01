@@ -43,16 +43,16 @@ public class Test : MonoBehaviour
 
         var container = new Container();
         
-        container.Bind<Enemy>()
-            .FromNewComponentOnNewGameObject()
-            .AsTransient();
+        // container.Bind<Enemy>()
+        //     .FromNewComponentOnNewGameObject()
+        //     .AsTransient();
         
         container.BindPool<Enemy, Pool<Enemy>>()
             .WithInitialSize(3)
             .WithMaxSize(5)
             .ExpandByDoubling()
             .To<Enemy>()
-            .FromResolve()
+            .FromFactory<Enemy.Factory>()
             .AsCached();;
 
         Build(container);
@@ -60,10 +60,36 @@ public class Test : MonoBehaviour
         yield return new WaitForSeconds(2f);
 
         var enemyPool = container.Resolve<Pool<Enemy>>();
-        enemyPool.Spawn().Initialize();
-        enemyPool.Spawn().Initialize();
-        enemyPool.Spawn().Initialize();
+        var enemy1 = enemyPool.Spawn();
+        enemy1.Initialize();
 
+        yield return new WaitForSeconds(2f);
+        
+        enemyPool.Despawn(enemy1);
+
+        yield return new WaitForSeconds(2f);
+
+        enemy1 = enemyPool.Spawn();
+
+        yield return new WaitForSeconds(2f);
+        var enemy2 = enemyPool.Spawn();
+
+        yield return new WaitForSeconds(2f);
+        var enemy3 = enemyPool.Spawn();
+
+        yield return new WaitForSeconds(2f);
+        var enemy4 = enemyPool.Spawn();
+
+        yield return new WaitForSeconds(2f);
+        var enemy5 = enemyPool.Spawn();
+
+        yield return new WaitForSeconds(2f);
+
+        enemyPool.Despawn(enemy1);
+        enemyPool.Despawn(enemy2);
+        enemyPool.Despawn(enemy3);
+        enemyPool.Despawn(enemy4);
+        enemyPool.Despawn(enemy5);
     }
 }
 

@@ -4,18 +4,25 @@ using UnityEngine;
 
 class Enemy : MonoBehaviour, IEnemy
 {
+    public int Health { get; set; } = 100;
+
     public void Initialize() => Debug.Log($"Enemy {GetHashCode()} Initialized!");
 
-    public class Factory : Factory<Enemy> { }
-
-    public class CustomFactory1 : CustomFactory<Enemy>
+    public class Pool : Pool<Enemy>
     {
-        public override Enemy Create() => _objectBuilder.AddComponent<Enemy>(new GameObject("Enemy"));
+        protected override void Reset(Enemy enemy)
+        {
+            enemy.Health = 100;
+        }
     }
 
-    public class CustomFactory2 : CustomFactory<Enemy, Enemy>
+    public class Factory : CustomFactory<Enemy>
     {
-        public override Enemy Create(Enemy enemyPrefab) => _objectBuilder.Instantiate(enemyPrefab);
+        public override Enemy Create()
+        {
+            var gameObject = new GameObject($"Enemy_{GetHashCode()}");
+            return gameObject.AddComponent<Enemy>();
+        }
     }
 }
 
