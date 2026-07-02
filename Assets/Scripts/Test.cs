@@ -45,21 +45,21 @@ public class Test : MonoBehaviour
         
         // container.Bind<Enemy>()
         //     .FromNewComponentOnNewGameObject()
-        //     .AsTransient();
+        //     .AsCached();
         
-        container.BindPool<Enemy, Pool<Enemy>>()
-            .WithInitialSize(3)
-            .WithMaxSize(5)
+        container.BindPool<Enemy, Enemy.Pool>()
+            .WithInitialSize(4)
+            .WithMaxSize(6)
             .ExpandByDoubling()
             .To<Enemy>()
-            .FromFactory<Enemy.Factory>()
-            .AsCached();;
+            .FromNewComponentOnNewGameObject()
+            .AsCached();
 
         Build(container);
 
         yield return new WaitForSeconds(2f);
 
-        var enemyPool = container.Resolve<Pool<Enemy>>();
+        var enemyPool = container.Resolve<Enemy.Pool>();
         var enemy1 = enemyPool.Spawn();
         enemy1.Initialize();
 

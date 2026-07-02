@@ -4,7 +4,7 @@ using UnityEngine;
 
 class Enemy : MonoBehaviour, IEnemy
 {
-    public int Health { get; set; } = 100;
+    public int Health = 100;
 
     public void Initialize() => Debug.Log($"Enemy {GetHashCode()} Initialized!");
 
