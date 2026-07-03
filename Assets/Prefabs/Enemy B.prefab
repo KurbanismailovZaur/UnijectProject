@@ -45,7 +45,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b251d9a45c4b4e269157058ce35a4d7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _enemy1: {fileID: 0}
+  Health: 100
 --- !u!114 &8831018976860274193
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -58,5 +58,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e5ce563bd4f443144a1a883fb91cb2d7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  <Targets>k__BackingField:
-  - {fileID: 4979420165073089635}
+  <Targets>k__BackingField: []
