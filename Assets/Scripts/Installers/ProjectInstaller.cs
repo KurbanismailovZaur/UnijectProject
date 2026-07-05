@@ -2,7 +2,7 @@ using Uniject;
 using Uniject.Installers;
 using UnityEngine;
 
-public class TestInstaller : MonoInstaller
+public class ProjectInstaller : MonoInstaller
 {
     [SerializeField] private AudioClip[] _musicClips;
     [SerializeField] private MusicController _musicControllerPrefab;

@@ -14,7 +14,7 @@ public class MusicController : MonoBehaviour
         _musicClipsProvider = musicClipsProvider;
     }
 
-    public void StartPlayRandomMusic()
+    public void StartPlayRandomMusics()
     {
         _playCoroutine = StartCoroutine(StartPlayRandomMusicEnumerator());
     }
@@ -32,10 +32,17 @@ public class MusicController : MonoBehaviour
 
     public void StopPlayingMusic()
     {
-        if (_playCoroutine != null)
-        {
-            StopCoroutine(_playCoroutine);
-            _playCoroutine = null;
-        }
+        if (_playCoroutine == null)
+            return;
+
+        _audioSource.Stop();
+        StopCoroutine(_playCoroutine);
+        _playCoroutine = null;
+    }
+
+    public void StartPlayNextMusic()
+    {
+        StopPlayingMusic();
+        StartPlayRandomMusics();
     }
 }
