@@ -9,19 +9,16 @@ public class ProjectController : IEntryPoint
     private readonly SceneLoader _sceneLoader;
     private readonly Enemy.Factory _enemyFactory;
     private readonly Enemy _enemyPrefab;
+    private readonly float _pi;
 
-    public ProjectController(Enemy.Factory enemyFactory, Enemy enemyPrefab)
+    public ProjectController(float pi)
     {
-        _enemyFactory = enemyFactory;
-        _enemyPrefab = enemyPrefab;
+        _pi = pi;
     }
 
     public void Run()
     {
         Debug.Log("ProjectController is running!");
-
-        _enemyFactory.Create(_enemyPrefab);
-        _enemyFactory.Create(_enemyPrefab);
-        _enemyFactory.Create(_enemyPrefab);
+        Debug.Log(_pi);
     }
 }

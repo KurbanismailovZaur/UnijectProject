@@ -12,10 +12,17 @@ public class GlobalInstaller : MonoInstaller
 
     public override void Install(Container container)
     {
-        container.BindInstance(_enemyPrefab);
-        container.Bind<Enemy.Factory>().FromSubcontainerResolve().ByInstance(_enemyContext.Container);
-        container.BindInstance(3.14f);
-
+        container.Bind<float>().FromMethod(FloatGetter);
         container.Bind<ProjectController>().AsEntryPoint();
+    }
+
+    private float FloatGetter(Container container, InjectContext injectContext)
+    {
+        Debug.Log(injectContext.ConsumerInstance);
+        Debug.Log(injectContext.ConsumerType);
+        Debug.Log(injectContext.ContractType);
+        Debug.Log(injectContext.ParameterInfo);
+
+        return 3.14f;
     }
 }
