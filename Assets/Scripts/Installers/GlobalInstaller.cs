@@ -7,23 +7,16 @@ using UnityEngine;
 
 public class GlobalInstaller : MonoInstaller
 {
-    [SerializeField] private Enemy _enemyPrefab;
-    [SerializeField] private GameObjectContext _enemyContext;
+    [SerializeField] private Enemy _enemy1;
+    [SerializeField] private Enemy _enemy2;
 
     public override void Install(Container container)
     {
-        container.Bind<float>().FromMethod(FloatGetter);
+        container.Bind<EnemySpawner>().FromNewComponentOnConsumer();
+
+        container.AddToInjectionQueue(_enemy1);
+        container.AddToInjectionQueue(_enemy2);
+
         container.Bind<ProjectController>().AsEntryPoint();
-    }
-
-    private float FloatGetter(InjectContext injectContext)
-    {
-        Debug.Log(injectContext.Container);
-        Debug.Log(injectContext.ConsumerInstance);
-        Debug.Log(injectContext.ConsumerType);
-        Debug.Log(injectContext.ContractType);
-        Debug.Log(injectContext.ParameterInfo);
-
-        return 3.14f;
     }
 }

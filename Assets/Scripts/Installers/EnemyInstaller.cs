@@ -8,9 +8,5 @@ public class EnemyInstaller : MonoInstaller
 
     public override void Install(Container container)
     {
-        container.BindFactory<Enemy, Enemy, Enemy.Factory>().FromMethod((container, prefab) =>
-        {
-            return null;
-        });
     }
 }
