@@ -10,11 +10,7 @@ public class EnemyInstaller : MonoInstaller
     {
         container.BindFactory<Enemy, Enemy, Enemy.Factory>().FromMethod((container, prefab) =>
         {
-            var enemy = new GameObject("MyEnemy").AddComponent<Enemy>();
-            container.Inject(enemy);
-            var (context, parentTransform) = container.GetInfoAboutNearestParentForGameObjects();
-            enemy.transform.SetParent(parentTransform);
-            return enemy;
+            return null;
         });
     }
 }

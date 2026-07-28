@@ -1,0 +1,812 @@
+{
+  "Runtime/Attributes/InjectAttribute.cs": {
+    "mtime": 1781895146.6008437,
+    "ast_hash": "ff9b577f5f22e649dc70381789bcc78a",
+    "semantic_hash": "ff9b577f5f22e649dc70381789bcc78a"
+  },
+  "Runtime/Bindings/Binding.cs": {
+    "mtime": 1785229675.2943277,
+    "ast_hash": "55cbb36a0b437d3582682d3167923a8d",
+    "semantic_hash": "55cbb36a0b437d3582682d3167923a8d"
+  },
+  "Runtime/Bindings/BindingToType.cs": {
+    "mtime": 1785229675.2949145,
+    "ast_hash": "ff5b43c090fab67ae64e5bf0d3c957be",
+    "semantic_hash": "ff5b43c090fab67ae64e5bf0d3c957be"
+  },
+  "Runtime/Bindings/BindingToTypeAsBuilder.cs": {
+    "mtime": 1782064271.8129148,
+    "ast_hash": "d23e43882fd4b55f0be234c4027f2031",
+    "semantic_hash": "d23e43882fd4b55f0be234c4027f2031"
+  },
+  "Runtime/Bindings/BindingToTypeAsEntryPointBuilder.cs": {
+    "mtime": 1782064271.8131068,
+    "ast_hash": "1abb6f5cde9c83d842668708a55dd268",
+    "semantic_hash": "1abb6f5cde9c83d842668708a55dd268"
+  },
+  "Runtime/Bindings/BindingToTypeBuilder.cs": {
+    "mtime": 1782246282.6536608,
+    "ast_hash": "6b60a5b7e196fed4a47481416a0b2bed",
+    "semantic_hash": "6b60a5b7e196fed4a47481416a0b2bed"
+  },
+  "Runtime/Bindings/BindingToTypeByBuilder.cs": {
+    "mtime": 1784403651.2118363,
+    "ast_hash": "8fa803f8a0f60fb84edf18eaf8a0a334",
+    "semantic_hash": "8fa803f8a0f60fb84edf18eaf8a0a334"
+  },
+  "Runtime/Bindings/BindingToTypeFromBuilder.cs": {
+    "mtime": 1785229675.2952886,
+    "ast_hash": "f9c3bbb48be42b3816e4649a4753b027",
+    "semantic_hash": "f9c3bbb48be42b3816e4649a4753b027"
+  },
+  "Runtime/Bindings/BindingToTypeNonLazyBuilder.cs": {
+    "mtime": 1782249431.4745753,
+    "ast_hash": "d5794155596fd77d72afb51283fd43f9",
+    "semantic_hash": "d5794155596fd77d72afb51283fd43f9"
+  },
+  "Runtime/Bindings/BindingToTypeToBuilder.cs": {
+    "mtime": 1785229675.2960167,
+    "ast_hash": "b5425ab595e3ecd536902e8abf4780d4",
+    "semantic_hash": "b5425ab595e3ecd536902e8abf4780d4"
+  },
+  "Runtime/Bindings/BindingToTypeUnderTransformBuilder.cs": {
+    "mtime": 1784052832.040753,
+    "ast_hash": "87fc983f2e308b0c06d0555e5ab175e0",
+    "semantic_hash": "87fc983f2e308b0c06d0555e5ab175e0"
+  },
+  "Runtime/Bindings/BindingToTypeWithGameObjectNameBuilder.cs": {
+    "mtime": 1782064271.8148098,
+    "ast_hash": "82621290898b1ab3cfcc7fc763a1462a",
+    "semantic_hash": "82621290898b1ab3cfcc7fc763a1462a"
+  },
+  "Runtime/Bindings/CreateOptions.cs": {
+    "mtime": 1784226187.6643147,
+    "ast_hash": "edd1473913c8e44b3d9bb220836d8c8c",
+    "semantic_hash": "edd1473913c8e44b3d9bb220836d8c8c"
+  },
+  "Runtime/Bindings/Factories/BindingToFactory.cs": {
+    "mtime": 1785229675.2965589,
+    "ast_hash": "d803942ecb11a0505a172800dc962d8d",
+    "semantic_hash": "d803942ecb11a0505a172800dc962d8d"
+  },
+  "Runtime/Bindings/Factories/BindingToFactoryAsBuilder.cs": {
+    "mtime": 1782064271.8156917,
+    "ast_hash": "ce624b897ba8d77d4b4f18f67402af5e",
+    "semantic_hash": "ce624b897ba8d77d4b4f18f67402af5e"
+  },
+  "Runtime/Bindings/Factories/BindingToFactoryBuilder.cs": {
+    "mtime": 1782064271.8161259,
+    "ast_hash": "355124d7fe90cbe88db8a9a9218132e3",
+    "semantic_hash": "355124d7fe90cbe88db8a9a9218132e3"
+  },
+  "Runtime/Bindings/Factories/BindingToFactoryFromBuilder.cs": {
+    "mtime": 1785229675.296904,
+    "ast_hash": "a5f4476a7cb7096f8dde07f05b837895",
+    "semantic_hash": "a5f4476a7cb7096f8dde07f05b837895"
+  },
+  "Runtime/Bindings/Factories/BindingToFactoryToBuilder.cs": {
+    "mtime": 1785229675.2972813,
+    "ast_hash": "b5d3a83049f31bfd21f84fc2583a56e3",
+    "semantic_hash": "b5d3a83049f31bfd21f84fc2583a56e3"
+  },
+  "Runtime/Bindings/Factories/BindingToFactoryWithParameter.cs": {
+    "mtime": 1785229675.2976832,
+    "ast_hash": "6bfc05f2eef0437c4d1cbfd6fc807eff",
+    "semantic_hash": "6bfc05f2eef0437c4d1cbfd6fc807eff"
+  },
+  "Runtime/Bindings/Factories/BindingToFactoryWithParameterAsBuilder.cs": {
+    "mtime": 1782064271.8173287,
+    "ast_hash": "6de8aeb08336243a5ff433b0d6385bd8",
+    "semantic_hash": "6de8aeb08336243a5ff433b0d6385bd8"
+  },
+  "Runtime/Bindings/Factories/BindingToFactoryWithParameterBuilder.cs": {
+    "mtime": 1782064271.8175113,
+    "ast_hash": "5597f98200cddf1021f416580a0aafe2",
+    "semantic_hash": "5597f98200cddf1021f416580a0aafe2"
+  },
+  "Runtime/Bindings/Factories/BindingToFactoryWithParameterFromBuilder.cs": {
+    "mtime": 1785229675.2985613,
+    "ast_hash": "4134e6c94d9f17df6ba06ff636b749da",
+    "semantic_hash": "4134e6c94d9f17df6ba06ff636b749da"
+  },
+  "Runtime/Bindings/Factories/BindingToFactoryWithParameterToBuilder.cs": {
+    "mtime": 1785229675.2991488,
+    "ast_hash": "6b230674cfc6ee4f76410730d2ed92fb",
+    "semantic_hash": "6b230674cfc6ee4f76410730d2ed92fb"
+  },
+  "Runtime/Bindings/Pools/BindingToPool.cs": {
+    "mtime": 1785229675.2996528,
+    "ast_hash": "32f640499ce5ddc310ac122b02734e0d",
+    "semantic_hash": "32f640499ce5ddc310ac122b02734e0d"
+  },
+  "Runtime/Bindings/Pools/BindingToPoolAsBuilder.cs": {
+    "mtime": 1783013982.7263632,
+    "ast_hash": "a350a98ec5ba5c6bc6d8b591931c11e3",
+    "semantic_hash": "a350a98ec5ba5c6bc6d8b591931c11e3"
+  },
+  "Runtime/Bindings/Pools/BindingToPoolBuilder.cs": {
+    "mtime": 1783014021.3483548,
+    "ast_hash": "e0999b4219de5527caffcf13f819b783",
+    "semantic_hash": "e0999b4219de5527caffcf13f819b783"
+  },
+  "Runtime/Bindings/Pools/BindingToPoolExpandTypeBuilder.cs": {
+    "mtime": 1785229675.300098,
+    "ast_hash": "682639dba2a822d739518320a7c3af03",
+    "semantic_hash": "682639dba2a822d739518320a7c3af03"
+  },
+  "Runtime/Bindings/Pools/BindingToPoolFromBuilder.cs": {
+    "mtime": 1785229675.300505,
+    "ast_hash": "4240231b8a31ddd6bf93c008b3be85a7",
+    "semantic_hash": "4240231b8a31ddd6bf93c008b3be85a7"
+  },
+  "Runtime/Bindings/Pools/BindingToPoolToBuilder.cs": {
+    "mtime": 1785229675.3008635,
+    "ast_hash": "069c3c15b8881a584e8b320cc5b40e77",
+    "semantic_hash": "069c3c15b8881a584e8b320cc5b40e77"
+  },
+  "Runtime/Bindings/Pools/BindingToPoolWithInitialSizeBuilder.cs": {
+    "mtime": 1785229675.3013265,
+    "ast_hash": "8949511ca0d6cee1e81acbca80e8e0cc",
+    "semantic_hash": "8949511ca0d6cee1e81acbca80e8e0cc"
+  },
+  "Runtime/Bindings/Pools/BindingToPoolWithMaxSizeBuilder.cs": {
+    "mtime": 1785229675.301937,
+    "ast_hash": "4ee5a855451b6990edc73073cc62f122",
+    "semantic_hash": "4ee5a855451b6990edc73073cc62f122"
+  },
+  "Runtime/Bindings/Pools/BindingToPoolWithoutGameObjectActivationBuilder .cs": {
+    "mtime": 1785229675.3023276,
+    "ast_hash": "969f9eb916e04445b2e4baa5c2fc5eae",
+    "semantic_hash": "969f9eb916e04445b2e4baa5c2fc5eae"
+  },
+  "Runtime/Bindings/Pools/ExpandType.cs": {
+    "mtime": 1783011500.3486805,
+    "ast_hash": "d439822fd571e781efb17be5a824892e",
+    "semantic_hash": "d439822fd571e781efb17be5a824892e"
+  },
+  "Runtime/Bindings/Scope.cs": {
+    "mtime": 1780497838.8823295,
+    "ast_hash": "e3657757bcfe159bf52be6404735b344",
+    "semantic_hash": "e3657757bcfe159bf52be6404735b344"
+  },
+  "Runtime/Bindings/Subcontainers/BindingToSubcontainerAsBuilder.cs": {
+    "mtime": 1782246282.6556113,
+    "ast_hash": "3a3686d971650a5b49ec05a0e412b173",
+    "semantic_hash": "3a3686d971650a5b49ec05a0e412b173"
+  },
+  "Runtime/Bindings/Subcontainers/BindingToSubcontainerUnderTransformBuilder.cs": {
+    "mtime": 1784309952.7942898,
+    "ast_hash": "0f12e431c008caf36bb854abfcf4cb3c",
+    "semantic_hash": "0f12e431c008caf36bb854abfcf4cb3c"
+  },
+  "Runtime/Bindings/Subcontainers/BindingToSubcontainerWithGameObjectNameBuilder.cs": {
+    "mtime": 1784310087.4177423,
+    "ast_hash": "1a94995368191a3a71ee094fd95cf6d3",
+    "semantic_hash": "1a94995368191a3a71ee094fd95cf6d3"
+  },
+  "Runtime/CollectionPool.cs": {
+    "mtime": 1783102496.218094,
+    "ast_hash": "52974d3c87a19b137693acd331c9d604",
+    "semantic_hash": "52974d3c87a19b137693acd331c9d604"
+  },
+  "Runtime/Collections/OrderedSet.cs": {
+    "mtime": 1781712684.413303,
+    "ast_hash": "a9cd1e0f081930cc379fe2053e69bbe2",
+    "semantic_hash": "a9cd1e0f081930cc379fe2053e69bbe2"
+  },
+  "Runtime/Components/InjectTargets.cs": {
+    "mtime": 1781712684.4135714,
+    "ast_hash": "633d73dde5d2ed8903a98bf518c582a3",
+    "semantic_hash": "633d73dde5d2ed8903a98bf518c582a3"
+  },
+  "Runtime/Container.cs": {
+    "mtime": 1785229675.3027973,
+    "ast_hash": "b71b024a5c00674cbe306c0373ddacee",
+    "semantic_hash": "b71b024a5c00674cbe306c0373ddacee"
+  },
+  "Runtime/Contexts/Context.cs": {
+    "mtime": 1784411265.4826233,
+    "ast_hash": "0f66bd6d5c0650ad0d28093ab031f640",
+    "semantic_hash": "0f66bd6d5c0650ad0d28093ab031f640"
+  },
+  "Runtime/Contexts/GameObjectContext.cs": {
+    "mtime": 1784049187.9791222,
+    "ast_hash": "5620c16fa0bb8c365ee780b880370d41",
+    "semantic_hash": "5620c16fa0bb8c365ee780b880370d41"
+  },
+  "Runtime/Contexts/SceneContext.cs": {
+    "mtime": 1784062899.2650764,
+    "ast_hash": "cba9e18d6eecae0653e0e65d265ec950",
+    "semantic_hash": "cba9e18d6eecae0653e0e65d265ec950"
+  },
+  "Runtime/CustomFactory.cs": {
+    "mtime": 1783028616.1832063,
+    "ast_hash": "695ad6ef2c971abb8757d5c693bfcfbc",
+    "semantic_hash": "695ad6ef2c971abb8757d5c693bfcfbc"
+  },
+  "Runtime/Exceptions/NoBindingFoundException.cs": {
+    "mtime": 1784063096.0448112,
+    "ast_hash": "071866175328a754ed1639c876b788cc",
+    "semantic_hash": "071866175328a754ed1639c876b788cc"
+  },
+  "Runtime/Factory.cs": {
+    "mtime": 1785229675.3031461,
+    "ast_hash": "8cb186a16e9ea334ce39f49f279d6b10",
+    "semantic_hash": "8cb186a16e9ea334ce39f49f279d6b10"
+  },
+  "Runtime/IFactory.cs": {
+    "mtime": 1782064271.8186827,
+    "ast_hash": "7072d9ee990a7be8d6488e53d9f3595b",
+    "semantic_hash": "7072d9ee990a7be8d6488e53d9f3595b"
+  },
+  "Runtime/IObjectBuilder.cs": {
+    "mtime": 1781719640.7547987,
+    "ast_hash": "5cfb59b071273d794bf87b336acc673b",
+    "semantic_hash": "5cfb59b071273d794bf87b336acc673b"
+  },
+  "Runtime/IPool.cs": {
+    "mtime": 1782419227.491105,
+    "ast_hash": "00cd4c686557674376dbf9256d8e22b6",
+    "semantic_hash": "00cd4c686557674376dbf9256d8e22b6"
+  },
+  "Runtime/IProvider.cs": {
+    "mtime": 1783268490.77075,
+    "ast_hash": "e1746885b981a19f6c68f355ee358ff4",
+    "semantic_hash": "e1746885b981a19f6c68f355ee358ff4"
+  },
+  "Runtime/InjectContext.cs": {
+    "mtime": 1785229675.303384,
+    "ast_hash": "93365953c818e5bf722122257ab7147b",
+    "semantic_hash": "93365953c818e5bf722122257ab7147b"
+  },
+  "Runtime/Installers/IInstaller.cs": {
+    "mtime": 1784062505.0789363,
+    "ast_hash": "58deeddddba2d6cb775a8e4a8e297e75",
+    "semantic_hash": "58deeddddba2d6cb775a8e4a8e297e75"
+  },
+  "Runtime/Installers/MonoInstaller.cs": {
+    "mtime": 1783197238.7460527,
+    "ast_hash": "c984461732a5b0e9b4be402827831ecd",
+    "semantic_hash": "c984461732a5b0e9b4be402827831ecd"
+  },
+  "Runtime/Installers/SceneLoaderInstaller.cs": {
+    "mtime": 1784449703.0236163,
+    "ast_hash": "82bf5cb137cbfacb38a2c614a64e9800",
+    "semantic_hash": "82bf5cb137cbfacb38a2c614a64e9800"
+  },
+  "Runtime/Installers/TickableManagerInstaller.cs": {
+    "mtime": 1784449793.5204227,
+    "ast_hash": "a1d20ad765567712df7f7d7f645798d4",
+    "semantic_hash": "a1d20ad765567712df7f7d7f645798d4"
+  },
+  "Runtime/InstanceGetters/Factories/InstanceGetterFromFactory.cs": {
+    "mtime": 1785229675.3042784,
+    "ast_hash": "4ea3c1897db084966e01c84d41210742",
+    "semantic_hash": "4ea3c1897db084966e01c84d41210742"
+  },
+  "Runtime/InstanceGetters/Factories/InstanceGetterWithParameter.cs": {
+    "mtime": 1785229675.304848,
+    "ast_hash": "0717bf63d22f08e37dad7937afd0aa2f",
+    "semantic_hash": "0717bf63d22f08e37dad7937afd0aa2f"
+  },
+  "Runtime/InstanceGetters/Factories/InstanceGetterWithParameterFromComponentInNewPrefab.cs": {
+    "mtime": 1785229675.3051758,
+    "ast_hash": "78fe8d5b734e7ffd1576cd8eeb813c2b",
+    "semantic_hash": "78fe8d5b734e7ffd1576cd8eeb813c2b"
+  },
+  "Runtime/InstanceGetters/Factories/InstanceGetterWithParameterFromFactory.cs": {
+    "mtime": 1785229675.3056347,
+    "ast_hash": "c9aebe0bb2632777dbc6391a0f02ae7e",
+    "semantic_hash": "c9aebe0bb2632777dbc6391a0f02ae7e"
+  },
+  "Runtime/InstanceGetters/Factories/InstanceGetterWithParameterFromMethod.cs": {
+    "mtime": 1785229675.3059413,
+    "ast_hash": "bdfb7d103f2e9da6ed41288126048b86",
+    "semantic_hash": "bdfb7d103f2e9da6ed41288126048b86"
+  },
+  "Runtime/InstanceGetters/Factories/InstanceGetterWithParameterFromNewComponentInNewPrefab.cs": {
+    "mtime": 1785229675.306159,
+    "ast_hash": "05de089fec9bead446c8ff4390228775",
+    "semantic_hash": "05de089fec9bead446c8ff4390228775"
+  },
+  "Runtime/InstanceGetters/InstanceGetter.cs": {
+    "mtime": 1785229675.3064604,
+    "ast_hash": "8fd10f86b2626e10d78794c18a047841",
+    "semantic_hash": "8fd10f86b2626e10d78794c18a047841"
+  },
+  "Runtime/InstanceGetters/InstanceGetterBase.cs": {
+    "mtime": 1785229675.3070533,
+    "ast_hash": "f63a5a92e0127e667494bbb4766371c9",
+    "semantic_hash": "f63a5a92e0127e667494bbb4766371c9"
+  },
+  "Runtime/InstanceGetters/InstanceGetterFromComponentInNewPrefab.cs": {
+    "mtime": 1785229675.307254,
+    "ast_hash": "ab26bd29038a6fe82bdd955ec7622919",
+    "semantic_hash": "ab26bd29038a6fe82bdd955ec7622919"
+  },
+  "Runtime/InstanceGetters/InstanceGetterFromConstructor.cs": {
+    "mtime": 1785229675.3076642,
+    "ast_hash": "4610f23ed8c6e0dce935ca598f149495",
+    "semantic_hash": "4610f23ed8c6e0dce935ca598f149495"
+  },
+  "Runtime/InstanceGetters/InstanceGetterFromInstance.cs": {
+    "mtime": 1785229675.3079824,
+    "ast_hash": "d46587b306b10b81e2fd888d67b9a683",
+    "semantic_hash": "d46587b306b10b81e2fd888d67b9a683"
+  },
+  "Runtime/InstanceGetters/InstanceGetterFromMethod.cs": {
+    "mtime": 1785229675.3082445,
+    "ast_hash": "1d28b71cf994a5cd26daef34b7837081",
+    "semantic_hash": "1d28b71cf994a5cd26daef34b7837081"
+  },
+  "Runtime/InstanceGetters/InstanceGetterFromNewComponentOn.cs": {
+    "mtime": 1785229675.3084211,
+    "ast_hash": "4f050cb2fb73d35e9089f8da83a6db93",
+    "semantic_hash": "4f050cb2fb73d35e9089f8da83a6db93"
+  },
+  "Runtime/InstanceGetters/InstanceGetterFromNewComponentOnNewGameObject.cs": {
+    "mtime": 1785229675.3086884,
+    "ast_hash": "05c853351c9906fb09b1a44d5f5ab548",
+    "semantic_hash": "05c853351c9906fb09b1a44d5f5ab548"
+  },
+  "Runtime/InstanceGetters/InstanceGetterFromNewComponentOnNewPrefab.cs": {
+    "mtime": 1785229675.308934,
+    "ast_hash": "c1a9969cdbc79dcf57f72afa41d5d4d5",
+    "semantic_hash": "c1a9969cdbc79dcf57f72afa41d5d4d5"
+  },
+  "Runtime/InstanceGetters/InstanceGetterFromResolve.cs": {
+    "mtime": 1785229675.3091328,
+    "ast_hash": "42bb8690fa00a6dbbea828722e4d9499",
+    "semantic_hash": "42bb8690fa00a6dbbea828722e4d9499"
+  },
+  "Runtime/InstanceGetters/InstanceGetterFromSubContainerResolve.cs": {
+    "mtime": 1785229675.3093126,
+    "ast_hash": "3b1b61e987f009e1202079ad8ea41c4e",
+    "semantic_hash": "3b1b61e987f009e1202079ad8ea41c4e"
+  },
+  "Runtime/Lifecycle/FixedTickable.cs": {
+    "mtime": 1781712684.414322,
+    "ast_hash": "803066da7bea36bb7c10133e94dbc55b",
+    "semantic_hash": "803066da7bea36bb7c10133e94dbc55b"
+  },
+  "Runtime/Lifecycle/IEntryPoint.cs": {
+    "mtime": 1781712684.4145112,
+    "ast_hash": "8056bf46bf4679cee6ec2a45dce5088c",
+    "semantic_hash": "8056bf46bf4679cee6ec2a45dce5088c"
+  },
+  "Runtime/Lifecycle/IFixedTickable.cs": {
+    "mtime": 1781712684.414694,
+    "ast_hash": "76f1dabf1d5853e6823cfeca74d9160b",
+    "semantic_hash": "76f1dabf1d5853e6823cfeca74d9160b"
+  },
+  "Runtime/Lifecycle/ILateTickable.cs": {
+    "mtime": 1781712684.41489,
+    "ast_hash": "4c29c6b5c303c445af0fa96acc5fb4f6",
+    "semantic_hash": "4c29c6b5c303c445af0fa96acc5fb4f6"
+  },
+  "Runtime/Lifecycle/ITickable.cs": {
+    "mtime": 1781712684.4150705,
+    "ast_hash": "e509bc666823e4fc90b5aff619aff7da",
+    "semantic_hash": "e509bc666823e4fc90b5aff619aff7da"
+  },
+  "Runtime/Lifecycle/LateTickable.cs": {
+    "mtime": 1781712684.415285,
+    "ast_hash": "96eb9a354d22c8dc60820a492628f689",
+    "semantic_hash": "96eb9a354d22c8dc60820a492628f689"
+  },
+  "Runtime/Lifecycle/Tickable.cs": {
+    "mtime": 1781712684.4154966,
+    "ast_hash": "ea594711d7a9a6afdf5e2d519665a339",
+    "semantic_hash": "ea594711d7a9a6afdf5e2d519665a339"
+  },
+  "Runtime/Lifecycle/TickableBase.cs": {
+    "mtime": 1781712684.4157262,
+    "ast_hash": "ccb6c5accd27c913a796b8568831d7eb",
+    "semantic_hash": "ccb6c5accd27c913a796b8568831d7eb"
+  },
+  "Runtime/Lifecycle/TickableManager.cs": {
+    "mtime": 1781712684.4159558,
+    "ast_hash": "dfd8da6bd48738b3ebbf9db79dd7fff5",
+    "semantic_hash": "dfd8da6bd48738b3ebbf9db79dd7fff5"
+  },
+  "Runtime/Pool.cs": {
+    "mtime": 1785229675.3098495,
+    "ast_hash": "27d527bf18bff34962c56c113e4074f5",
+    "semantic_hash": "27d527bf18bff34962c56c113e4074f5"
+  },
+  "Runtime/Reflection/ConstructorInjectionInfo.cs": {
+    "mtime": 1780497838.884333,
+    "ast_hash": "3fc40a75da58db05e19ad94c72066967",
+    "semantic_hash": "3fc40a75da58db05e19ad94c72066967"
+  },
+  "Runtime/Reflection/MethodInjectionData.cs": {
+    "mtime": 1780497838.884606,
+    "ast_hash": "4acbfcf5bf37af2de75fea3ad59cb2b4",
+    "semantic_hash": "4acbfcf5bf37af2de75fea3ad59cb2b4"
+  },
+  "Runtime/Reflection/ReflectionCache.cs": {
+    "mtime": 1781886819.8711092,
+    "ast_hash": "3f3001e531316deb0f3b9c17ce7cdedf",
+    "semantic_hash": "3f3001e531316deb0f3b9c17ce7cdedf"
+  },
+  "Runtime/Reflection/TypeValidator.cs": {
+    "mtime": 1782064271.8217113,
+    "ast_hash": "569cb936190a5c6916d8e186465a30f5",
+    "semantic_hash": "569cb936190a5c6916d8e186465a30f5"
+  },
+  "Runtime/SceneLoader.cs": {
+    "mtime": 1784140531.1521556,
+    "ast_hash": "ed5335f8bda974dfe4b5f19347ad0530",
+    "semantic_hash": "ed5335f8bda974dfe4b5f19347ad0530"
+  },
+  "Runtime/SubcontainerGetters/SubcontainerGetter.cs": {
+    "mtime": 1784240571.028257,
+    "ast_hash": "8ba540f3d5efc56b04c34bd490811a9f",
+    "semantic_hash": "8ba540f3d5efc56b04c34bd490811a9f"
+  },
+  "Runtime/SubcontainerGetters/SubcontainerGetterByContextOnNewPrefab.cs": {
+    "mtime": 1784403604.890961,
+    "ast_hash": "5c524f3845ae99bb708468dca9a997bf",
+    "semantic_hash": "5c524f3845ae99bb708468dca9a997bf"
+  },
+  "Runtime/SubcontainerGetters/SubcontainerGetterByInstaller.cs": {
+    "mtime": 1783197328.9363377,
+    "ast_hash": "33cca2764f02490681aa382df47ccb05",
+    "semantic_hash": "33cca2764f02490681aa382df47ccb05"
+  },
+  "Runtime/SubcontainerGetters/SubcontainerGetterByInstance.cs": {
+    "mtime": 1782314248.0632906,
+    "ast_hash": "765fd32f01bbb0611aeec532df62b0d0",
+    "semantic_hash": "765fd32f01bbb0611aeec532df62b0d0"
+  },
+  "Runtime/SubcontainerGetters/SubcontainerGetterByMethod.cs": {
+    "mtime": 1784294168.9257567,
+    "ast_hash": "b6c801cb5df3cf004ead74c290023827",
+    "semantic_hash": "b6c801cb5df3cf004ead74c290023827"
+  },
+  "Runtime/SubcontainerGetters/SubcontainerGetterByNewContextFromInstallerOnNewGameObject.cs": {
+    "mtime": 1784316018.9296234,
+    "ast_hash": "e0f96a77e3a1ffa4b1c8718126864c74",
+    "semantic_hash": "e0f96a77e3a1ffa4b1c8718126864c74"
+  },
+  "Runtime/SubcontainerGetters/SubcontainerGetterByNewContextFromInstallerOnNewPrefab.cs": {
+    "mtime": 1784320734.259757,
+    "ast_hash": "732e780d1e8f3c7970e88d4c0c4e4992",
+    "semantic_hash": "732e780d1e8f3c7970e88d4c0c4e4992"
+  },
+  "Runtime/SubcontainerGetters/SubcontainerGetterByNewContextFromMethodOnNewGameObject.cs": {
+    "mtime": 1784315861.048019,
+    "ast_hash": "7c87cf103f6789e5f7471e282c996d90",
+    "semantic_hash": "7c87cf103f6789e5f7471e282c996d90"
+  },
+  "Runtime/SubcontainerGetters/SubcontainerGetterByNewContextFromMethodOnNewPrefab.cs": {
+    "mtime": 1784320027.4455776,
+    "ast_hash": "69e7f70939a6ae6b750269698c0aed38",
+    "semantic_hash": "69e7f70939a6ae6b750269698c0aed38"
+  },
+  "Tests/Editor/CollectionPoolTests.cs": {
+    "mtime": 1783102119.2168639,
+    "ast_hash": "d17b6d875ec4aace095449eedb83c298",
+    "semantic_hash": "d17b6d875ec4aace095449eedb83c298"
+  },
+  "Tests/Editor/ContainerBindingTests.cs": {
+    "mtime": 1782246278.422809,
+    "ast_hash": "1cc78c35c73617a3d899d923ad9b2757",
+    "semantic_hash": "1cc78c35c73617a3d899d923ad9b2757"
+  },
+  "Tests/Editor/ContainerBuildTests.cs": {
+    "mtime": 1783969094.5255475,
+    "ast_hash": "129b179bcac562935cb36c1d3eda1c6f",
+    "semantic_hash": "129b179bcac562935cb36c1d3eda1c6f"
+  },
+  "Tests/Editor/ContainerCircularDependencyTests.cs": {
+    "mtime": 1780944431.758067,
+    "ast_hash": "6a5216c8553cf42da20b0f4a1af56209",
+    "semantic_hash": "6a5216c8553cf42da20b0f4a1af56209"
+  },
+  "Tests/Editor/ContainerEntryPointsTests.cs": {
+    "mtime": 1781895199.4359794,
+    "ast_hash": "d0ad9aa3d4304bce1bf5c3b6b406d3e5",
+    "semantic_hash": "d0ad9aa3d4304bce1bf5c3b6b406d3e5"
+  },
+  "Tests/Editor/ContainerFactoryFromComponentInNewPrefabTests.cs": {
+    "mtime": 1782420170.5724878,
+    "ast_hash": "aea38b0cec48fac7934d6a60d3ecd7bf",
+    "semantic_hash": "aea38b0cec48fac7934d6a60d3ecd7bf"
+  },
+  "Tests/Editor/ContainerFactoryFromCustomFactoryTests.cs": {
+    "mtime": 1783028929.4865155,
+    "ast_hash": "773a4127edae3c6c108a942593b9bb37",
+    "semantic_hash": "773a4127edae3c6c108a942593b9bb37"
+  },
+  "Tests/Editor/ContainerFactoryFromMethodTests.cs": {
+    "mtime": 1785229675.3105834,
+    "ast_hash": "6a5bbb138882a178070c47468c628f8f",
+    "semantic_hash": "6a5bbb138882a178070c47468c628f8f"
+  },
+  "Tests/Editor/ContainerFactoryFromNewComponentOnNewGameObjectTests.cs": {
+    "mtime": 1784227857.9458377,
+    "ast_hash": "d0d50d1cec93b5a91497a68f3fe4870d",
+    "semantic_hash": "d0d50d1cec93b5a91497a68f3fe4870d"
+  },
+  "Tests/Editor/ContainerFactoryFromNewComponentOnNewPrefabTests.cs": {
+    "mtime": 1782420170.5721195,
+    "ast_hash": "398ce72f67a3c99a653c53ef81d21b47",
+    "semantic_hash": "398ce72f67a3c99a653c53ef81d21b47"
+  },
+  "Tests/Editor/ContainerFactoryFromNewComponentOnTests.cs": {
+    "mtime": 1784985196.165543,
+    "ast_hash": "ebe7192a2a2b487bfc3270b4dfa8ecd8",
+    "semantic_hash": "ebe7192a2a2b487bfc3270b4dfa8ecd8"
+  },
+  "Tests/Editor/ContainerFactoryFromResolveTests.cs": {
+    "mtime": 1782420170.5692601,
+    "ast_hash": "77cde7dfef7680d864fb6df7ca88fbb9",
+    "semantic_hash": "77cde7dfef7680d864fb6df7ca88fbb9"
+  },
+  "Tests/Editor/ContainerFactoryTestFixture.cs": {
+    "mtime": 1784464687.9661312,
+    "ast_hash": "aed00786458760a8ad0ff2eae5253ae5",
+    "semantic_hash": "aed00786458760a8ad0ff2eae5253ae5"
+  },
+  "Tests/Editor/ContainerFactoryTests.cs": {
+    "mtime": 1782420156.1652884,
+    "ast_hash": "e8d8340d6b3ce66400d9186fe848d4b6",
+    "semantic_hash": "e8d8340d6b3ce66400d9186fe848d4b6"
+  },
+  "Tests/Editor/ContainerInjectContextTests.cs": {
+    "mtime": 1785229675.3108277,
+    "ast_hash": "69212b5a3bb3f3fd4533a3eb112e19d7",
+    "semantic_hash": "69212b5a3bb3f3fd4533a3eb112e19d7"
+  },
+  "Tests/Editor/ContainerInjectTests.cs": {
+    "mtime": 1781712684.4167192,
+    "ast_hash": "6d9c85c68d2a584aac0516e34e08a639",
+    "semantic_hash": "6d9c85c68d2a584aac0516e34e08a639"
+  },
+  "Tests/Editor/ContainerInstantiateTests.cs": {
+    "mtime": 1782315780.1624832,
+    "ast_hash": "26319aa24f6eaeec79e22bb761d46bf4",
+    "semantic_hash": "26319aa24f6eaeec79e22bb761d46bf4"
+  },
+  "Tests/Editor/ContainerNonLazyTests.cs": {
+    "mtime": 1784065098.3134897,
+    "ast_hash": "3115a24ca7ce52cd35717677d1459b2b",
+    "semantic_hash": "3115a24ca7ce52cd35717677d1459b2b"
+  },
+  "Tests/Editor/ContainerParameterizedFactoryFromComponentInNewPrefabTests.cs": {
+    "mtime": 1782420229.164891,
+    "ast_hash": "ec16cbb472d23fdca566424f649a214e",
+    "semantic_hash": "ec16cbb472d23fdca566424f649a214e"
+  },
+  "Tests/Editor/ContainerParameterizedFactoryFromCustomFactoryTests.cs": {
+    "mtime": 1783105992.6193483,
+    "ast_hash": "04740b2f9c568a22174acc52bfe1216b",
+    "semantic_hash": "04740b2f9c568a22174acc52bfe1216b"
+  },
+  "Tests/Editor/ContainerParameterizedFactoryFromMethodTests.cs": {
+    "mtime": 1785229675.3114789,
+    "ast_hash": "44f5321d0b419f7db11b4d9619a464d8",
+    "semantic_hash": "44f5321d0b419f7db11b4d9619a464d8"
+  },
+  "Tests/Editor/ContainerParameterizedFactoryFromNewComponentOnNewPrefabTests.cs": {
+    "mtime": 1782420250.25822,
+    "ast_hash": "b494161d451559eb9ebfb5a42a5b0eaa",
+    "semantic_hash": "b494161d451559eb9ebfb5a42a5b0eaa"
+  },
+  "Tests/Editor/ContainerParameterizedFactoryTests.cs": {
+    "mtime": 1784464688.07919,
+    "ast_hash": "4e897930f14e781c2c354a4a462812fa",
+    "semantic_hash": "4e897930f14e781c2c354a4a462812fa"
+  },
+  "Tests/Editor/ContainerPoolFromNewComponentOnTests.cs": {
+    "mtime": 1784985196.1661232,
+    "ast_hash": "64df15be6b43b00ab50c680da0e40b41",
+    "semantic_hash": "64df15be6b43b00ab50c680da0e40b41"
+  },
+  "Tests/Editor/ContainerPoolTestFixture.cs": {
+    "mtime": 1783015832.5554094,
+    "ast_hash": "b7da4c9561f74121c6d47ed8559b3e23",
+    "semantic_hash": "b7da4c9561f74121c6d47ed8559b3e23"
+  },
+  "Tests/Editor/ContainerPoolTests.cs": {
+    "mtime": 1784464752.6577954,
+    "ast_hash": "79dbbd0bfaef565149181a4b032d8449",
+    "semantic_hash": "79dbbd0bfaef565149181a4b032d8449"
+  },
+  "Tests/Editor/ContainerResolveFromComponentInNewPrefabTests.cs": {
+    "mtime": 1782246278.42464,
+    "ast_hash": "3ca84dbc79d900e1059a1efce349c40f",
+    "semantic_hash": "3ca84dbc79d900e1059a1efce349c40f"
+  },
+  "Tests/Editor/ContainerResolveFromConstructorTests.cs": {
+    "mtime": 1782246278.424788,
+    "ast_hash": "7dbaefc769a083808927c14eaf201080",
+    "semantic_hash": "7dbaefc769a083808927c14eaf201080"
+  },
+  "Tests/Editor/ContainerResolveFromContextOnNewPrefabTests.cs": {
+    "mtime": 1784411546.4370227,
+    "ast_hash": "5460662cdd9d97eb1abfaf5a3be45777",
+    "semantic_hash": "5460662cdd9d97eb1abfaf5a3be45777"
+  },
+  "Tests/Editor/ContainerResolveFromInstanceTests.cs": {
+    "mtime": 1782246278.4250028,
+    "ast_hash": "b76ec5604900961d782ca4d04f6f22a0",
+    "semantic_hash": "b76ec5604900961d782ca4d04f6f22a0"
+  },
+  "Tests/Editor/ContainerResolveFromMethodTests.cs": {
+    "mtime": 1785229675.312032,
+    "ast_hash": "4df0bac35eb7e06f26179e9b5dafa269",
+    "semantic_hash": "4df0bac35eb7e06f26179e9b5dafa269"
+  },
+  "Tests/Editor/ContainerResolveFromNewComponentOnNewGameObjectTests.cs": {
+    "mtime": 1782246278.4251409,
+    "ast_hash": "9f9a28a81bea878199f2d94cf9aefc21",
+    "semantic_hash": "9f9a28a81bea878199f2d94cf9aefc21"
+  },
+  "Tests/Editor/ContainerResolveFromNewComponentOnNewPrefabTests.cs": {
+    "mtime": 1782246278.42535,
+    "ast_hash": "f5205015b4bba18df6ab87cd9fde7abf",
+    "semantic_hash": "f5205015b4bba18df6ab87cd9fde7abf"
+  },
+  "Tests/Editor/ContainerResolveFromNewComponentOnTests.cs": {
+    "mtime": 1784985196.1665068,
+    "ast_hash": "5bff5a277ba0211c3cf0d7284a316daa",
+    "semantic_hash": "5bff5a277ba0211c3cf0d7284a316daa"
+  },
+  "Tests/Editor/ContainerResolveFromNewContextPrefabSubcontainerTests.cs": {
+    "mtime": 1784411546.3275738,
+    "ast_hash": "5cb5759edd89db95b3c7bf6edec3395a",
+    "semantic_hash": "5cb5759edd89db95b3c7bf6edec3395a"
+  },
+  "Tests/Editor/ContainerResolveFromNewContextSubcontainerTests.cs": {
+    "mtime": 1784411546.2107468,
+    "ast_hash": "6ced89fa034956f20514aed812e797f3",
+    "semantic_hash": "6ced89fa034956f20514aed812e797f3"
+  },
+  "Tests/Editor/ContainerResolveFromResolveTests.cs": {
+    "mtime": 1782246278.4254696,
+    "ast_hash": "6eb13c8c53b8685f4b38c996e3ded5e2",
+    "semantic_hash": "6eb13c8c53b8685f4b38c996e3ded5e2"
+  },
+  "Tests/Editor/ContainerResolveFromSubcontainerTests.cs": {
+    "mtime": 1784311049.7432375,
+    "ast_hash": "cb0577e553de40e5f09002aa6dc7441c",
+    "semantic_hash": "cb0577e553de40e5f09002aa6dc7441c"
+  },
+  "Tests/Editor/ContainerResolveGameObjectConfigurationTests.cs": {
+    "mtime": 1784227857.9454856,
+    "ast_hash": "5314175d4c925d4dd2cd87b3a979bc2c",
+    "semantic_hash": "5314175d4c925d4dd2cd87b3a979bc2c"
+  },
+  "Tests/Editor/ContainerResolveParentTests.cs": {
+    "mtime": 1782246278.4257796,
+    "ast_hash": "9d2f5fb1dc1ab9e932184ae5df55d2c1",
+    "semantic_hash": "9d2f5fb1dc1ab9e932184ae5df55d2c1"
+  },
+  "Tests/Editor/ContainerResolveScopeTests.cs": {
+    "mtime": 1782246278.4259143,
+    "ast_hash": "e3b622e40ea508807d9ea12ed6226122",
+    "semantic_hash": "e3b622e40ea508807d9ea12ed6226122"
+  },
+  "Tests/Editor/ContainerResolveTestFixture.cs": {
+    "mtime": 1782246278.4260254,
+    "ast_hash": "fc095a1796c9401c41a7689e58d94d69",
+    "semantic_hash": "fc095a1796c9401c41a7689e58d94d69"
+  },
+  "Tests/Editor/ContainerTryResolveTests.cs": {
+    "mtime": 1784449925.1369152,
+    "ast_hash": "02fea43bdc549aaf77ead17a2e4f1a97",
+    "semantic_hash": "02fea43bdc549aaf77ead17a2e4f1a97"
+  },
+  "Tests/Editor/ContextLifecycleTests.cs": {
+    "mtime": 1784411546.0995383,
+    "ast_hash": "6965f2c6a8b70258e45e03815cd43c05",
+    "semantic_hash": "6965f2c6a8b70258e45e03815cd43c05"
+  },
+  "Tests/Editor/ContextTestUtility.cs": {
+    "mtime": 1784064415.494273,
+    "ast_hash": "59416ec9de5f454b10ca89ce046273ec",
+    "semantic_hash": "59416ec9de5f454b10ca89ce046273ec"
+  },
+  "Tests/Editor/ReflectionCacheConstructorTests.cs": {
+    "mtime": 1782246278.426144,
+    "ast_hash": "72de87552774f1575749a1758dd82680",
+    "semantic_hash": "72de87552774f1575749a1758dd82680"
+  },
+  "Tests/Editor/ReflectionCacheMethodInjectionTests.cs": {
+    "mtime": 1782246278.4263527,
+    "ast_hash": "f5db0f226f85f88033fc285c7ba45db7",
+    "semantic_hash": "f5db0f226f85f88033fc285c7ba45db7"
+  },
+  "Tests/Editor/ReflectionCacheTestFixture.cs": {
+    "mtime": 1782246278.4265068,
+    "ast_hash": "370e3aa545e8f5e63838233bd3562d31",
+    "semantic_hash": "370e3aa545e8f5e63838233bd3562d31"
+  },
+  "Tests/Editor/ReflectionCacheTests.cs": {
+    "mtime": 1782246278.4267786,
+    "ast_hash": "e46906d42e5bd15752d78ebd2447e8e1",
+    "semantic_hash": "e46906d42e5bd15752d78ebd2447e8e1"
+  },
+  "Tests/Editor/TickableManagerTests.cs": {
+    "mtime": 1781712684.4180174,
+    "ast_hash": "72d77edab10f6ae33532f3fc74569496",
+    "semantic_hash": "72d77edab10f6ae33532f3fc74569496"
+  },
+  "Tests/Runtime/ContainerPoolRuntimeTests.cs": {
+    "mtime": 1783015801.0307124,
+    "ast_hash": "8d123adce668955477353724da1d2ce2",
+    "semantic_hash": "8d123adce668955477353724da1d2ce2"
+  },
+  "Tests/Runtime/Fixtures/AbstractClass.cs": {
+    "mtime": 1780945977.9581077,
+    "ast_hash": "06a8df21c5f2a21585400f430e39bcf0",
+    "semantic_hash": "06a8df21c5f2a21585400f430e39bcf0"
+  },
+  "Tests/Runtime/Fixtures/AbstractScript.cs": {
+    "mtime": 1780945977.9619524,
+    "ast_hash": "f72d05e1bc291d3cd5dfdea5d62f604a",
+    "semantic_hash": "f72d05e1bc291d3cd5dfdea5d62f604a"
+  },
+  "Tests/Runtime/Fixtures/Class.cs": {
+    "mtime": 1780945977.963238,
+    "ast_hash": "7611e7baceff34a97964739b723accd5",
+    "semantic_hash": "7611e7baceff34a97964739b723accd5"
+  },
+  "Tests/Runtime/Fixtures/ClassImplementedAbstractClass.cs": {
+    "mtime": 1780945977.9690611,
+    "ast_hash": "da561c72e0dd7fe740b2ec6ee6702bd0",
+    "semantic_hash": "da561c72e0dd7fe740b2ec6ee6702bd0"
+  },
+  "Tests/Runtime/Fixtures/ClassImplementedIInterface.cs": {
+    "mtime": 1780945977.9765787,
+    "ast_hash": "abea0fc6026188b4d05e94fffb9ee260",
+    "semantic_hash": "abea0fc6026188b4d05e94fffb9ee260"
+  },
+  "Tests/Runtime/Fixtures/ClassWithEntryPoint.cs": {
+    "mtime": 1781712684.4182117,
+    "ast_hash": "c803ef53385949a4aff5b25daffa2cb7",
+    "semantic_hash": "c803ef53385949a4aff5b25daffa2cb7"
+  },
+  "Tests/Runtime/Fixtures/ClassWithPrivateConstructor.cs": {
+    "mtime": 1780945977.9807267,
+    "ast_hash": "823cb823abf465fb61d17b0d736a08e9",
+    "semantic_hash": "823cb823abf465fb61d17b0d736a08e9"
+  },
+  "Tests/Runtime/Fixtures/IInterface.cs": {
+    "mtime": 1780945977.9811711,
+    "ast_hash": "7ced22f34fb0862a88d98ca0a2307a3f",
+    "semantic_hash": "7ced22f34fb0862a88d98ca0a2307a3f"
+  },
+  "Tests/Runtime/Fixtures/InjectableScript.cs": {
+    "mtime": 1780945977.9815872,
+    "ast_hash": "10437724c721c06f90d903c6405e97f7",
+    "semantic_hash": "10437724c721c06f90d903c6405e97f7"
+  },
+  "Tests/Runtime/Fixtures/Script.cs": {
+    "mtime": 1780945977.983131,
+    "ast_hash": "323a0d769c8a2307bb61e58de30eaef2",
+    "semantic_hash": "323a0d769c8a2307bb61e58de30eaef2"
+  },
+  "Tests/Runtime/Fixtures/ScriptImplementedIInterface.cs": {
+    "mtime": 1780945977.9850788,
+    "ast_hash": "513f3879cab06231c861a6eb20247714",
+    "semantic_hash": "513f3879cab06231c861a6eb20247714"
+  },
+  "Tests/Runtime/Fixtures/ScriptWithEntryPoint.cs": {
+    "mtime": 1781712684.4183962,
+    "ast_hash": "48838df31437bdfc0c6f7736c138a8f1",
+    "semantic_hash": "48838df31437bdfc0c6f7736c138a8f1"
+  },
+  "Tests/Runtime/SceneLoaderTests.cs": {
+    "mtime": 1784228395.441964,
+    "ast_hash": "5bdec228d457a095b01c3ed6054bb6f0",
+    "semantic_hash": "5bdec228d457a095b01c3ed6054bb6f0"
+  },
+  "package.json": {
+    "mtime": 1780497838.8850305,
+    "ast_hash": "72d37eafc722dce2738b508669ceb5f1",
+    "semantic_hash": "72d37eafc722dce2738b508669ceb5f1"
+  }
+}

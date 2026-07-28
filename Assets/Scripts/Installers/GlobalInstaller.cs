@@ -16,8 +16,9 @@ public class GlobalInstaller : MonoInstaller
         container.Bind<ProjectController>().AsEntryPoint();
     }
 
-    private float FloatGetter(Container container, InjectContext injectContext)
+    private float FloatGetter(InjectContext injectContext)
     {
+        Debug.Log(injectContext.Container);
         Debug.Log(injectContext.ConsumerInstance);
         Debug.Log(injectContext.ConsumerType);
         Debug.Log(injectContext.ContractType);
