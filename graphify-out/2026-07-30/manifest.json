@@ -25,9 +25,9 @@
     "semantic_hash": "fdb2673015bbacef064f06e6ffd10512"
   },
   "Assets/Scripts/Installers/GlobalInstaller.cs": {
-    "mtime": 1785247024.2660952,
-    "ast_hash": "171d9c2ffa5df7ceb723d3a19a66737d",
-    "semantic_hash": "171d9c2ffa5df7ceb723d3a19a66737d"
+    "mtime": 1785403673.8905158,
+    "ast_hash": "990ef1a6b4d2ac36f16bb168bb618936",
+    "semantic_hash": "990ef1a6b4d2ac36f16bb168bb618936"
   },
   "Assets/Scripts/MusicController.cs": {
     "mtime": 1783280505.7342405,
@@ -35,9 +35,9 @@
     "semantic_hash": "7c5a2ddc2686526f894221d52beba44c"
   },
   "Assets/Scripts/ProjectController.cs": {
-    "mtime": 1785247173.2071242,
-    "ast_hash": "284cddb32084f3bdc34d756f2c81d2ba",
-    "semantic_hash": "284cddb32084f3bdc34d756f2c81d2ba"
+    "mtime": 1785403703.1332295,
+    "ast_hash": "579e6425fff5f5ca3c1a0f8d4029a61e",
+    "semantic_hash": "579e6425fff5f5ca3c1a0f8d4029a61e"
   },
   "Assets/Scripts/Providers/MusicClipsProvider.cs": {
     "mtime": 1783255440.1485674,
@@ -1260,9 +1260,9 @@
     "semantic_hash": "8fa803f8a0f60fb84edf18eaf8a0a334"
   },
   "Packages/com.codomaster.uniject/Runtime/Bindings/BindingToTypeFromBuilder.cs": {
-    "mtime": 1785315058.0907729,
-    "ast_hash": "b3ff383162136f0d5a093e067033782f",
-    "semantic_hash": "b3ff383162136f0d5a093e067033782f"
+    "mtime": 1785402964.9079895,
+    "ast_hash": "f8a65047ebad40fb45466736e11234ad",
+    "semantic_hash": "f8a65047ebad40fb45466736e11234ad"
   },
   "Packages/com.codomaster.uniject/Runtime/Bindings/BindingToTypeNonLazyBuilder.cs": {
     "mtime": 1782249431.4745753,
@@ -1270,9 +1270,9 @@
     "semantic_hash": "d5794155596fd77d72afb51283fd43f9"
   },
   "Packages/com.codomaster.uniject/Runtime/Bindings/BindingToTypeToBuilder.cs": {
-    "mtime": 1785315058.1966128,
-    "ast_hash": "05c6fd63702ad3070df1be05ed4f6f71",
-    "semantic_hash": "05c6fd63702ad3070df1be05ed4f6f71"
+    "mtime": 1785402965.015664,
+    "ast_hash": "b7f83454b24e2951f51048bd34b8cbd8",
+    "semantic_hash": "b7f83454b24e2951f51048bd34b8cbd8"
   },
   "Packages/com.codomaster.uniject/Runtime/Bindings/BindingToTypeUnderTransformBuilder.cs": {
     "mtime": 1784052832.040753,
@@ -1305,14 +1305,14 @@
     "semantic_hash": "355124d7fe90cbe88db8a9a9218132e3"
   },
   "Packages/com.codomaster.uniject/Runtime/Bindings/Factories/BindingToFactoryFromBuilder.cs": {
-    "mtime": 1785233439.7680075,
-    "ast_hash": "9ea14d9a8c0737811aef4ca619ab1d05",
-    "semantic_hash": "9ea14d9a8c0737811aef4ca619ab1d05"
+    "mtime": 1785402965.1211138,
+    "ast_hash": "ccc5c1b031ef08294373a2b918371f54",
+    "semantic_hash": "ccc5c1b031ef08294373a2b918371f54"
   },
   "Packages/com.codomaster.uniject/Runtime/Bindings/Factories/BindingToFactoryToBuilder.cs": {
-    "mtime": 1785233439.874884,
-    "ast_hash": "bfb500235acb68c40a7b8cd8f573a85e",
-    "semantic_hash": "bfb500235acb68c40a7b8cd8f573a85e"
+    "mtime": 1785402965.2236404,
+    "ast_hash": "bf034ada56f2a7bbf2aca71b605529cf",
+    "semantic_hash": "bf034ada56f2a7bbf2aca71b605529cf"
   },
   "Packages/com.codomaster.uniject/Runtime/Bindings/Factories/BindingToFactoryWithParameter.cs": {
     "mtime": 1785229675.2976832,
@@ -1425,9 +1425,9 @@
     "semantic_hash": "633d73dde5d2ed8903a98bf518c582a3"
   },
   "Packages/com.codomaster.uniject/Runtime/Container.cs": {
-    "mtime": 1785233388.6056442,
-    "ast_hash": "65f6d949c80b0b28e143338f1d0f2b53",
-    "semantic_hash": "65f6d949c80b0b28e143338f1d0f2b53"
+    "mtime": 1785403414.1758265,
+    "ast_hash": "bf185303d8e5363617ef7f8f0d1c44b3",
+    "semantic_hash": "bf185303d8e5363617ef7f8f0d1c44b3"
   },
   "Packages/com.codomaster.uniject/Runtime/Contexts/Context.cs": {
     "mtime": 1784411265.4826233,
@@ -2083,5 +2083,20 @@
     "mtime": 1785315234.6995227,
     "ast_hash": "128e807f2696b98ef6e042f7c01a1ada",
     "semantic_hash": "128e807f2696b98ef6e042f7c01a1ada"
+  },
+  "Packages/com.codomaster.uniject/Runtime/InstanceGetters/InstanceGetterFromComponentInHierarchy.cs": {
+    "mtime": 1785403414.2892787,
+    "ast_hash": "07a6f869d80af5d4cabd071735b85cc6",
+    "semantic_hash": "07a6f869d80af5d4cabd071735b85cc6"
+  },
+  "Packages/com.codomaster.uniject/Tests/Editor/ContainerFactoryFromComponentInHierarchyTests.cs": {
+    "mtime": 1785404942.6516936,
+    "ast_hash": "4deb674f009c6682dd06dc83e4aecdaa",
+    "semantic_hash": "4deb674f009c6682dd06dc83e4aecdaa"
+  },
+  "Packages/com.codomaster.uniject/Tests/Editor/ContainerResolveFromComponentInHierarchyTests.cs": {
+    "mtime": 1785404987.3438354,
+    "ast_hash": "3ce4442b437c124a69d5fc43f25dec99",
+    "semantic_hash": "3ce4442b437c124a69d5fc43f25dec99"
   }
 }
