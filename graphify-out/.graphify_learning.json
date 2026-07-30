@@ -1,6 +1,43 @@
 {
-  "generated_at": "2026-07-30T16:19:45.462655+00:00",
+  "generated_at": "2026-07-30T16:41:04.800993+00:00",
   "nodes": {
+    "packages_com_codomaster_uniject_tests_editor_containerresolvefromcomponentinhierarchytests_uniject_tests_containerresolvefromcomponentinhierarchytests": {
+      "code_fingerprint": "d01319785ba4b47b3b38c2a3db29c7198deef8d41d884e0f4bac3fc3fecaadc3",
+      "label": "ContainerResolveFromComponentInHierarchyTests",
+      "last": "2026-07-30T16:38:30.310693+00:00",
+      "provenance": [
+        {
+          "date": "2026-07-30T16:38:30.310693+00:00",
+          "outcome": "useful",
+          "q": "Теперь я хочу сделать метод FromComponentInChildren, который рекурсивно ищет компонент на том игровом объекте в который происходит внедрение и на его детях."
+        }
+      ],
+      "score": 0.999958687,
+      "source_file": "Packages/com.codomaster.uniject/Tests/Editor/ContainerResolveFromComponentInHierarchyTests.cs",
+      "status": "tentative",
+      "uses": 1
+    },
+    "packages_com_codomaster_uniject_tests_editor_containerresolvefromcomponentonconsumertests_uniject_tests_containerresolvefromcomponentonconsumertests": {
+      "code_fingerprint": "0a7f7ae9cf36e5659a57e1e8062900f93c91d3527001e1ef18faabd8dd94cfd2",
+      "label": "ContainerResolveFromComponentOnConsumerTests",
+      "last": "2026-07-30T16:38:30.310693+00:00",
+      "provenance": [
+        {
+          "date": "2026-07-30T16:38:30.310693+00:00",
+          "outcome": "useful",
+          "q": "Теперь я хочу сделать метод FromComponentInChildren, который рекурсивно ищет компонент на том игровом объекте в который происходит внедрение и на его детях."
+        },
+        {
+          "date": "2026-07-30T16:29:08.446957+00:00",
+          "outcome": "useful",
+          "q": "PLEASE IMPLEMENT THIS PLAN: Добавление FromComponentInParents"
+        }
+      ],
+      "score": 1.99976714,
+      "source_file": "Packages/com.codomaster.uniject/Tests/Editor/ContainerResolveFromComponentOnConsumerTests.cs",
+      "status": "preferred",
+      "uses": 2
+    },
     "packages_com_codomaster_uniject_tests_editor_contexttestutility_uniject_tests_contexttestutility": {
       "code_fingerprint": "f81b1944af64c35662258591df81d3008802d8b91a8647b495b1742585ca938e",
       "label": "ContextTestUtility",
@@ -12,7 +49,7 @@
           "q": "Теперь напиши тесты для FromComponentInHierarchy"
         }
       ],
-      "score": 0.993770023,
+      "score": 0.993430095,
       "source_file": "Packages/com.codomaster.uniject/Tests/Editor/ContextTestUtility.cs",
       "status": "tentative",
       "uses": 1
