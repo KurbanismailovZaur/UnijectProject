@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-07-30T16:41:04.800993+00:00",
+  "generated_at": "2026-07-30T20:32:17.750134+00:00",
   "nodes": {
+    "csharp_namespace:ad3a20f2f19e10d0": {
+      "code_fingerprint": "dce40ee5053f1db7632efc52d1ecc3655eb8b41cd8c80ab593b8dc3fb41648e8",
+      "label": "Uniject.InstanceGetters",
+      "last": "2026-07-30T16:51:58.356548+00:00",
+      "provenance": [
+        {
+          "date": "2026-07-30T16:51:58.356548+00:00",
+          "outcome": "useful",
+          "q": "Теперь я хочу сделать метод FromComponentInChildren, который рекурсивно ищет компонент на том игровом объекте в который происходит внедрение и на его детях."
+        }
+      ],
+      "score": 0.996471139,
+      "source_file": "Packages/com.codomaster.uniject/Runtime/InstanceGetters/InstanceGetter.cs",
+      "status": "tentative",
+      "uses": 1
+    },
+    "packages_com_codomaster_uniject_runtime_bindings_scope_uniject_bindings_scope": {
+      "code_fingerprint": "c6441a0b5173b02b6e7b19e1019c29ee592dda0b6210ffade5a44dc36f4b1892",
+      "label": "Scope",
+      "last": "2026-07-30T16:51:14.972880+00:00",
+      "provenance": [
+        {
+          "date": "2026-07-30T16:51:14.972880+00:00",
+          "outcome": "useful",
+          "q": "Read-only финальный review текущего package diff для FromComponentInChildren: runtime getter, три builder API, scope/error semantics и compile risks"
+        }
+      ],
+      "score": 0.996459578,
+      "source_file": "Packages/com.codomaster.uniject/Runtime/Bindings/Scope.cs",
+      "status": "tentative",
+      "uses": 1
+    },
+    "packages_com_codomaster_uniject_runtime_instancegetters_instancegetterfromcomponentonconsumer_uniject_instancegetters_instancegetterfromcomponentonconsumer": {
+      "code_fingerprint": "95a986e8afe75df548185659375c4e8b5a8424dd01eb89e86fe0067ee3fa7417",
+      "label": "InstanceGetterFromComponentOnConsumer",
+      "last": "2026-07-30T16:51:14.972880+00:00",
+      "provenance": [
+        {
+          "date": "2026-07-30T16:51:14.972880+00:00",
+          "outcome": "useful",
+          "q": "Read-only финальный review текущего package diff для FromComponentInChildren: runtime getter, три builder API, scope/error semantics и compile risks"
+        }
+      ],
+      "score": 0.996459578,
+      "source_file": "Packages/com.codomaster.uniject/Runtime/InstanceGetters/InstanceGetterFromComponentOnConsumer.cs",
+      "status": "tentative",
+      "uses": 1
+    },
     "packages_com_codomaster_uniject_tests_editor_containerresolvefromcomponentinhierarchytests_uniject_tests_containerresolvefromcomponentinhierarchytests": {
       "code_fingerprint": "d01319785ba4b47b3b38c2a3db29c7198deef8d41d884e0f4bac3fc3fecaadc3",
       "label": "ContainerResolveFromComponentInHierarchyTests",
@@ -12,7 +60,7 @@
           "q": "Теперь я хочу сделать метод FromComponentInChildren, который рекурсивно ищет компонент на том игровом объекте в который происходит внедрение и на его детях."
         }
       ],
-      "score": 0.999958687,
+      "score": 0.996255839,
       "source_file": "Packages/com.codomaster.uniject/Tests/Editor/ContainerResolveFromComponentInHierarchyTests.cs",
       "status": "tentative",
       "uses": 1
@@ -20,8 +68,13 @@
     "packages_com_codomaster_uniject_tests_editor_containerresolvefromcomponentonconsumertests_uniject_tests_containerresolvefromcomponentonconsumertests": {
       "code_fingerprint": "0a7f7ae9cf36e5659a57e1e8062900f93c91d3527001e1ef18faabd8dd94cfd2",
       "label": "ContainerResolveFromComponentOnConsumerTests",
-      "last": "2026-07-30T16:38:30.310693+00:00",
+      "last": "2026-07-30T16:51:58.356548+00:00",
       "provenance": [
+        {
+          "date": "2026-07-30T16:51:58.356548+00:00",
+          "outcome": "useful",
+          "q": "Теперь я хочу сделать метод FromComponentInChildren, который рекурсивно ищет компонент на том игровом объекте в который происходит внедрение и на его детях."
+        },
         {
           "date": "2026-07-30T16:38:30.310693+00:00",
           "outcome": "useful",
@@ -33,10 +86,10 @@
           "q": "PLEASE IMPLEMENT THIS PLAN: Добавление FromComponentInParents"
         }
       ],
-      "score": 1.99976714,
+      "score": 2.988833137,
       "source_file": "Packages/com.codomaster.uniject/Tests/Editor/ContainerResolveFromComponentOnConsumerTests.cs",
       "status": "preferred",
-      "uses": 2
+      "uses": 3
     },
     "packages_com_codomaster_uniject_tests_editor_contexttestutility_uniject_tests_contexttestutility": {
       "code_fingerprint": "f81b1944af64c35662258591df81d3008802d8b91a8647b495b1742585ca938e",
@@ -49,7 +102,7 @@
           "q": "Теперь напиши тесты для FromComponentInHierarchy"
         }
       ],
-      "score": 0.993430095,
+      "score": 0.989751421,
       "source_file": "Packages/com.codomaster.uniject/Tests/Editor/ContextTestUtility.cs",
       "status": "tentative",
       "uses": 1
