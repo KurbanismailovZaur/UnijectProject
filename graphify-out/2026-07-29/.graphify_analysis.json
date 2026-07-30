@@ -946,50 +946,6 @@
       "wrappedevent"
     ],
     "15": [
-      "assets_stompyrobot_srdebugger_scripts_ui_other_bugreportpopoverroot",
-      "assets_stompyrobot_srdebugger_scripts_ui_other_bugreportpopoverroot_cs_canvasgroup",
-      "assets_stompyrobot_srdebugger_scripts_ui_other_bugreportpopoverroot_cs_recttransform",
-      "assets_stompyrobot_srdebugger_scripts_ui_other_bugreportpopoverroot_srdebugger_ui_other_bugreportpopoverroot",
-      "assets_stompyrobot_srdebugger_scripts_ui_other_categorygroup",
-      "assets_stompyrobot_srdebugger_scripts_ui_other_categorygroup_cs_bool",
-      "assets_stompyrobot_srdebugger_scripts_ui_other_categorygroup_cs_gameobject",
-      "assets_stompyrobot_srdebugger_scripts_ui_other_categorygroup_cs_recttransform",
-      "assets_stompyrobot_srdebugger_scripts_ui_other_categorygroup_cs_text",
-      "assets_stompyrobot_srdebugger_scripts_ui_other_categorygroup_cs_toggle",
-      "assets_stompyrobot_srdebugger_scripts_ui_other_categorygroup_srdebugger_ui_other_categorygroup",
-      "assets_stompyrobot_srdebugger_scripts_ui_other_dockconsolecontroller",
-      "assets_stompyrobot_srdebugger_scripts_ui_other_errornotifier",
-      "assets_stompyrobot_srdebugger_scripts_ui_other_errornotifier_cs_animator",
-      "assets_stompyrobot_srdebugger_scripts_ui_other_errornotifier_cs_bool",
-      "assets_stompyrobot_srdebugger_scripts_ui_other_errornotifier_cs_float",
-      "assets_stompyrobot_srdebugger_scripts_ui_other_errornotifier_cs_int",
-      "assets_stompyrobot_srdebugger_scripts_ui_other_errornotifier_srdebugger_ui_other_errornotifier",
-      "assets_stompyrobot_srdebugger_scripts_ui_other_errornotifier_srdebugger_ui_other_errornotifier_awake",
-      "assets_stompyrobot_srdebugger_scripts_ui_other_errornotifier_srdebugger_ui_other_errornotifier_showerrorwarning",
-      "assets_stompyrobot_srdebugger_scripts_ui_other_errornotifier_srdebugger_ui_other_errornotifier_update",
-      "assets_stompyrobot_srdebugger_scripts_ui_other_handlemanager",
-      "assets_stompyrobot_srdebugger_scripts_ui_other_ienabletab",
-      "assets_stompyrobot_srdebugger_scripts_ui_other_ienabletab_srdebugger_ui_other_ienabletab",
-      "assets_stompyrobot_srdebugger_scripts_ui_other_scrollsettingsbehaviour",
-      "assets_stompyrobot_srdebugger_scripts_ui_other_scrollsettingsbehaviour_cs_float",
-      "assets_stompyrobot_srdebugger_scripts_ui_other_scrollsettingsbehaviour_srdebugger_ui_other_scrollsettingsbehaviour",
-      "assets_stompyrobot_srdebugger_scripts_ui_other_scrollsettingsbehaviour_srdebugger_ui_other_scrollsettingsbehaviour_awake",
-      "assets_stompyrobot_srdebugger_scripts_ui_other_setlayerfromsettings",
-      "assets_stompyrobot_srdebugger_scripts_ui_other_setlayerfromsettings_srdebugger_ui_other_setlayerfromsettings",
-      "assets_stompyrobot_srdebugger_scripts_ui_other_setlayerfromsettings_srdebugger_ui_other_setlayerfromsettings_start",
-      "assets_stompyrobot_srdebugger_scripts_ui_other_triggerroot",
-      "assets_stompyrobot_srdebugger_scripts_ui_other_triggerroot_cs_canvas",
-      "assets_stompyrobot_srdebugger_scripts_ui_other_triggerroot_cs_recttransform",
-      "assets_stompyrobot_srdebugger_scripts_ui_other_triggerroot_srdebugger_ui_other_triggerroot",
-      "assets_stompyrobot_srdebugger_scripts_ui_other_versiontextbehaviour",
-      "assets_stompyrobot_srdebugger_scripts_ui_other_versiontextbehaviour_cs_string",
-      "assets_stompyrobot_srdebugger_scripts_ui_other_versiontextbehaviour_cs_text",
-      "assets_stompyrobot_srdebugger_scripts_ui_other_versiontextbehaviour_srdebugger_ui_other_versiontextbehaviour",
-      "assets_stompyrobot_srdebugger_scripts_ui_other_versiontextbehaviour_srdebugger_ui_other_versiontextbehaviour_start",
-      "csharp_namespace:2114ed8363e7ac0f",
-      "multitapbutton"
-    ],
-    "16": [
       "assets_stompyrobot_srdebugger_scripts_ui_other_floatoverelement",
       "assets_stompyrobot_srdebugger_scripts_ui_other_floatoverelement_cs_recttransform",
       "assets_stompyrobot_srdebugger_scripts_ui_other_floatoverelement_srdebugger_ui_other_floatoverelement",
@@ -1033,7 +989,7 @@
       "text",
       "uibehaviour"
     ],
-    "17": [
+    "16": [
       "assetimporter",
       "assets_vtabs_vtabslibs",
       "assets_vtabs_vtabslibs_cs_idictionary",
@@ -1075,6 +1031,49 @@
       "assets_vtabs_vtabsplaceholderwindow_vtabs_vtabsplaceholderwindow_ongui",
       "csharp_namespace:0d48cba24061671b",
       "globalobjectid"
+    ],
+    "17": [
+      "assets_stompyrobot_srdebugger_scripts_ui_controls_data_boolcontrol",
+      "assets_stompyrobot_srdebugger_scripts_ui_controls_data_enumcontrol",
+      "assets_stompyrobot_srdebugger_scripts_ui_controls_data_numbercontrol",
+      "assets_stompyrobot_srdebugger_scripts_ui_controls_data_stringcontrol",
+      "assets_stompyrobot_srdebugger_scripts_ui_other_debugpanelbackgroundbehaviour",
+      "assets_stompyrobot_srdebugger_scripts_ui_other_debugpanelbackgroundbehaviour_cs_string",
+      "assets_stompyrobot_srdebugger_scripts_ui_other_debugpanelbackgroundbehaviour_srdebugger_ui_other_debugpanelbackgroundbehaviour",
+      "assets_stompyrobot_srdebugger_scripts_ui_other_errornotifier",
+      "assets_stompyrobot_srdebugger_scripts_ui_other_errornotifier_cs_animator",
+      "assets_stompyrobot_srdebugger_scripts_ui_other_errornotifier_cs_bool",
+      "assets_stompyrobot_srdebugger_scripts_ui_other_errornotifier_cs_float",
+      "assets_stompyrobot_srdebugger_scripts_ui_other_errornotifier_cs_int",
+      "assets_stompyrobot_srdebugger_scripts_ui_other_errornotifier_srdebugger_ui_other_errornotifier",
+      "assets_stompyrobot_srdebugger_scripts_ui_other_errornotifier_srdebugger_ui_other_errornotifier_awake",
+      "assets_stompyrobot_srdebugger_scripts_ui_other_errornotifier_srdebugger_ui_other_errornotifier_showerrorwarning",
+      "assets_stompyrobot_srdebugger_scripts_ui_other_errornotifier_srdebugger_ui_other_errornotifier_update",
+      "assets_stompyrobot_srdebugger_scripts_ui_other_triggerroot",
+      "assets_stompyrobot_srdebugger_scripts_ui_other_triggerroot_cs_canvas",
+      "assets_stompyrobot_srdebugger_scripts_ui_other_triggerroot_cs_recttransform",
+      "assets_stompyrobot_srdebugger_scripts_ui_other_triggerroot_srdebugger_ui_other_triggerroot",
+      "assets_stompyrobot_srf_scripts_ui_copypreferredsize",
+      "assets_stompyrobot_srf_scripts_ui_copypreferredsize_cs_float",
+      "assets_stompyrobot_srf_scripts_ui_copypreferredsize_cs_recttransform",
+      "assets_stompyrobot_srf_scripts_ui_copypreferredsize_srf_ui_copypreferredsize",
+      "assets_stompyrobot_srf_scripts_ui_copypreferredsizes",
+      "assets_stompyrobot_srf_scripts_ui_copypreferredsizes_cs_float",
+      "assets_stompyrobot_srf_scripts_ui_copypreferredsizes_cs_recttransform",
+      "assets_stompyrobot_srf_scripts_ui_copypreferredsizes_srf_ui_copypreferredsizes",
+      "assets_stompyrobot_srf_scripts_ui_copypreferredsizes_srf_ui_copysource",
+      "assets_stompyrobot_srf_scripts_ui_copypreferredsizes_srf_ui_operations",
+      "assets_stompyrobot_srf_scripts_ui_copysizeintolayoutelement",
+      "assets_stompyrobot_srf_scripts_ui_copysizeintolayoutelement_cs_bool",
+      "assets_stompyrobot_srf_scripts_ui_copysizeintolayoutelement_cs_float",
+      "assets_stompyrobot_srf_scripts_ui_copysizeintolayoutelement_cs_recttransform",
+      "assets_stompyrobot_srf_scripts_ui_copysizeintolayoutelement_srf_ui_copysizeintolayoutelement",
+      "copysource",
+      "csharp_namespace:3e2fd8eaf4a7256f",
+      "csharp_namespace:6072abc603c6070e",
+      "layoutelement",
+      "multitapbutton",
+      "operations"
     ],
     "18": [
       "assets_stompyrobot_srdebugger_scripts_internal_internalbugreporterhandler",
@@ -1827,39 +1826,6 @@
       "csharp_namespace:a70b9a1c6ff39688"
     ],
     "38": [
-      "assets_stompyrobot_srdebugger_scripts_ui_controls_data_boolcontrol",
-      "assets_stompyrobot_srdebugger_scripts_ui_controls_data_boolcontrol_cs_text",
-      "assets_stompyrobot_srdebugger_scripts_ui_controls_data_boolcontrol_cs_toggle",
-      "assets_stompyrobot_srdebugger_scripts_ui_controls_data_boolcontrol_cs_type",
-      "assets_stompyrobot_srdebugger_scripts_ui_controls_data_boolcontrol_srdebugger_ui_controls_data_boolcontrol",
-      "assets_stompyrobot_srdebugger_scripts_ui_controls_data_boolcontrol_srdebugger_ui_controls_data_boolcontrol_canbind",
-      "assets_stompyrobot_srdebugger_scripts_ui_controls_data_boolcontrol_srdebugger_ui_controls_data_boolcontrol_onbind",
-      "assets_stompyrobot_srdebugger_scripts_ui_controls_data_boolcontrol_srdebugger_ui_controls_data_boolcontrol_onvalueupdated",
-      "assets_stompyrobot_srdebugger_scripts_ui_controls_data_boolcontrol_srdebugger_ui_controls_data_boolcontrol_start",
-      "assets_stompyrobot_srdebugger_scripts_ui_controls_data_boolcontrol_srdebugger_ui_controls_data_boolcontrol_toggleonvaluechanged",
-      "assets_stompyrobot_srdebugger_scripts_ui_controls_data_databoundcontrol_srdebugger_ui_controls_databoundcontrol_updatevalue",
-      "assets_stompyrobot_srdebugger_scripts_ui_controls_data_numbercontrol_srdebugger_ui_controls_data_numbercontrol_onvaluechanged",
-      "assets_stompyrobot_srdebugger_scripts_ui_controls_data_readonlycontrol",
-      "assets_stompyrobot_srdebugger_scripts_ui_controls_data_readonlycontrol_cs_text",
-      "assets_stompyrobot_srdebugger_scripts_ui_controls_data_readonlycontrol_cs_type",
-      "assets_stompyrobot_srdebugger_scripts_ui_controls_data_readonlycontrol_srdebugger_ui_controls_data_readonlycontrol",
-      "assets_stompyrobot_srdebugger_scripts_ui_controls_data_readonlycontrol_srdebugger_ui_controls_data_readonlycontrol_canbind",
-      "assets_stompyrobot_srdebugger_scripts_ui_controls_data_readonlycontrol_srdebugger_ui_controls_data_readonlycontrol_onbind",
-      "assets_stompyrobot_srdebugger_scripts_ui_controls_data_readonlycontrol_srdebugger_ui_controls_data_readonlycontrol_onvalueupdated",
-      "assets_stompyrobot_srdebugger_scripts_ui_controls_data_readonlycontrol_srdebugger_ui_controls_data_readonlycontrol_start",
-      "assets_stompyrobot_srdebugger_scripts_ui_controls_data_stringcontrol",
-      "assets_stompyrobot_srdebugger_scripts_ui_controls_data_stringcontrol_cs_inputfield",
-      "assets_stompyrobot_srdebugger_scripts_ui_controls_data_stringcontrol_cs_text",
-      "assets_stompyrobot_srdebugger_scripts_ui_controls_data_stringcontrol_cs_type",
-      "assets_stompyrobot_srdebugger_scripts_ui_controls_data_stringcontrol_srdebugger_ui_controls_data_stringcontrol",
-      "assets_stompyrobot_srdebugger_scripts_ui_controls_data_stringcontrol_srdebugger_ui_controls_data_stringcontrol_canbind",
-      "assets_stompyrobot_srdebugger_scripts_ui_controls_data_stringcontrol_srdebugger_ui_controls_data_stringcontrol_onbind",
-      "assets_stompyrobot_srdebugger_scripts_ui_controls_data_stringcontrol_srdebugger_ui_controls_data_stringcontrol_onvaluechanged",
-      "assets_stompyrobot_srdebugger_scripts_ui_controls_data_stringcontrol_srdebugger_ui_controls_data_stringcontrol_onvalueupdated",
-      "assets_stompyrobot_srdebugger_scripts_ui_controls_data_stringcontrol_srdebugger_ui_controls_data_stringcontrol_start",
-      "databoundcontrol"
-    ],
-    "39": [
       "assets_textmesh_pro_examples_extras_scripts_benchmark02",
       "assets_textmesh_pro_examples_extras_scripts_benchmark02_cs_bool",
       "assets_textmesh_pro_examples_extras_scripts_benchmark02_cs_int",
@@ -1892,7 +1858,7 @@
       "waitforendofframe",
       "waitforseconds"
     ],
-    "40": [
+    "39": [
       "packages_com_codomaster_uniject_runtime_container_uniject_container_bindinstance",
       "packages_com_codomaster_uniject_runtime_container_uniject_container_tryresolve",
       "packages_com_codomaster_uniject_tests_editor_containerresolvefrominstancetests_uniject_tests_containerresolvefrominstancetests_resolve_bindinstance_returnssameinstance",
@@ -1925,7 +1891,7 @@
       "packages_com_codomaster_uniject_tests_editor_contextlifecycletests_uniject_tests_contextlifecycletests_teardown",
       "resolved"
     ],
-    "41": [
+    "40": [
       "assets_vtabs_vtabs_vtabs_vtabs_repaintalldockareas",
       "assets_vtabs_vtabsmenu_cs_menuitem",
       "assets_vtabs_vtabsmenu_cs_string",
@@ -1957,7 +1923,7 @@
       "assets_vtabs_vtabsmenu_vtabs_vtabsmenu_dadsas",
       "assets_vtabs_vtabsmenu_vtabs_vtabsmenu_dadsas123"
     ],
-    "42": [
+    "41": [
       "assets_vtabs_vtabs_vtabs_vtabs_setlockedfolderpath_onecolumn",
       "assets_vtabs_vtabsaddtabwindow_vtabs_vtabsaddtabwindow_rememberwindow",
       "assets_vtabs_vtabsgui_cs_bool",
@@ -1989,7 +1955,7 @@
       "mousedownevent",
       "tabinfo"
     ],
-    "43": [
+    "42": [
       "csharp_namespace:8f2e2dcb429f15a8",
       "ireadonlycollection",
       "packages_com_codomaster_uniject_runtime_collections_orderedset",
@@ -2021,7 +1987,7 @@
       "packages_com_codomaster_uniject_runtime_lifecycle_tickablemanager_uniject_lifecycle_tickablemanager_lateupdate",
       "packages_com_codomaster_uniject_runtime_lifecycle_tickablemanager_uniject_lifecycle_tickablemanager_update"
     ],
-    "44": [
+    "43": [
       "iinterface",
       "injectablescript",
       "packages_com_codomaster_uniject_tests_editor_containerresolvefromnewcomponentonconsumertests",
@@ -2052,6 +2018,37 @@
       "packages_com_codomaster_uniject_tests_editor_containerresolvefromnewcomponentonconsumertests_uniject_tests_plainconsumer_construct",
       "script",
       "test"
+    ],
+    "44": [
+      "assets_stompyrobot_srdebugger_scripts_ui_controls_data_boolcontrol_cs_text",
+      "assets_stompyrobot_srdebugger_scripts_ui_controls_data_boolcontrol_cs_toggle",
+      "assets_stompyrobot_srdebugger_scripts_ui_controls_data_boolcontrol_cs_type",
+      "assets_stompyrobot_srdebugger_scripts_ui_controls_data_boolcontrol_srdebugger_ui_controls_data_boolcontrol",
+      "assets_stompyrobot_srdebugger_scripts_ui_controls_data_boolcontrol_srdebugger_ui_controls_data_boolcontrol_canbind",
+      "assets_stompyrobot_srdebugger_scripts_ui_controls_data_boolcontrol_srdebugger_ui_controls_data_boolcontrol_onbind",
+      "assets_stompyrobot_srdebugger_scripts_ui_controls_data_boolcontrol_srdebugger_ui_controls_data_boolcontrol_onvalueupdated",
+      "assets_stompyrobot_srdebugger_scripts_ui_controls_data_boolcontrol_srdebugger_ui_controls_data_boolcontrol_start",
+      "assets_stompyrobot_srdebugger_scripts_ui_controls_data_boolcontrol_srdebugger_ui_controls_data_boolcontrol_toggleonvaluechanged",
+      "assets_stompyrobot_srdebugger_scripts_ui_controls_data_databoundcontrol_srdebugger_ui_controls_databoundcontrol_updatevalue",
+      "assets_stompyrobot_srdebugger_scripts_ui_controls_data_numbercontrol_srdebugger_ui_controls_data_numbercontrol_onvaluechanged",
+      "assets_stompyrobot_srdebugger_scripts_ui_controls_data_readonlycontrol",
+      "assets_stompyrobot_srdebugger_scripts_ui_controls_data_readonlycontrol_cs_text",
+      "assets_stompyrobot_srdebugger_scripts_ui_controls_data_readonlycontrol_cs_type",
+      "assets_stompyrobot_srdebugger_scripts_ui_controls_data_readonlycontrol_srdebugger_ui_controls_data_readonlycontrol",
+      "assets_stompyrobot_srdebugger_scripts_ui_controls_data_readonlycontrol_srdebugger_ui_controls_data_readonlycontrol_canbind",
+      "assets_stompyrobot_srdebugger_scripts_ui_controls_data_readonlycontrol_srdebugger_ui_controls_data_readonlycontrol_onbind",
+      "assets_stompyrobot_srdebugger_scripts_ui_controls_data_readonlycontrol_srdebugger_ui_controls_data_readonlycontrol_onvalueupdated",
+      "assets_stompyrobot_srdebugger_scripts_ui_controls_data_readonlycontrol_srdebugger_ui_controls_data_readonlycontrol_start",
+      "assets_stompyrobot_srdebugger_scripts_ui_controls_data_stringcontrol_cs_inputfield",
+      "assets_stompyrobot_srdebugger_scripts_ui_controls_data_stringcontrol_cs_text",
+      "assets_stompyrobot_srdebugger_scripts_ui_controls_data_stringcontrol_cs_type",
+      "assets_stompyrobot_srdebugger_scripts_ui_controls_data_stringcontrol_srdebugger_ui_controls_data_stringcontrol",
+      "assets_stompyrobot_srdebugger_scripts_ui_controls_data_stringcontrol_srdebugger_ui_controls_data_stringcontrol_canbind",
+      "assets_stompyrobot_srdebugger_scripts_ui_controls_data_stringcontrol_srdebugger_ui_controls_data_stringcontrol_onbind",
+      "assets_stompyrobot_srdebugger_scripts_ui_controls_data_stringcontrol_srdebugger_ui_controls_data_stringcontrol_onvaluechanged",
+      "assets_stompyrobot_srdebugger_scripts_ui_controls_data_stringcontrol_srdebugger_ui_controls_data_stringcontrol_onvalueupdated",
+      "assets_stompyrobot_srdebugger_scripts_ui_controls_data_stringcontrol_srdebugger_ui_controls_data_stringcontrol_start",
+      "databoundcontrol"
     ],
     "45": [
       "assets_stompyrobot_srdebugger_scripts_ui_other_dockconsolecontroller_cs_bool",
@@ -2147,6 +2144,37 @@
       "packages_packages_lock_dependencies_com_unity_shadergraph"
     ],
     "48": [
+      "factory",
+      "iproduct",
+      "packages_com_codomaster_uniject_tests_editor_containerfactoryfromnewcomponentontests_uniject_tests_containerfactoryfromnewcomponentontests",
+      "packages_com_codomaster_uniject_tests_editor_containerfactoryfromnewcomponentontests_uniject_tests_containerfactoryfromnewcomponentontests_create_fromnewcomponenton_addsandinjectsnewcomponentforeverycreate",
+      "packages_com_codomaster_uniject_tests_editor_containerfactoryfromnewcomponentontests_uniject_tests_containerfactoryfromnewcomponentontests_create_fromnewcomponenton_whenresultcontractisinterface_returnsconcretecomponent",
+      "packages_com_codomaster_uniject_tests_editor_containerfactoryfromnewcomponentontests_uniject_tests_interfaceresultfactory",
+      "packages_com_codomaster_uniject_tests_editor_containerfactoryfromresolvetests_uniject_tests_containerfactoryfromresolvetests",
+      "packages_com_codomaster_uniject_tests_editor_containerfactoryfromresolvetests_uniject_tests_containerfactoryfromresolvetests_create_fromresolve_returnsresolvedresult",
+      "packages_com_codomaster_uniject_tests_editor_containerfactorytestfixture_cs_transform",
+      "packages_com_codomaster_uniject_tests_editor_containerfactorytestfixture_uniject_tests_classiproductfactory",
+      "packages_com_codomaster_uniject_tests_editor_containerfactorytestfixture_uniject_tests_containerfactorytestfixture",
+      "packages_com_codomaster_uniject_tests_editor_containerfactorytestfixture_uniject_tests_customscriptwithinterfaceparameterfactory",
+      "packages_com_codomaster_uniject_tests_editor_containerfactorytestfixture_uniject_tests_customscriptwithinterfaceparameterfactory_create",
+      "packages_com_codomaster_uniject_tests_editor_containerfactorytestfixture_uniject_tests_floatscriptfactory",
+      "packages_com_codomaster_uniject_tests_editor_containerfactorytestfixture_uniject_tests_gameobjectinterfacefactory",
+      "packages_com_codomaster_uniject_tests_editor_containerfactorytestfixture_uniject_tests_gameobjectiproductfactory",
+      "packages_com_codomaster_uniject_tests_editor_containerfactorytestfixture_uniject_tests_gameobjectscriptfactory",
+      "packages_com_codomaster_uniject_tests_editor_containerfactorytestfixture_uniject_tests_interfaceinterfacefactory",
+      "packages_com_codomaster_uniject_tests_editor_containerfactorytestfixture_uniject_tests_interfaceproductfactory",
+      "packages_com_codomaster_uniject_tests_editor_containerfactorytestfixture_uniject_tests_interfacescriptfactory",
+      "packages_com_codomaster_uniject_tests_editor_containerfactorytestfixture_uniject_tests_iproduct",
+      "packages_com_codomaster_uniject_tests_editor_containerfactorytestfixture_uniject_tests_product",
+      "packages_com_codomaster_uniject_tests_editor_containerfactorytestfixture_uniject_tests_scriptfactory",
+      "packages_com_codomaster_uniject_tests_editor_containerfactorytestfixture_uniject_tests_scriptscriptfactory",
+      "packages_com_codomaster_uniject_tests_editor_containerfactorytestfixture_uniject_tests_transformscriptfactory",
+      "packages_com_codomaster_uniject_tests_runtime_fixtures_classimplementediinterface",
+      "packages_com_codomaster_uniject_tests_runtime_fixtures_classimplementediinterface_uniject_tests_fixtures_classimplementediinterface",
+      "packages_com_codomaster_uniject_tests_runtime_fixtures_iinterface_uniject_tests_fixtures_iinterface",
+      "packages_com_codomaster_uniject_tests_runtime_fixtures_script_uniject_tests_fixtures_script"
+    ],
+    "49": [
       "packages_packages_lock_com_unity_modules_animation_dependencies",
       "packages_packages_lock_com_unity_modules_animation_depth",
       "packages_packages_lock_com_unity_modules_animation_source",
@@ -2177,37 +2205,37 @@
       "packages_packages_lock_json_com_unity_modules_director",
       "packages_packages_lock_json_com_unity_modules_particlesystem"
     ],
-    "49": [
-      "factory",
-      "iproduct",
-      "packages_com_codomaster_uniject_tests_editor_containerfactoryfromnewcomponentontests_uniject_tests_containerfactoryfromnewcomponentontests",
-      "packages_com_codomaster_uniject_tests_editor_containerfactoryfromnewcomponentontests_uniject_tests_containerfactoryfromnewcomponentontests_create_fromnewcomponenton_addsandinjectsnewcomponentforeverycreate",
-      "packages_com_codomaster_uniject_tests_editor_containerfactoryfromnewcomponentontests_uniject_tests_containerfactoryfromnewcomponentontests_create_fromnewcomponenton_whenresultcontractisinterface_returnsconcretecomponent",
-      "packages_com_codomaster_uniject_tests_editor_containerfactoryfromnewcomponentontests_uniject_tests_interfaceresultfactory",
-      "packages_com_codomaster_uniject_tests_editor_containerfactoryfromresolvetests_uniject_tests_containerfactoryfromresolvetests",
-      "packages_com_codomaster_uniject_tests_editor_containerfactoryfromresolvetests_uniject_tests_containerfactoryfromresolvetests_create_fromresolve_returnsresolvedresult",
-      "packages_com_codomaster_uniject_tests_editor_containerfactorytestfixture_cs_transform",
-      "packages_com_codomaster_uniject_tests_editor_containerfactorytestfixture_uniject_tests_classiproductfactory",
-      "packages_com_codomaster_uniject_tests_editor_containerfactorytestfixture_uniject_tests_containerfactorytestfixture",
-      "packages_com_codomaster_uniject_tests_editor_containerfactorytestfixture_uniject_tests_customscriptwithinterfaceparameterfactory",
-      "packages_com_codomaster_uniject_tests_editor_containerfactorytestfixture_uniject_tests_customscriptwithinterfaceparameterfactory_create",
-      "packages_com_codomaster_uniject_tests_editor_containerfactorytestfixture_uniject_tests_floatscriptfactory",
-      "packages_com_codomaster_uniject_tests_editor_containerfactorytestfixture_uniject_tests_gameobjectinterfacefactory",
-      "packages_com_codomaster_uniject_tests_editor_containerfactorytestfixture_uniject_tests_gameobjectiproductfactory",
-      "packages_com_codomaster_uniject_tests_editor_containerfactorytestfixture_uniject_tests_interfaceinterfacefactory",
-      "packages_com_codomaster_uniject_tests_editor_containerfactorytestfixture_uniject_tests_interfaceproductfactory",
-      "packages_com_codomaster_uniject_tests_editor_containerfactorytestfixture_uniject_tests_interfacescriptfactory",
-      "packages_com_codomaster_uniject_tests_editor_containerfactorytestfixture_uniject_tests_iproduct",
-      "packages_com_codomaster_uniject_tests_editor_containerfactorytestfixture_uniject_tests_product",
-      "packages_com_codomaster_uniject_tests_editor_containerfactorytestfixture_uniject_tests_scriptfactory",
-      "packages_com_codomaster_uniject_tests_editor_containerfactorytestfixture_uniject_tests_scriptscriptfactory",
-      "packages_com_codomaster_uniject_tests_editor_containerfactorytestfixture_uniject_tests_transformscriptfactory",
-      "packages_com_codomaster_uniject_tests_runtime_fixtures_classimplementediinterface",
-      "packages_com_codomaster_uniject_tests_runtime_fixtures_classimplementediinterface_uniject_tests_fixtures_classimplementediinterface",
-      "packages_com_codomaster_uniject_tests_runtime_fixtures_iinterface_uniject_tests_fixtures_iinterface",
-      "packages_com_codomaster_uniject_tests_runtime_fixtures_script_uniject_tests_fixtures_script"
-    ],
     "50": [
+      "assets_stompyrobot_srdebugger_scripts_ui_other_bugreportpopoverroot",
+      "assets_stompyrobot_srdebugger_scripts_ui_other_bugreportpopoverroot_cs_canvasgroup",
+      "assets_stompyrobot_srdebugger_scripts_ui_other_bugreportpopoverroot_cs_recttransform",
+      "assets_stompyrobot_srdebugger_scripts_ui_other_bugreportpopoverroot_srdebugger_ui_other_bugreportpopoverroot",
+      "assets_stompyrobot_srdebugger_scripts_ui_other_categorygroup",
+      "assets_stompyrobot_srdebugger_scripts_ui_other_categorygroup_cs_bool",
+      "assets_stompyrobot_srdebugger_scripts_ui_other_categorygroup_cs_gameobject",
+      "assets_stompyrobot_srdebugger_scripts_ui_other_categorygroup_cs_recttransform",
+      "assets_stompyrobot_srdebugger_scripts_ui_other_categorygroup_cs_text",
+      "assets_stompyrobot_srdebugger_scripts_ui_other_categorygroup_cs_toggle",
+      "assets_stompyrobot_srdebugger_scripts_ui_other_categorygroup_srdebugger_ui_other_categorygroup",
+      "assets_stompyrobot_srdebugger_scripts_ui_other_dockconsolecontroller",
+      "assets_stompyrobot_srdebugger_scripts_ui_other_handlemanager",
+      "assets_stompyrobot_srdebugger_scripts_ui_other_ienabletab",
+      "assets_stompyrobot_srdebugger_scripts_ui_other_ienabletab_srdebugger_ui_other_ienabletab",
+      "assets_stompyrobot_srdebugger_scripts_ui_other_scrollsettingsbehaviour",
+      "assets_stompyrobot_srdebugger_scripts_ui_other_scrollsettingsbehaviour_cs_float",
+      "assets_stompyrobot_srdebugger_scripts_ui_other_scrollsettingsbehaviour_srdebugger_ui_other_scrollsettingsbehaviour",
+      "assets_stompyrobot_srdebugger_scripts_ui_other_scrollsettingsbehaviour_srdebugger_ui_other_scrollsettingsbehaviour_awake",
+      "assets_stompyrobot_srdebugger_scripts_ui_other_setlayerfromsettings",
+      "assets_stompyrobot_srdebugger_scripts_ui_other_setlayerfromsettings_srdebugger_ui_other_setlayerfromsettings",
+      "assets_stompyrobot_srdebugger_scripts_ui_other_setlayerfromsettings_srdebugger_ui_other_setlayerfromsettings_start",
+      "assets_stompyrobot_srdebugger_scripts_ui_other_versiontextbehaviour",
+      "assets_stompyrobot_srdebugger_scripts_ui_other_versiontextbehaviour_cs_string",
+      "assets_stompyrobot_srdebugger_scripts_ui_other_versiontextbehaviour_cs_text",
+      "assets_stompyrobot_srdebugger_scripts_ui_other_versiontextbehaviour_srdebugger_ui_other_versiontextbehaviour",
+      "assets_stompyrobot_srdebugger_scripts_ui_other_versiontextbehaviour_srdebugger_ui_other_versiontextbehaviour_start",
+      "csharp_namespace:2114ed8363e7ac0f"
+    ],
+    "51": [
       "assets_stompyrobot_srdebugger_scripts_editor_sroptionswindow",
       "assets_stompyrobot_srdebugger_scripts_editor_sroptionswindow_clear",
       "assets_stompyrobot_srdebugger_scripts_editor_sroptionswindow_cs_bool",
@@ -2236,7 +2264,7 @@
       "assets_stompyrobot_srdebugger_scripts_editor_sroptionswindow_populatetypelookup",
       "assets_stompyrobot_srdebugger_scripts_editor_sroptionswindow_srdebugger_editor_categorystate"
     ],
-    "51": [
+    "52": [
       "assets_stompyrobot_srdebugger_scripts_internal_circularbuffer",
       "assets_stompyrobot_srdebugger_scripts_internal_optiondefinition",
       "assets_stompyrobot_srdebugger_scripts_internal_optiondefinition_cs_action",
@@ -2265,7 +2293,7 @@
       "assets_stompyrobot_srdebugger_scripts_version_srdebugger_versioninfo",
       "csharp_namespace:9ef26a21ba139615"
     ],
-    "52": [
+    "53": [
       "assets_stompyrobot_srdebugger_scripts_services_idebugservice_cs_actioncompletecallback",
       "assets_stompyrobot_srdebugger_scripts_services_idebugservice_cs_defaulttabs",
       "assets_stompyrobot_srdebugger_scripts_services_idebugservice_cs_entrycode",
@@ -2294,7 +2322,7 @@
       "assets_stompyrobot_srdebugger_scripts_services_idebugservice_srdebugger_services_idebugservice_unpinalloptions",
       "assets_stompyrobot_srdebugger_scripts_services_idebugservice_srdebugger_services_idebugservice_unpinoption"
     ],
-    "53": [
+    "54": [
       "createoptions",
       "csharp_namespace:9025bf3c62963805",
       "csharp_namespace:98ce7f9ca153012a",
@@ -2323,7 +2351,7 @@
       "packages_com_codomaster_uniject_runtime_pool",
       "packages_com_codomaster_uniject_tests_editor_containerinjectcontexttests"
     ],
-    "54": [
+    "55": [
       "assets_stompyrobot_srdebugger_scripts_editor_settingswindow_cs_menuitem",
       "assets_stompyrobot_srdebugger_scripts_editor_settingswindow_srdebugger_editor_srdebuggersettingswindow",
       "assets_stompyrobot_srdebugger_scripts_editor_settingswindow_srdebugger_editor_srdebuggersettingswindow_open",
@@ -2351,7 +2379,7 @@
       "assets_vtabs_vtabsplaceholderwindow_vtabs_vtabsplaceholderwindow_open_andreplacepropertyeditor",
       "editorwindow"
     ],
-    "55": [
+    "56": [
       "com_unity_nuget_mono_cecil",
       "com_unity_test_framework_performance",
       "packages_packages_lock_com_unity_collections_dependencies",
@@ -2379,7 +2407,7 @@
       "packages_packages_lock_dependencies_com_unity_test_framework_performance",
       "packages_packages_lock_json_com_unity_test_framework"
     ],
-    "56": [
+    "57": [
       "packages_com_codomaster_uniject_runtime_bindings_scope",
       "packages_com_codomaster_uniject_runtime_bindings_scope_uniject_bindings_scope",
       "packages_com_codomaster_uniject_runtime_instancegetters_instancegetterfromsubcontainerresolve_cs_container",
@@ -2407,7 +2435,7 @@
       "packages_com_codomaster_uniject_runtime_subcontainergetters_subcontainergetterbynewcontextfrommethodonnewgameobject_uniject_subcontainergetters_subcontainergetterbynewcontextfrommethodonnewgameobject",
       "packages_com_codomaster_uniject_runtime_subcontainergetters_subcontainergetterbynewcontextfrommethodonnewgameobject_uniject_subcontainergetters_subcontainergetterbynewcontextfrommethodonnewgameobject_getcontainer"
     ],
-    "57": [
+    "58": [
       "assets_stompyrobot_srdebugger_scripts_editor_settingswindow_cs_keyboardshortcut",
       "assets_stompyrobot_srdebugger_scripts_settings",
       "assets_stompyrobot_srdebugger_scripts_settings_cs_bool",
@@ -2433,33 +2461,6 @@
       "triggerbehaviours",
       "triggerenablemodes",
       "uimodes"
-    ],
-    "58": [
-      "assets_stompyrobot_srdebugger_scripts_ui_controls_data_enumcontrol",
-      "assets_stompyrobot_srdebugger_scripts_ui_controls_data_numbercontrol",
-      "assets_stompyrobot_srdebugger_scripts_ui_other_debugpanelbackgroundbehaviour",
-      "assets_stompyrobot_srdebugger_scripts_ui_other_debugpanelbackgroundbehaviour_cs_string",
-      "assets_stompyrobot_srdebugger_scripts_ui_other_debugpanelbackgroundbehaviour_srdebugger_ui_other_debugpanelbackgroundbehaviour",
-      "assets_stompyrobot_srf_scripts_ui_copypreferredsize",
-      "assets_stompyrobot_srf_scripts_ui_copypreferredsize_cs_float",
-      "assets_stompyrobot_srf_scripts_ui_copypreferredsize_cs_recttransform",
-      "assets_stompyrobot_srf_scripts_ui_copypreferredsize_srf_ui_copypreferredsize",
-      "assets_stompyrobot_srf_scripts_ui_copypreferredsizes",
-      "assets_stompyrobot_srf_scripts_ui_copypreferredsizes_cs_float",
-      "assets_stompyrobot_srf_scripts_ui_copypreferredsizes_cs_recttransform",
-      "assets_stompyrobot_srf_scripts_ui_copypreferredsizes_srf_ui_copypreferredsizes",
-      "assets_stompyrobot_srf_scripts_ui_copypreferredsizes_srf_ui_copysource",
-      "assets_stompyrobot_srf_scripts_ui_copypreferredsizes_srf_ui_operations",
-      "assets_stompyrobot_srf_scripts_ui_copysizeintolayoutelement",
-      "assets_stompyrobot_srf_scripts_ui_copysizeintolayoutelement_cs_bool",
-      "assets_stompyrobot_srf_scripts_ui_copysizeintolayoutelement_cs_float",
-      "assets_stompyrobot_srf_scripts_ui_copysizeintolayoutelement_cs_recttransform",
-      "assets_stompyrobot_srf_scripts_ui_copysizeintolayoutelement_srf_ui_copysizeintolayoutelement",
-      "copysource",
-      "csharp_namespace:3e2fd8eaf4a7256f",
-      "csharp_namespace:6072abc603c6070e",
-      "layoutelement",
-      "operations"
     ],
     "59": [
       "assets_stompyrobot_srf_scripts_ui_layout_virtualverticallayoutgroup",
@@ -2620,6 +2621,31 @@
       "packages_com_codomaster_uniject_tests_editor_containerentrypointstests_uniject_tests_notentrypoint"
     ],
     "65": [
+      "assets_stompyrobot_srdebugger_scripts_services_idebugcameraservice",
+      "assets_stompyrobot_srdebugger_scripts_services_idebugcameraservice_cs_camera",
+      "assets_stompyrobot_srdebugger_scripts_services_idebugcameraservice_srdebugger_services_idebugcameraservice",
+      "assets_stompyrobot_srdebugger_scripts_services_idebugtriggerservice",
+      "assets_stompyrobot_srdebugger_scripts_services_idebugtriggerservice_cs_pinalignment",
+      "assets_stompyrobot_srdebugger_scripts_services_idebugtriggerservice_srdebugger_services_idebugtriggerservice",
+      "assets_stompyrobot_srdebugger_scripts_services_idockconsoleservice",
+      "assets_stompyrobot_srdebugger_scripts_services_idockconsoleservice_cs_consolealignment",
+      "assets_stompyrobot_srdebugger_scripts_services_idockconsoleservice_srdebugger_services_idockconsoleservice",
+      "assets_stompyrobot_srdebugger_scripts_services_implementation_consolefilterstateservice",
+      "assets_stompyrobot_srdebugger_scripts_services_implementation_consolefilterstateservice_assets_stompyrobot_srdebugger_scripts_services_implementation_consolefilterstateservice",
+      "assets_stompyrobot_srdebugger_scripts_services_implementation_consolefilterstateservice_assets_stompyrobot_srdebugger_scripts_services_implementation_consolefilterstateservice_getconsolefilterstate",
+      "assets_stompyrobot_srdebugger_scripts_services_implementation_consolefilterstateservice_assets_stompyrobot_srdebugger_scripts_services_implementation_consolefilterstateservice_gettype",
+      "assets_stompyrobot_srdebugger_scripts_services_implementation_consolefilterstateservice_assets_stompyrobot_srdebugger_scripts_services_implementation_consolefilterstateservice_setconsolefilterstate",
+      "assets_stompyrobot_srdebugger_scripts_services_implementation_consolefilterstateservice_cs_bool",
+      "assets_stompyrobot_srdebugger_scripts_services_implementation_consolefilterstateservice_cs_logtype",
+      "assets_stompyrobot_srdebugger_scripts_services_ipinentryservice",
+      "assets_stompyrobot_srdebugger_scripts_services_ipinentryservice_cs_ireadonlylist",
+      "assets_stompyrobot_srdebugger_scripts_services_ipinentryservice_cs_pinentrycompletecallback",
+      "assets_stompyrobot_srdebugger_scripts_services_ipinentryservice_srdebugger_services_ipinentryservice",
+      "assets_stompyrobot_srdebugger_scripts_services_ipinentryservice_srdebugger_services_ipinentryservice_showpinentry",
+      "csharp_namespace:4c96792790a0d888",
+      "csharp_namespace:809f72d2c709bbae"
+    ],
+    "66": [
       "assets_stompyrobot_sroptions_sroptions",
       "assets_stompyrobot_sroptions_sroptions_cs_runtimeinitializeonloadmethod",
       "assets_stompyrobot_sroptions_sroptions_onstartup",
@@ -2644,7 +2670,7 @@
       "displayname",
       "inotifypropertychanged"
     ],
-    "66": [
+    "67": [
       "assets_textmesh_pro_examples_extras_scripts_tmp_uiframeratecounter",
       "assets_textmesh_pro_examples_extras_scripts_tmp_uiframeratecounter_cs_float",
       "assets_textmesh_pro_examples_extras_scripts_tmp_uiframeratecounter_cs_int",
@@ -2669,7 +2695,7 @@
       "assets_textmesh_pro_examples_extras_scripts_tmpro_instructionoverlay_tmpro_examples_tmpro_instructionoverlay_set_framecounter_position",
       "fpscounteranchorpositions"
     ],
-    "67": [
+    "68": [
       "packages_com_codomaster_uniject_runtime_bindings_pools_bindingtopoolwithinitialsizebuilder",
       "packages_com_codomaster_uniject_runtime_bindings_pools_bindingtopoolwithinitialsizebuilder_cs_component",
       "packages_com_codomaster_uniject_runtime_bindings_pools_bindingtopoolwithinitialsizebuilder_cs_func",
@@ -2694,7 +2720,7 @@
       "packages_com_codomaster_uniject_runtime_bindings_pools_bindingtopoolwithinitialsizebuilder_uniject_bindings_pools_bindingtopoolwithinitialsizebuilder_withoutgameobjectactivation",
       "packages_com_codomaster_uniject_runtime_container_uniject_container_bindpool"
     ],
-    "68": [
+    "69": [
       "packages_com_codomaster_uniject_runtime_container_uniject_container_bind",
       "packages_com_codomaster_uniject_tests_editor_containerbindingtests_uniject_tests_containerbindingtests",
       "packages_com_codomaster_uniject_tests_editor_containerbindingtests_uniject_tests_containerbindingtests_bind_to_whenconcretetypeisnotassignabletocontract_throwsargumentexception",
@@ -2719,7 +2745,7 @@
       "packages_com_codomaster_uniject_tests_editor_containerresolvefrommethodtests_uniject_tests_containerresolvefrommethodtests_resolve_frommethod_whennongenericbindingreturnsincompatibletype_throwsinvalidoperationexception",
       "packages_com_codomaster_uniject_tests_editor_containerresolvefromnewcomponentontests_uniject_tests_containerresolvefromnewcomponentontests_resolve_fromnewcomponenton_whenboundusingnongenericbind_returnsconcretecomponent"
     ],
-    "69": [
+    "70": [
       "packages_com_codomaster_uniject_runtime_installers_iinstaller",
       "packages_com_codomaster_uniject_runtime_installers_iinstaller_cs_container",
       "packages_com_codomaster_uniject_runtime_installers_iinstaller_uniject_installers_iinstaller",
@@ -2743,30 +2769,6 @@
       "packages_com_codomaster_uniject_tests_editor_containerresolvefromsubcontainertests_uniject_tests_scriptinstaller_install",
       "packages_com_codomaster_uniject_tests_editor_containerresolvefromsubcontainertests_uniject_tests_staticcountinginstaller",
       "packages_com_codomaster_uniject_tests_editor_containerresolvefromsubcontainertests_uniject_tests_staticcountinginstaller_install"
-    ],
-    "70": [
-      "assets_stompyrobot_srdebugger_scripts_services_consolefilterstateservice",
-      "assets_stompyrobot_srdebugger_scripts_services_consolefilterstateservice_cs_bool",
-      "assets_stompyrobot_srdebugger_scripts_services_consolefilterstateservice_cs_logtype",
-      "assets_stompyrobot_srdebugger_scripts_services_consolefilterstateservice_srdebugger_services_consolefilterstateservice",
-      "assets_stompyrobot_srdebugger_scripts_services_consolefilterstateservice_srdebugger_services_consolefilterstateservice_getstate",
-      "assets_stompyrobot_srdebugger_scripts_services_consolefilterstateservice_srdebugger_services_consolefilterstateservice_gettype",
-      "assets_stompyrobot_srdebugger_scripts_services_consolefilterstateservice_srdebugger_services_consolefilterstateservice_setstate",
-      "assets_stompyrobot_srdebugger_scripts_services_idebugcameraservice",
-      "assets_stompyrobot_srdebugger_scripts_services_idebugcameraservice_cs_camera",
-      "assets_stompyrobot_srdebugger_scripts_services_idebugcameraservice_srdebugger_services_idebugcameraservice",
-      "assets_stompyrobot_srdebugger_scripts_services_idebugtriggerservice",
-      "assets_stompyrobot_srdebugger_scripts_services_idebugtriggerservice_cs_pinalignment",
-      "assets_stompyrobot_srdebugger_scripts_services_idebugtriggerservice_srdebugger_services_idebugtriggerservice",
-      "assets_stompyrobot_srdebugger_scripts_services_idockconsoleservice",
-      "assets_stompyrobot_srdebugger_scripts_services_idockconsoleservice_cs_consolealignment",
-      "assets_stompyrobot_srdebugger_scripts_services_idockconsoleservice_srdebugger_services_idockconsoleservice",
-      "assets_stompyrobot_srdebugger_scripts_services_ipinentryservice",
-      "assets_stompyrobot_srdebugger_scripts_services_ipinentryservice_cs_ireadonlylist",
-      "assets_stompyrobot_srdebugger_scripts_services_ipinentryservice_cs_pinentrycompletecallback",
-      "assets_stompyrobot_srdebugger_scripts_services_ipinentryservice_srdebugger_services_ipinentryservice",
-      "assets_stompyrobot_srdebugger_scripts_services_ipinentryservice_srdebugger_services_ipinentryservice_showpinentry",
-      "csharp_namespace:4c96792790a0d888"
     ],
     "71": [
       "binding",
@@ -3282,27 +3284,6 @@
       "packages_com_codomaster_uniject_runtime_bindings_pools_bindingtopoolexpandtypebuilder_uniject_bindings_pools_bindingtopoolexpandtypebuilder_withoutgameobjectactivation"
     ],
     "94": [
-      "packages_com_codomaster_uniject_tests_editor_containerbuildtests_cs_inject",
-      "packages_com_codomaster_uniject_tests_editor_containerbuildtests_uniject_tests_injectableclass",
-      "packages_com_codomaster_uniject_tests_editor_containerbuildtests_uniject_tests_injectableclass_construct",
-      "packages_com_codomaster_uniject_tests_editor_containerinjecttests_cs_inject",
-      "packages_com_codomaster_uniject_tests_editor_containerinjecttests_cs_int",
-      "packages_com_codomaster_uniject_tests_editor_containerinjecttests_cs_list",
-      "packages_com_codomaster_uniject_tests_editor_containerinjecttests_uniject_tests_classwithmultipleinjectmethods",
-      "packages_com_codomaster_uniject_tests_editor_containerinjecttests_uniject_tests_classwithmultipleinjectmethods_construct",
-      "packages_com_codomaster_uniject_tests_editor_containerinjecttests_uniject_tests_classwithmultipleinjectmethods_initialize",
-      "packages_com_codomaster_uniject_tests_editor_containerinjecttests_uniject_tests_injectableclass",
-      "packages_com_codomaster_uniject_tests_editor_containerinjecttests_uniject_tests_injectableclass_construct",
-      "packages_com_codomaster_uniject_tests_editor_containerinjecttests_uniject_tests_multidependencyinjectableclass",
-      "packages_com_codomaster_uniject_tests_editor_containerinjecttests_uniject_tests_multidependencyinjectableclass_construct",
-      "packages_com_codomaster_uniject_tests_editor_containerinjecttests_uniject_tests_orderedinjectableclass",
-      "packages_com_codomaster_uniject_tests_editor_containerinjecttests_uniject_tests_orderedinjectableclass_construct",
-      "packages_com_codomaster_uniject_tests_editor_containerinstantiatetests_uniject_tests_classwithmultipleconstructordependencies",
-      "packages_com_codomaster_uniject_tests_runtime_fixtures_class_uniject_tests_fixtures_class",
-      "packages_com_codomaster_uniject_tests_runtime_fixtures_injectablescript_cs_inject",
-      "packages_com_codomaster_uniject_tests_runtime_fixtures_injectablescript_uniject_tests_fixtures_injectablescript_construct"
-    ],
-    "95": [
       "packages_com_codomaster_uniject_tests_editor_containernonlazytests_cs_list",
       "packages_com_codomaster_uniject_tests_editor_containernonlazytests_uniject_tests_containernonlazytests",
       "packages_com_codomaster_uniject_tests_editor_containernonlazytests_uniject_tests_containernonlazytests_resolvenonlazybindings",
@@ -3323,7 +3304,7 @@
       "packages_com_codomaster_uniject_tests_editor_containernonlazytests_uniject_tests_nonlazytransientclass",
       "packages_com_codomaster_uniject_tests_editor_containernonlazytests_uniject_tests_secondnonlazyclass"
     ],
-    "96": [
+    "95": [
       "assets_stompyrobot_srdebugger_scripts_services_implementation_optionsserviceimpl_cs_dictionary",
       "assets_stompyrobot_srdebugger_scripts_services_implementation_optionsserviceimpl_cs_icollection",
       "assets_stompyrobot_srdebugger_scripts_services_implementation_optionsserviceimpl_cs_ilist",
@@ -3343,7 +3324,7 @@
       "assets_stompyrobot_srdebugger_scripts_services_implementation_optionsserviceimpl_srdebugger_services_implementation_optionsserviceimpl_scan",
       "ioptionsservice"
     ],
-    "97": [
+    "96": [
       "assets_stompyrobot_srdebugger_scripts_ui_other_debugpanelbackgroundbehaviour_srdebugger_ui_other_debugpanelbackgroundbehaviour_awake",
       "assets_stompyrobot_srf_scripts_ui_styleroot_srf_ui_styleroot_getstyle",
       "assets_stompyrobot_srf_scripts_ui_stylesheet",
@@ -3363,7 +3344,7 @@
       "assets_stompyrobot_srf_scripts_ui_stylesheet_srf_ui_stylesheet_getstyle",
       "scriptableobject"
     ],
-    "98": [
+    "97": [
       "assets_stompyrobot_srdebugger_scripts_ui_other_srtab",
       "assets_stompyrobot_srdebugger_scripts_ui_other_srtab_cs_int",
       "assets_stompyrobot_srdebugger_scripts_ui_other_srtab_cs_recttransform",
@@ -3383,7 +3364,7 @@
       "assets_stompyrobot_srf_scripts_collections_srlist_srf_srlist_sort",
       "comparison"
     ],
-    "99": [
+    "98": [
       "assets_stompyrobot_srdebugger_scripts_ui_tabs_infotabcontroller_cs_bool",
       "assets_stompyrobot_srdebugger_scripts_ui_tabs_infotabcontroller_cs_char",
       "assets_stompyrobot_srdebugger_scripts_ui_tabs_infotabcontroller_cs_dictionary",
@@ -3402,6 +3383,26 @@
       "assets_stompyrobot_srf_scripts_ui_flashgraphic_srf_ui_flashgraphic_flash",
       "assets_stompyrobot_srf_scripts_ui_flashgraphic_srf_ui_flashgraphic_flashandholduntilnextpress",
       "infoblock"
+    ],
+    "99": [
+      "dependencya",
+      "dependencyb",
+      "packages_com_codomaster_uniject_tests_editor_reflectioncachetestfixture_cs_inject",
+      "packages_com_codomaster_uniject_tests_editor_reflectioncachetestfixture_uniject_tests_basetypewithinjectmethod",
+      "packages_com_codomaster_uniject_tests_editor_reflectioncachetestfixture_uniject_tests_basetypewithinjectmethod_construct",
+      "packages_com_codomaster_uniject_tests_editor_reflectioncachetestfixture_uniject_tests_derivedtypewithowninjectmethod",
+      "packages_com_codomaster_uniject_tests_editor_reflectioncachetestfixture_uniject_tests_derivedtypewithowninjectmethod_construct",
+      "packages_com_codomaster_uniject_tests_editor_reflectioncachetestfixture_uniject_tests_typewithinjectmethod",
+      "packages_com_codomaster_uniject_tests_editor_reflectioncachetestfixture_uniject_tests_typewithinjectmethod_construct",
+      "packages_com_codomaster_uniject_tests_editor_reflectioncachetestfixture_uniject_tests_typewithmultipleinjectmethods",
+      "packages_com_codomaster_uniject_tests_editor_reflectioncachetestfixture_uniject_tests_typewithmultipleinjectmethods_construct",
+      "packages_com_codomaster_uniject_tests_editor_reflectioncachetestfixture_uniject_tests_typewithmultipleinjectmethods_initialize",
+      "packages_com_codomaster_uniject_tests_editor_reflectioncachetestfixture_uniject_tests_typewithoutinjectmethod",
+      "packages_com_codomaster_uniject_tests_editor_reflectioncachetestfixture_uniject_tests_typewithoutinjectmethod_construct",
+      "packages_com_codomaster_uniject_tests_editor_reflectioncachetestfixture_uniject_tests_typewithprivateinjectmethod",
+      "packages_com_codomaster_uniject_tests_editor_reflectioncachetestfixture_uniject_tests_typewithprivateinjectmethod_construct",
+      "packages_com_codomaster_uniject_tests_editor_reflectioncachetestfixture_uniject_tests_typewithprotectedinjectmethod",
+      "packages_com_codomaster_uniject_tests_editor_reflectioncachetestfixture_uniject_tests_typewithprotectedinjectmethod_construct"
     ],
     "100": [
       "equatableproduct",
@@ -3424,6 +3425,26 @@
       "unitytest"
     ],
     "101": [
+      "packages_com_codomaster_uniject_tests_editor_containerbuildtests_cs_inject",
+      "packages_com_codomaster_uniject_tests_editor_containerbuildtests_uniject_tests_injectableclass",
+      "packages_com_codomaster_uniject_tests_editor_containerbuildtests_uniject_tests_injectableclass_construct",
+      "packages_com_codomaster_uniject_tests_editor_containerfactorytestfixture_uniject_tests_classproductfactory",
+      "packages_com_codomaster_uniject_tests_editor_containerinjecttests_cs_inject",
+      "packages_com_codomaster_uniject_tests_editor_containerinjecttests_cs_int",
+      "packages_com_codomaster_uniject_tests_editor_containerinjecttests_cs_list",
+      "packages_com_codomaster_uniject_tests_editor_containerinjecttests_uniject_tests_classwithmultipleinjectmethods",
+      "packages_com_codomaster_uniject_tests_editor_containerinjecttests_uniject_tests_classwithmultipleinjectmethods_construct",
+      "packages_com_codomaster_uniject_tests_editor_containerinjecttests_uniject_tests_classwithmultipleinjectmethods_initialize",
+      "packages_com_codomaster_uniject_tests_editor_containerinjecttests_uniject_tests_injectableclass",
+      "packages_com_codomaster_uniject_tests_editor_containerinjecttests_uniject_tests_injectableclass_construct",
+      "packages_com_codomaster_uniject_tests_editor_containerinjecttests_uniject_tests_multidependencyinjectableclass",
+      "packages_com_codomaster_uniject_tests_editor_containerinjecttests_uniject_tests_multidependencyinjectableclass_construct",
+      "packages_com_codomaster_uniject_tests_editor_containerinjecttests_uniject_tests_orderedinjectableclass",
+      "packages_com_codomaster_uniject_tests_editor_containerinjecttests_uniject_tests_orderedinjectableclass_construct",
+      "packages_com_codomaster_uniject_tests_editor_containerinstantiatetests_uniject_tests_classwithmultipleconstructordependencies",
+      "packages_com_codomaster_uniject_tests_runtime_fixtures_class_uniject_tests_fixtures_class"
+    ],
+    "102": [
       "packages_packages_lock",
       "packages_packages_lock_com_codomaster_uniject_dependencies",
       "packages_packages_lock_com_codomaster_uniject_depth",
@@ -3443,7 +3464,7 @@
       "packages_packages_lock_dependencies_com_unity_ai_navigation",
       "packages_packages_lock_dependencies_com_unity_modules_ai"
     ],
-    "102": [
+    "103": [
       "assets_stompyrobot_srdebugger_scripts_internal_circularbuffer_srdebugger_circularbuffer_clear",
       "assets_stompyrobot_srdebugger_scripts_services_implementation_standardconsoleservice_cs_bool",
       "assets_stompyrobot_srdebugger_scripts_services_implementation_standardconsoleservice_cs_circularbuffer",
@@ -3462,32 +3483,13 @@
       "iconsoleservice",
       "iloghandler"
     ],
-    "103": [
-      "basetypewithinjectmethod",
-      "middletypewithoutinjectmethod",
-      "packages_com_codomaster_uniject_tests_editor_reflectioncachetestfixture_uniject_tests_dependencya",
-      "packages_com_codomaster_uniject_tests_editor_reflectioncachetestfixture_uniject_tests_dependencyb",
-      "packages_com_codomaster_uniject_tests_editor_reflectioncachetestfixture_uniject_tests_derivedfrommiddletypewithoutinjectmethod",
-      "packages_com_codomaster_uniject_tests_editor_reflectioncachetestfixture_uniject_tests_derivedtypewithoutowninjectmethod",
-      "packages_com_codomaster_uniject_tests_editor_reflectioncachetestfixture_uniject_tests_derivedtypewithowninjectmethod",
-      "packages_com_codomaster_uniject_tests_editor_reflectioncachetestfixture_uniject_tests_derivedtypewithowninjectmethod_construct",
-      "packages_com_codomaster_uniject_tests_editor_reflectioncachetestfixture_uniject_tests_middletypewithoutinjectmethod",
-      "packages_com_codomaster_uniject_tests_editor_reflectioncachetestfixture_uniject_tests_reflectioncachetestfixture",
-      "packages_com_codomaster_uniject_tests_editor_reflectioncachetestfixture_uniject_tests_typewithinjectconstructor",
-      "packages_com_codomaster_uniject_tests_editor_reflectioncachetestfixture_uniject_tests_typewithlongestconstructor",
-      "packages_com_codomaster_uniject_tests_editor_reflectioncachetestfixture_uniject_tests_typewithmultipleinjectconstructors",
-      "packages_com_codomaster_uniject_tests_editor_reflectioncachetestfixture_uniject_tests_typewithonlyparameterlessconstructor",
-      "packages_com_codomaster_uniject_tests_editor_reflectioncachetestfixture_uniject_tests_typewithprivateconstructor",
-      "packages_com_codomaster_uniject_tests_editor_reflectioncachetests_uniject_tests_reflectioncachetests",
-      "packages_com_codomaster_uniject_tests_editor_reflectioncachetests_uniject_tests_reflectioncachetests_injectattribute_wheninspected_preservesmarkedmembersanddisablesinheritance"
-    ],
     "104": [
       "customfactory",
-      "packages_com_codomaster_uniject_tests_editor_containerfactorytestfixture_uniject_tests_classproductfactory",
       "packages_com_codomaster_uniject_tests_editor_containerfactorytestfixture_uniject_tests_customproductfactory",
       "packages_com_codomaster_uniject_tests_editor_containerfactorytestfixture_uniject_tests_customproductfactory_create",
       "packages_com_codomaster_uniject_tests_editor_containerfactorytestfixture_uniject_tests_customproductwithclassparameterfactory",
       "packages_com_codomaster_uniject_tests_editor_containerfactorytestfixture_uniject_tests_customproductwithclassparameterfactory_create",
+      "packages_com_codomaster_uniject_tests_editor_containerfactorytestfixture_uniject_tests_gameobjectproductfactory",
       "packages_com_codomaster_uniject_tests_editor_containerfactorytestfixture_uniject_tests_initializablecustomproductfactory",
       "packages_com_codomaster_uniject_tests_editor_containerfactorytestfixture_uniject_tests_initializablecustomproductfactory_create",
       "packages_com_codomaster_uniject_tests_editor_containerfactorytestfixture_uniject_tests_initializablecustomproductfactory_initialize",
@@ -3538,24 +3540,6 @@
       "unitywebrequest"
     ],
     "107": [
-      "assets_stompyrobot_srdebugger_scripts_internal_circularbuffer_cs_int",
-      "assets_stompyrobot_srdebugger_scripts_internal_circularbuffer_srdebugger_circularbuffer",
-      "assets_stompyrobot_srdebugger_scripts_internal_circularbuffer_srdebugger_circularbuffer_back",
-      "assets_stompyrobot_srdebugger_scripts_internal_circularbuffer_srdebugger_circularbuffer_decrement",
-      "assets_stompyrobot_srdebugger_scripts_internal_circularbuffer_srdebugger_circularbuffer_front",
-      "assets_stompyrobot_srdebugger_scripts_internal_circularbuffer_srdebugger_circularbuffer_increment",
-      "assets_stompyrobot_srdebugger_scripts_internal_circularbuffer_srdebugger_circularbuffer_internalindex",
-      "assets_stompyrobot_srdebugger_scripts_internal_circularbuffer_srdebugger_circularbuffer_popback",
-      "assets_stompyrobot_srdebugger_scripts_internal_circularbuffer_srdebugger_circularbuffer_popfront",
-      "assets_stompyrobot_srdebugger_scripts_internal_circularbuffer_srdebugger_circularbuffer_pushback",
-      "assets_stompyrobot_srdebugger_scripts_internal_circularbuffer_srdebugger_circularbuffer_pushfront",
-      "assets_stompyrobot_srdebugger_scripts_internal_circularbuffer_srdebugger_circularbuffer_throwifempty",
-      "assets_stompyrobot_srdebugger_scripts_profiler_srpprofilerservice_endframe",
-      "assets_stompyrobot_srdebugger_scripts_profiler_srpprofilerservice_srdebugger_profiler_srpprofilerservice_pushframe",
-      "assets_stompyrobot_srdebugger_scripts_profiler_srpprofilerservice_srdebugger_profiler_srpprofilerservice_update",
-      "ienumerable"
-    ],
-    "108": [
       "assets_stompyrobot_srdebugger_scripts_ui_controls_data_numbercontrol_cs_dictionary",
       "assets_stompyrobot_srdebugger_scripts_ui_controls_data_numbercontrol_cs_double",
       "assets_stompyrobot_srdebugger_scripts_ui_controls_data_numbercontrol_cs_gameobject",
@@ -3573,7 +3557,7 @@
       "assets_stompyrobot_srdebugger_scripts_ui_controls_data_numbercontrol_srdebugger_ui_controls_data_numbercontrol_start",
       "assets_stompyrobot_srdebugger_scripts_ui_controls_data_numbercontrol_srdebugger_ui_controls_data_valuerange"
     ],
-    "109": [
+    "108": [
       "assets_stompyrobot_srdebugger_scripts_ui_mobilemenucontroller_cs_button",
       "assets_stompyrobot_srdebugger_scripts_ui_mobilemenucontroller_cs_contextmenu",
       "assets_stompyrobot_srdebugger_scripts_ui_mobilemenucontroller_cs_float",
@@ -3591,7 +3575,7 @@
       "assets_stompyrobot_srdebugger_scripts_ui_mobilemenucontroller_srdebugger_ui_mobilemenucontroller_tabcontrolleronactivetabchanged",
       "assets_stompyrobot_srdebugger_scripts_ui_mobilemenucontroller_srdebugger_ui_mobilemenucontroller_update"
     ],
-    "110": [
+    "109": [
       "assets_stompyrobot_srf_external_minijson_cs_dictionary",
       "assets_stompyrobot_srf_external_minijson_cs_list",
       "assets_stompyrobot_srf_external_minijson_cs_string",
@@ -3609,7 +3593,7 @@
       "stringreader",
       "token"
     ],
-    "111": [
+    "110": [
       "assets_vtabs_vtabsgui_vtabs_vtabsgui_updatescrollanimation",
       "assets_vtabs_vtabslibs_cs_vector2",
       "assets_vtabs_vtabslibs_cs_vector3",
@@ -3627,25 +3611,7 @@
       "assets_vtabs_vtabslibs_vtabs_libs_vutils_projecton",
       "assets_vtabs_vtabslibs_vtabs_libs_vutils_rotate"
     ],
-    "112": [
-      "dependencya",
-      "dependencyb",
-      "packages_com_codomaster_uniject_tests_editor_reflectioncachetestfixture_cs_inject",
-      "packages_com_codomaster_uniject_tests_editor_reflectioncachetestfixture_uniject_tests_basetypewithinjectmethod",
-      "packages_com_codomaster_uniject_tests_editor_reflectioncachetestfixture_uniject_tests_basetypewithinjectmethod_construct",
-      "packages_com_codomaster_uniject_tests_editor_reflectioncachetestfixture_uniject_tests_typewithinjectmethod",
-      "packages_com_codomaster_uniject_tests_editor_reflectioncachetestfixture_uniject_tests_typewithinjectmethod_construct",
-      "packages_com_codomaster_uniject_tests_editor_reflectioncachetestfixture_uniject_tests_typewithmultipleinjectmethods",
-      "packages_com_codomaster_uniject_tests_editor_reflectioncachetestfixture_uniject_tests_typewithmultipleinjectmethods_construct",
-      "packages_com_codomaster_uniject_tests_editor_reflectioncachetestfixture_uniject_tests_typewithmultipleinjectmethods_initialize",
-      "packages_com_codomaster_uniject_tests_editor_reflectioncachetestfixture_uniject_tests_typewithoutinjectmethod",
-      "packages_com_codomaster_uniject_tests_editor_reflectioncachetestfixture_uniject_tests_typewithoutinjectmethod_construct",
-      "packages_com_codomaster_uniject_tests_editor_reflectioncachetestfixture_uniject_tests_typewithprivateinjectmethod",
-      "packages_com_codomaster_uniject_tests_editor_reflectioncachetestfixture_uniject_tests_typewithprivateinjectmethod_construct",
-      "packages_com_codomaster_uniject_tests_editor_reflectioncachetestfixture_uniject_tests_typewithprotectedinjectmethod",
-      "packages_com_codomaster_uniject_tests_editor_reflectioncachetestfixture_uniject_tests_typewithprotectedinjectmethod_construct"
-    ],
-    "113": [
+    "111": [
       "packages_packages_lock_com_unity_inputsystem_dependencies",
       "packages_packages_lock_com_unity_inputsystem_depth",
       "packages_packages_lock_com_unity_inputsystem_source",
@@ -3663,7 +3629,7 @@
       "packages_packages_lock_dependencies_com_unity_multiplayer_center",
       "packages_packages_lock_json_com_unity_modules_uielements"
     ],
-    "114": [
+    "112": [
       "packages_packages_lock_com_unity_modules_imageconversion_dependencies",
       "packages_packages_lock_com_unity_modules_imageconversion_depth",
       "packages_packages_lock_com_unity_modules_imageconversion_source",
@@ -3681,7 +3647,7 @@
       "packages_packages_lock_dependencies_com_unity_modules_unitywebrequesttexture",
       "packages_packages_lock_json_com_unity_modules_imageconversion"
     ],
-    "115": [
+    "113": [
       "assets_stompyrobot_srdebugger_scripts_autoinitialize",
       "assets_stompyrobot_srdebugger_scripts_autoinitialize_cs_runtimeinitializeonloadmethod",
       "assets_stompyrobot_srdebugger_scripts_autoinitialize_srdebugger_autoinitialize",
@@ -3698,7 +3664,7 @@
       "assets_stompyrobot_srdebugger_scripts_srdebug_srdebug_init",
       "csharp_namespace:9e775c09c40a1347"
     ],
-    "116": [
+    "114": [
       "assets_stompyrobot_srdebugger_scripts_services_implementation_keyboardshortcutlistenerservice_cs_defaulttabs",
       "assets_stompyrobot_srdebugger_scripts_services_implementation_keyboardshortcutlistenerservice_cs_keyboardshortcut",
       "assets_stompyrobot_srdebugger_scripts_services_implementation_keyboardshortcutlistenerservice_cs_list",
@@ -3715,7 +3681,7 @@
       "assets_stompyrobot_srf_scripts_service_srservicebase_srf_service_srservicebase_ondestroy",
       "srmonobehaviourex"
     ],
-    "117": [
+    "115": [
       "assets_stompyrobot_srdebugger_scripts_services_implementation_optionsserviceimpl_reflectionoptioncontainer_cs_ienumerable",
       "assets_stompyrobot_srdebugger_scripts_services_implementation_optionsserviceimpl_reflectionoptioncontainer_cs_list",
       "assets_stompyrobot_srdebugger_scripts_services_implementation_optionsserviceimpl_reflectionoptioncontainer_cs_object",
@@ -3732,7 +3698,7 @@
       "ioptioncontainer",
       "reflectionoptioncontainer"
     ],
-    "118": [
+    "116": [
       "assets_stompyrobot_srdebugger_scripts_ui_controls_consolelogcontrol_cs_action",
       "assets_stompyrobot_srdebugger_scripts_ui_controls_consolelogcontrol_cs_bool",
       "assets_stompyrobot_srdebugger_scripts_ui_controls_consolelogcontrol_cs_iconsoleservice",
@@ -3749,7 +3715,7 @@
       "assets_stompyrobot_srdebugger_scripts_ui_controls_consolelogcontrol_srdebugger_ui_controls_consolelogcontrol_setisdirty",
       "assets_stompyrobot_srdebugger_scripts_ui_controls_consolelogcontrol_srdebugger_ui_controls_consolelogcontrol_start"
     ],
-    "119": [
+    "117": [
       "assets_stompyrobot_srf_scripts_ui_srnumberspinner",
       "assets_stompyrobot_srf_scripts_ui_srnumberspinner_cs_double",
       "assets_stompyrobot_srf_scripts_ui_srnumberspinner_cs_float",
@@ -3766,7 +3732,7 @@
       "baseeventdata",
       "inputfield"
     ],
-    "120": [
+    "118": [
       "assets_textmesh_pro_examples_extras_scripts_tmp_textinfodebugtool",
       "assets_textmesh_pro_examples_extras_scripts_tmp_textinfodebugtool_cs_color",
       "assets_textmesh_pro_examples_extras_scripts_tmp_textinfodebugtool_cs_vector3",
@@ -3783,7 +3749,7 @@
       "assets_textmesh_pro_examples_extras_scripts_tmp_textinfodebugtool_drawwordbounds",
       "assets_textmesh_pro_examples_extras_scripts_tmp_textinfodebugtool_ondrawgizmos"
     ],
-    "121": [
+    "119": [
       "assets_vtabs_vtabslibs_cs_bool",
       "assets_vtabs_vtabslibs_cs_editorwindow",
       "assets_vtabs_vtabslibs_cs_float",
@@ -3800,7 +3766,24 @@
       "assets_vtabs_vtabslibs_vtabs_libs_vutils_roundtoint",
       "assets_vtabs_vtabslibs_vtabs_libs_vutils_setpos"
     ],
-    "122": [
+    "120": [
+      "basetypewithinjectmethod",
+      "middletypewithoutinjectmethod",
+      "packages_com_codomaster_uniject_tests_editor_reflectioncachetestfixture_uniject_tests_dependencya",
+      "packages_com_codomaster_uniject_tests_editor_reflectioncachetestfixture_uniject_tests_dependencyb",
+      "packages_com_codomaster_uniject_tests_editor_reflectioncachetestfixture_uniject_tests_derivedfrommiddletypewithoutinjectmethod",
+      "packages_com_codomaster_uniject_tests_editor_reflectioncachetestfixture_uniject_tests_derivedtypewithoutowninjectmethod",
+      "packages_com_codomaster_uniject_tests_editor_reflectioncachetestfixture_uniject_tests_middletypewithoutinjectmethod",
+      "packages_com_codomaster_uniject_tests_editor_reflectioncachetestfixture_uniject_tests_reflectioncachetestfixture",
+      "packages_com_codomaster_uniject_tests_editor_reflectioncachetestfixture_uniject_tests_typewithinjectconstructor",
+      "packages_com_codomaster_uniject_tests_editor_reflectioncachetestfixture_uniject_tests_typewithlongestconstructor",
+      "packages_com_codomaster_uniject_tests_editor_reflectioncachetestfixture_uniject_tests_typewithmultipleinjectconstructors",
+      "packages_com_codomaster_uniject_tests_editor_reflectioncachetestfixture_uniject_tests_typewithonlyparameterlessconstructor",
+      "packages_com_codomaster_uniject_tests_editor_reflectioncachetestfixture_uniject_tests_typewithprivateconstructor",
+      "packages_com_codomaster_uniject_tests_editor_reflectioncachetests_uniject_tests_reflectioncachetests",
+      "packages_com_codomaster_uniject_tests_editor_reflectioncachetests_uniject_tests_reflectioncachetests_injectattribute_wheninspected_preservesmarkedmembersanddisablesinheritance"
+    ],
+    "121": [
       "ipostbuildcleanup",
       "iprebuildsetup",
       "packages_com_codomaster_uniject_tests_runtime_sceneloadertests",
@@ -3817,7 +3800,7 @@
       "parentdependency",
       "task"
     ],
-    "123": [
+    "122": [
       "iservice",
       "packages_com_codomaster_uniject_tests_editor_containerinjectcontexttests_cs_inject",
       "packages_com_codomaster_uniject_tests_editor_containerinjectcontexttests_uniject_tests_basemethodconsumer",
@@ -3834,7 +3817,7 @@
       "packages_com_codomaster_uniject_tests_editor_containerinjectcontexttests_uniject_tests_servicefactory",
       "packages_com_codomaster_uniject_tests_editor_containerinjectcontexttests_uniject_tests_servicepool"
     ],
-    "124": [
+    "123": [
       "packages_com_codomaster_uniject_tests_editor_containerinjectcontexttests_cs_action",
       "packages_com_codomaster_uniject_tests_editor_containerinjectcontexttests_cs_container",
       "packages_com_codomaster_uniject_tests_editor_containerinjectcontexttests_cs_func",
@@ -3851,7 +3834,7 @@
       "packages_com_codomaster_uniject_tests_editor_containerinjectcontexttests_uniject_tests_containerinjectcontexttests_frommethod_canignorecontextoneveryfluentsurface",
       "service"
     ],
-    "125": [
+    "124": [
       "apisignupresultcallback",
       "assets_stompyrobot_srdebugger_scripts_editor_apisignup",
       "assets_stompyrobot_srdebugger_scripts_editor_apisignup_cs_httpwebrequest",
@@ -3867,7 +3850,7 @@
       "assets_stompyrobot_srf_external_minijson_srf_parser_parse",
       "hashtable"
     ],
-    "126": [
+    "125": [
       "assets_scripts_bootscenecontroller_bootscenecontroller",
       "assets_scripts_bootscenecontroller_bootscenecontroller_run",
       "assets_scripts_bootscenecontroller_bootscenecontroller_runenumerator",
@@ -3883,7 +3866,7 @@
       "assets_scripts_musiccontroller_musiccontroller_stopplayingmusic",
       "audiosource"
     ],
-    "127": [
+    "126": [
       "assets_scripts_enemy",
       "assets_scripts_enemy_cs_inject",
       "assets_scripts_enemy_enemy",
@@ -3899,7 +3882,7 @@
       "enemyspawner",
       "monoinstaller"
     ],
-    "128": [
+    "127": [
       "assets_stompyrobot_srdebugger_scripts_profiler_profilerserviceimpl_cs_camera",
       "assets_stompyrobot_srdebugger_scripts_profiler_profilerserviceimpl_cs_circularbuffer",
       "assets_stompyrobot_srdebugger_scripts_profiler_profilerserviceimpl_cs_double",
@@ -3915,7 +3898,7 @@
       "assets_stompyrobot_srdebugger_scripts_profiler_profilerserviceimpl_srdebugger_profiler_profilerserviceimpl_pushframe",
       "assets_stompyrobot_srdebugger_scripts_profiler_profilerserviceimpl_srdebugger_profiler_profilerserviceimpl_update"
     ],
-    "129": [
+    "128": [
       "assets_stompyrobot_srdebugger_scripts_services_iconsoleservice",
       "assets_stompyrobot_srdebugger_scripts_services_iconsoleservice_cs_int",
       "assets_stompyrobot_srdebugger_scripts_services_iconsoleservice_cs_ireadonlylist",
@@ -3931,7 +3914,7 @@
       "assets_stompyrobot_srdebugger_scripts_srdebug_srdebug",
       "assets_stompyrobot_srdebugger_scripts_srdebug_srdebug_getdefaultcopyconsoleitemcallback"
     ],
-    "130": [
+    "129": [
       "assets_stompyrobot_srdebugger_scripts_services_implementation_debugtriggerimpl_cs_bool",
       "assets_stompyrobot_srdebugger_scripts_services_implementation_debugtriggerimpl_cs_iconsoleservice",
       "assets_stompyrobot_srdebugger_scripts_services_implementation_debugtriggerimpl_cs_idebugtriggerservice",
@@ -3947,7 +3930,7 @@
       "assets_stompyrobot_srdebugger_scripts_services_implementation_debugtriggerimpl_srdebugger_services_implementation_debugtriggerimpl_settriggerposition",
       "triggerroot"
     ],
-    "131": [
+    "130": [
       "assets_stompyrobot_srdebugger_scripts_ui_controls_data_actioncontrol",
       "assets_stompyrobot_srdebugger_scripts_ui_controls_data_actioncontrol_cs_button",
       "assets_stompyrobot_srdebugger_scripts_ui_controls_data_actioncontrol_cs_text",
@@ -3963,7 +3946,7 @@
       "csharp_namespace:2347678ff552306e",
       "optionscontrolbase"
     ],
-    "132": [
+    "131": [
       "assets_stompyrobot_srdebugger_scripts_ui_controls_data_databoundcontrol_cs_bool",
       "assets_stompyrobot_srdebugger_scripts_ui_controls_data_databoundcontrol_cs_object",
       "assets_stompyrobot_srdebugger_scripts_ui_controls_data_databoundcontrol_cs_propertyreference",
@@ -3979,7 +3962,7 @@
       "assets_stompyrobot_srdebugger_scripts_ui_controls_data_databoundcontrol_srdebugger_ui_controls_databoundcontrol_refresh",
       "assets_stompyrobot_srdebugger_scripts_ui_controls_data_databoundcontrol_srdebugger_ui_controls_databoundcontrol_start"
     ],
-    "133": [
+    "132": [
       "assets_stompyrobot_srf_scripts_ui_layout_flowlayoutgroup_cs_bool",
       "assets_stompyrobot_srf_scripts_ui_layout_flowlayoutgroup_cs_float",
       "assets_stompyrobot_srf_scripts_ui_layout_flowlayoutgroup_cs_ilist",
@@ -3995,7 +3978,7 @@
       "assets_stompyrobot_srf_scripts_ui_layout_flowlayoutgroup_srf_ui_layout_flowlayoutgroup_setlayoutvertical",
       "layoutgroup"
     ],
-    "134": [
+    "133": [
       "assets_stompyrobot_srf_scripts_ui_stylecomponent",
       "assets_stompyrobot_srf_scripts_ui_stylecomponent_cs_bool",
       "assets_stompyrobot_srf_scripts_ui_stylecomponent_cs_graphic",
@@ -4011,7 +3994,7 @@
       "assets_stompyrobot_srf_scripts_ui_stylecomponent_srf_ui_stylecomponent_start",
       "assets_stompyrobot_srf_scripts_ui_stylecomponent_update"
     ],
-    "135": [
+    "134": [
       "assets_textmesh_pro_examples_extras_scripts_vertexjitter",
       "assets_textmesh_pro_examples_extras_scripts_vertexjitter_cs_bool",
       "assets_textmesh_pro_examples_extras_scripts_vertexjitter_cs_float",
@@ -4027,7 +4010,7 @@
       "assets_textmesh_pro_examples_extras_scripts_vertexjitter_tmpro_examples_vertexjitter_onenable",
       "assets_textmesh_pro_examples_extras_scripts_vertexjitter_tmpro_examples_vertexjitter_start"
     ],
-    "136": [
+    "135": [
       "assets_vtabs_vtabs_cs_component",
       "assets_vtabs_vtabs_cs_editorwindow",
       "assets_vtabs_vtabs_cs_object",
@@ -4042,6 +4025,21 @@
       "assets_vtabs_vtabs_vtabs_vtabs_wrappedbrowserongui",
       "assets_vtabs_vtabsgui_vtabs_vtabsgui_handletabscrolling",
       "assets_vtabs_vtabslibs_vtabs_libs_vutils_editorutility_instanceidtoobject"
+    ],
+    "136": [
+      "assets_stompyrobot_srdebugger_scripts_internal_circularbuffer_cs_int",
+      "assets_stompyrobot_srdebugger_scripts_internal_circularbuffer_srdebugger_circularbuffer",
+      "assets_stompyrobot_srdebugger_scripts_internal_circularbuffer_srdebugger_circularbuffer_back",
+      "assets_stompyrobot_srdebugger_scripts_internal_circularbuffer_srdebugger_circularbuffer_decrement",
+      "assets_stompyrobot_srdebugger_scripts_internal_circularbuffer_srdebugger_circularbuffer_front",
+      "assets_stompyrobot_srdebugger_scripts_internal_circularbuffer_srdebugger_circularbuffer_increment",
+      "assets_stompyrobot_srdebugger_scripts_internal_circularbuffer_srdebugger_circularbuffer_internalindex",
+      "assets_stompyrobot_srdebugger_scripts_internal_circularbuffer_srdebugger_circularbuffer_popback",
+      "assets_stompyrobot_srdebugger_scripts_internal_circularbuffer_srdebugger_circularbuffer_popfront",
+      "assets_stompyrobot_srdebugger_scripts_internal_circularbuffer_srdebugger_circularbuffer_pushback",
+      "assets_stompyrobot_srdebugger_scripts_internal_circularbuffer_srdebugger_circularbuffer_pushfront",
+      "assets_stompyrobot_srdebugger_scripts_internal_circularbuffer_srdebugger_circularbuffer_throwifempty",
+      "ienumerable"
     ],
     "137": [
       "assets_stompyrobot_srdebugger_scripts_internal_optioncontrolfactory_cs_actioncontrol",
@@ -4074,21 +4072,6 @@
       "assets_stompyrobot_srdebugger_scripts_internal_util_srdebugger_internal_srdebuggerutil"
     ],
     "139": [
-      "assets_stompyrobot_srdebugger_scripts_profiler_profilerlateupdatelistener",
-      "assets_stompyrobot_srdebugger_scripts_profiler_profilerlateupdatelistener_cs_action",
-      "assets_stompyrobot_srdebugger_scripts_profiler_profilerlateupdatelistener_srdebugger_profiler_profilerlateupdatelistener",
-      "assets_stompyrobot_srdebugger_scripts_profiler_profilerlateupdatelistener_srdebugger_profiler_profilerlateupdatelistener_lateupdate",
-      "assets_stompyrobot_srdebugger_scripts_profiler_srpprofilerservice_cs_circularbuffer",
-      "assets_stompyrobot_srdebugger_scripts_profiler_srpprofilerservice_cs_double",
-      "assets_stompyrobot_srdebugger_scripts_profiler_srpprofilerservice_cs_ienumerator",
-      "assets_stompyrobot_srdebugger_scripts_profiler_srpprofilerservice_cs_int",
-      "assets_stompyrobot_srdebugger_scripts_profiler_srpprofilerservice_cs_stopwatch",
-      "assets_stompyrobot_srdebugger_scripts_profiler_srpprofilerservice_srdebugger_profiler_srpprofilerservice",
-      "assets_stompyrobot_srdebugger_scripts_profiler_srpprofilerservice_srdebugger_profiler_srpprofilerservice_awake",
-      "assets_stompyrobot_srdebugger_scripts_profiler_srpprofilerservice_srdebugger_profiler_srpprofilerservice_endofframecoroutine",
-      "assets_stompyrobot_srdebugger_scripts_profiler_srpprofilerservice_srdebugger_profiler_srpprofilerservice_onlateupdate"
-    ],
-    "140": [
       "assets_stompyrobot_srdebugger_scripts_profiler_profilerserviceimpl_srdebugger_profiler_profilerserviceimpl_awake",
       "assets_stompyrobot_srdebugger_scripts_services_implementation_bugreportpopoverservice_srdebugger_services_implementation_bugreportpopoverservice_awake",
       "assets_stompyrobot_srdebugger_scripts_services_implementation_debugpanelserviceimpl_srdebugger_services_implementation_debugpanelserviceimpl_load",
@@ -4103,7 +4086,7 @@
       "assets_stompyrobot_srf_scripts_helpers_hierarchy_srf_hierarchy",
       "assets_stompyrobot_srf_scripts_helpers_hierarchy_srf_hierarchy_get"
     ],
-    "141": [
+    "140": [
       "assets_stompyrobot_srdebugger_scripts_ui_other_handlemanager_cs_bool",
       "assets_stompyrobot_srdebugger_scripts_ui_other_handlemanager_cs_gameobject",
       "assets_stompyrobot_srdebugger_scripts_ui_other_handlemanager_cs_pinalignment",
@@ -4118,7 +4101,7 @@
       "assets_stompyrobot_srdebugger_scripts_ui_other_pinneduiroot_srdebugger_ui_other_pinneduiroot",
       "verticallayoutgroup"
     ],
-    "142": [
+    "141": [
       "assets_stompyrobot_srf_scripts_components_srautosingleton",
       "assets_stompyrobot_srf_scripts_components_srautosingleton_srf_components_srautosingleton",
       "assets_stompyrobot_srf_scripts_components_srautosingleton_srf_components_srautosingleton_awake",
@@ -4133,7 +4116,7 @@
       "csharp_namespace:e0e10249f8fd1675",
       "srmonobehaviour"
     ],
-    "143": [
+    "142": [
       "assets_textmesh_pro_examples_extras_scripts_cameracontroller",
       "assets_textmesh_pro_examples_extras_scripts_cameracontroller_cs_bool",
       "assets_textmesh_pro_examples_extras_scripts_cameracontroller_cs_float",
@@ -4148,7 +4131,7 @@
       "assets_textmesh_pro_examples_extras_scripts_cameracontroller_tmpro_examples_cameramodes",
       "cameramodes"
     ],
-    "144": [
+    "143": [
       "assets_textmesh_pro_examples_extras_scripts_textconsolesimulator",
       "assets_textmesh_pro_examples_extras_scripts_textconsolesimulator_cs_bool",
       "assets_textmesh_pro_examples_extras_scripts_textconsolesimulator_cs_ienumerator",
@@ -4163,7 +4146,7 @@
       "assets_textmesh_pro_examples_extras_scripts_textconsolesimulator_tmpro_examples_textconsolesimulator_revealwords",
       "assets_textmesh_pro_examples_extras_scripts_textconsolesimulator_tmpro_examples_textconsolesimulator_start"
     ],
-    "145": [
+    "144": [
       "assets_textmesh_pro_examples_extras_scripts_tmp_frameratecounter",
       "assets_textmesh_pro_examples_extras_scripts_tmp_frameratecounter_cs_camera",
       "assets_textmesh_pro_examples_extras_scripts_tmp_frameratecounter_cs_float",
@@ -4178,7 +4161,7 @@
       "assets_textmesh_pro_examples_extras_scripts_tmp_frameratecounter_tmpro_examples_tmp_frameratecounter_start",
       "assets_textmesh_pro_examples_extras_scripts_tmp_frameratecounter_tmpro_examples_tmp_frameratecounter_update"
     ],
-    "146": [
+    "145": [
       "assets_textmesh_pro_examples_extras_scripts_tmp_textselector_a",
       "assets_textmesh_pro_examples_extras_scripts_tmp_textselector_a_cs_bool",
       "assets_textmesh_pro_examples_extras_scripts_tmp_textselector_a_cs_camera",
@@ -4193,7 +4176,7 @@
       "ipointerenterhandler",
       "ipointerexithandler"
     ],
-    "147": [
+    "146": [
       "assets_textmesh_pro_examples_extras_scripts_vertexshakea",
       "assets_textmesh_pro_examples_extras_scripts_vertexshakea_cs_bool",
       "assets_textmesh_pro_examples_extras_scripts_vertexshakea_cs_float",
@@ -4208,7 +4191,7 @@
       "assets_textmesh_pro_examples_extras_scripts_vertexshakea_tmpro_examples_vertexshakea_onenable",
       "assets_textmesh_pro_examples_extras_scripts_vertexshakea_tmpro_examples_vertexshakea_start"
     ],
-    "148": [
+    "147": [
       "assets_textmesh_pro_examples_extras_scripts_vertexshakeb",
       "assets_textmesh_pro_examples_extras_scripts_vertexshakeb_cs_bool",
       "assets_textmesh_pro_examples_extras_scripts_vertexshakeb_cs_float",
@@ -4223,7 +4206,7 @@
       "assets_textmesh_pro_examples_extras_scripts_vertexshakeb_tmpro_examples_vertexshakeb_onenable",
       "assets_textmesh_pro_examples_extras_scripts_vertexshakeb_tmpro_examples_vertexshakeb_start"
     ],
-    "149": [
+    "148": [
       "assets_textmesh_pro_examples_extras_scripts_vertexzoom",
       "assets_textmesh_pro_examples_extras_scripts_vertexzoom_cs_bool",
       "assets_textmesh_pro_examples_extras_scripts_vertexzoom_cs_float",
@@ -4238,7 +4221,7 @@
       "assets_textmesh_pro_examples_extras_scripts_vertexzoom_tmpro_examples_vertexzoom_onenable",
       "assets_textmesh_pro_examples_extras_scripts_vertexzoom_tmpro_examples_vertexzoom_start"
     ],
-    "150": [
+    "149": [
       "com_unity_ext_nunit",
       "packages_packages_lock_com_unity_ext_nunit_dependencies",
       "packages_packages_lock_com_unity_ext_nunit_depth",
@@ -4253,7 +4236,7 @@
       "packages_packages_lock_dependencies_com_unity_ext_nunit",
       "packages_packages_lock_dependencies_com_unity_ide_rider"
     ],
-    "151": [
+    "150": [
       "packages_com_codomaster_uniject_runtime_bindings_bindingtotypebybuilder_cs_action",
       "packages_com_codomaster_uniject_runtime_bindings_bindingtotypebybuilder_cs_container",
       "packages_com_codomaster_uniject_runtime_bindings_bindingtotypebybuilder_cs_gameobject",
@@ -4268,7 +4251,7 @@
       "packages_com_codomaster_uniject_runtime_bindings_bindingtotypebybuilder_uniject_bindings_bindingtotypebybuilder_bynewcontextfrommethodonnewprefab",
       "packages_com_codomaster_uniject_runtime_bindings_bindingtotypebybuilder_uniject_bindings_bindingtotypebybuilder_setsubcontainergetter"
     ],
-    "152": [
+    "151": [
       "packages_com_codomaster_uniject_tests_editor_containerfactorytestfixture_cs_gameobject",
       "packages_com_codomaster_uniject_tests_editor_containerfactorytestfixture_uniject_tests_custominjectablescriptwithparameterfactory",
       "packages_com_codomaster_uniject_tests_editor_containerfactorytestfixture_uniject_tests_custominjectablescriptwithparameterfactory_create",
@@ -4277,13 +4260,13 @@
       "packages_com_codomaster_uniject_tests_editor_containerfactorytestfixture_uniject_tests_customscriptwithparameterfactory",
       "packages_com_codomaster_uniject_tests_editor_containerfactorytestfixture_uniject_tests_customscriptwithparameterfactory_create",
       "packages_com_codomaster_uniject_tests_editor_containerfactorytestfixture_uniject_tests_gameobjectinjectablescriptfactory",
-      "packages_com_codomaster_uniject_tests_editor_containerfactorytestfixture_uniject_tests_gameobjectproductfactory",
-      "packages_com_codomaster_uniject_tests_editor_containerfactorytestfixture_uniject_tests_gameobjectscriptfactory",
       "packages_com_codomaster_uniject_tests_editor_containerfactorytestfixture_uniject_tests_injectablescriptfactory",
+      "packages_com_codomaster_uniject_tests_runtime_fixtures_injectablescript_cs_inject",
       "packages_com_codomaster_uniject_tests_runtime_fixtures_injectablescript_uniject_tests_fixtures_injectablescript",
+      "packages_com_codomaster_uniject_tests_runtime_fixtures_injectablescript_uniject_tests_fixtures_injectablescript_construct",
       "packages_com_codomaster_uniject_tests_runtime_fixtures_scriptimplementediinterface_uniject_tests_fixtures_scriptimplementediinterface"
     ],
-    "153": [
+    "152": [
       "packages_com_codomaster_uniject_tests_editor_containerresolvefromnewcontextsubcontainertests_cs_ireadonlylist",
       "packages_com_codomaster_uniject_tests_editor_containerresolvefromnewcontextsubcontainertests_uniject_tests_containerresolvefromnewcontextsubcontainertests",
       "packages_com_codomaster_uniject_tests_editor_containerresolvefromnewcontextsubcontainertests_uniject_tests_containerresolvefromnewcontextsubcontainertests_assertcontextisbuilt",
@@ -4298,7 +4281,7 @@
       "packages_com_codomaster_uniject_tests_editor_containerresolvefromnewcontextsubcontainertests_uniject_tests_containerresolvefromnewcontextsubcontainertests_resolve_bynewcontext_withnameandundertransform_ascached_appliesconfigurationandreusescontext",
       "packages_com_codomaster_uniject_tests_editor_containerresolvefromnewcontextsubcontainertests_uniject_tests_transientservice"
     ],
-    "154": [
+    "153": [
       "packages_com_codomaster_uniject_tests_editor_contextlifecycletests",
       "packages_com_codomaster_uniject_tests_editor_contextlifecycletests_cs_action",
       "packages_com_codomaster_uniject_tests_editor_contextlifecycletests_cs_container",
@@ -4312,6 +4295,20 @@
       "packages_com_codomaster_uniject_tests_editor_contextlifecycletests_uniject_tests_contextlifecycletestinstaller_install",
       "packages_com_codomaster_uniject_tests_editor_contextlifecycletests_uniject_tests_contextparentdependency",
       "packages_com_codomaster_uniject_tests_editor_contextlifecycletests_uniject_tests_parentcontextnonlazyprobe"
+    ],
+    "154": [
+      "assets_stompyrobot_srdebugger_scripts_profiler_srpprofilerservice_cs_circularbuffer",
+      "assets_stompyrobot_srdebugger_scripts_profiler_srpprofilerservice_cs_double",
+      "assets_stompyrobot_srdebugger_scripts_profiler_srpprofilerservice_cs_ienumerator",
+      "assets_stompyrobot_srdebugger_scripts_profiler_srpprofilerservice_cs_int",
+      "assets_stompyrobot_srdebugger_scripts_profiler_srpprofilerservice_cs_stopwatch",
+      "assets_stompyrobot_srdebugger_scripts_profiler_srpprofilerservice_endframe",
+      "assets_stompyrobot_srdebugger_scripts_profiler_srpprofilerservice_srdebugger_profiler_srpprofilerservice",
+      "assets_stompyrobot_srdebugger_scripts_profiler_srpprofilerservice_srdebugger_profiler_srpprofilerservice_awake",
+      "assets_stompyrobot_srdebugger_scripts_profiler_srpprofilerservice_srdebugger_profiler_srpprofilerservice_endofframecoroutine",
+      "assets_stompyrobot_srdebugger_scripts_profiler_srpprofilerservice_srdebugger_profiler_srpprofilerservice_onlateupdate",
+      "assets_stompyrobot_srdebugger_scripts_profiler_srpprofilerservice_srdebugger_profiler_srpprofilerservice_pushframe",
+      "assets_stompyrobot_srdebugger_scripts_profiler_srpprofilerservice_srdebugger_profiler_srpprofilerservice_update"
     ],
     "155": [
       "assets_stompyrobot_srdebugger_scripts_sroptions_attributes",
@@ -5045,16 +5042,6 @@
       "assets_stompyrobot_srdebugger_scripts_services_ibugreportservice_srdebugger_services_ibugreportservice_sethandler"
     ],
     "214": [
-      "assets_stompyrobot_srdebugger_scripts_services_implementation_consolefilterstateservice",
-      "assets_stompyrobot_srdebugger_scripts_services_implementation_consolefilterstateservice_assets_stompyrobot_srdebugger_scripts_services_implementation_consolefilterstateservice",
-      "assets_stompyrobot_srdebugger_scripts_services_implementation_consolefilterstateservice_assets_stompyrobot_srdebugger_scripts_services_implementation_consolefilterstateservice_getconsolefilterstate",
-      "assets_stompyrobot_srdebugger_scripts_services_implementation_consolefilterstateservice_assets_stompyrobot_srdebugger_scripts_services_implementation_consolefilterstateservice_gettype",
-      "assets_stompyrobot_srdebugger_scripts_services_implementation_consolefilterstateservice_assets_stompyrobot_srdebugger_scripts_services_implementation_consolefilterstateservice_setconsolefilterstate",
-      "assets_stompyrobot_srdebugger_scripts_services_implementation_consolefilterstateservice_cs_bool",
-      "assets_stompyrobot_srdebugger_scripts_services_implementation_consolefilterstateservice_cs_logtype",
-      "csharp_namespace:809f72d2c709bbae"
-    ],
-    "215": [
       "assets_stompyrobot_srdebugger_scripts_ui_controls_consolelogcontrol_srdebugger_ui_controls_consolelogcontrol_refresh",
       "assets_stompyrobot_srdebugger_scripts_ui_controls_consolelogcontrol_srdebugger_ui_controls_consolelogcontrol_update",
       "assets_stompyrobot_srf_scripts_ui_layout_virtualverticallayoutgroup_cs_vector2",
@@ -5064,7 +5051,7 @@
       "assets_stompyrobot_srf_scripts_ui_layout_virtualverticallayoutgroup_srf_ui_layout_virtualverticallayoutgroup_onscrollrectvaluechanged",
       "assets_stompyrobot_srf_scripts_ui_layout_virtualverticallayoutgroup_srf_ui_layout_virtualverticallayoutgroup_setdirty"
     ],
-    "216": [
+    "215": [
       "assets_stompyrobot_srdebugger_scripts_ui_controls_profilergraphaxislabel",
       "assets_stompyrobot_srdebugger_scripts_ui_controls_profilergraphaxislabel_cs_float",
       "assets_stompyrobot_srdebugger_scripts_ui_controls_profilergraphaxislabel_cs_text",
@@ -5074,7 +5061,7 @@
       "assets_stompyrobot_srdebugger_scripts_ui_controls_profilergraphaxislabel_srdebugger_ui_controls_profilergraphaxislabel_update",
       "assets_stompyrobot_srdebugger_scripts_ui_controls_profilergraphcontrol_drawaxis"
     ],
-    "217": [
+    "216": [
       "assets_stompyrobot_srdebugger_scripts_ui_tabs_consoletabcontroller_cs_consoleentry",
       "assets_stompyrobot_srdebugger_scripts_ui_tabs_consoletabcontroller_cs_ienumerator",
       "assets_stompyrobot_srdebugger_scripts_ui_tabs_consoletabcontroller_srdebugger_ui_tabs_consoletabcontroller_consolelogselecteditemchanged",
@@ -5084,7 +5071,7 @@
       "assets_stompyrobot_srdebugger_scripts_ui_tabs_consoletabcontroller_srdebugger_ui_tabs_consoletabcontroller_setcopytoclipboardbuttonstate",
       "copytoclipboardstates"
     ],
-    "218": [
+    "217": [
       "assets_stompyrobot_srdebugger_scripts_ui_tabs_profilertabcontroller_cs_bool",
       "assets_stompyrobot_srdebugger_scripts_ui_tabs_profilertabcontroller_cs_toggle",
       "assets_stompyrobot_srdebugger_scripts_ui_tabs_profilertabcontroller_srdebugger_ui_tabs_profilertabcontroller",
@@ -5094,7 +5081,7 @@
       "assets_stompyrobot_srdebugger_scripts_ui_tabs_profilertabcontroller_srdebugger_ui_tabs_profilertabcontroller_start",
       "assets_stompyrobot_srdebugger_scripts_ui_tabs_profilertabcontroller_srdebugger_ui_tabs_profilertabcontroller_update"
     ],
-    "219": [
+    "218": [
       "assets_stompyrobot_srf_scripts_service_attributes",
       "assets_stompyrobot_srf_scripts_service_attributes_cs_type",
       "assets_stompyrobot_srf_scripts_service_attributes_srf_service_serviceattribute",
@@ -5104,7 +5091,7 @@
       "packages_com_codomaster_uniject_runtime_attributes_injectattribute_uniject_attributes_injectattribute",
       "preserveattribute"
     ],
-    "220": [
+    "219": [
       "assets_stompyrobot_srf_scripts_ui_layout_virtualverticallayoutgroup_srf_ui_layout_selecteditemchangedevent",
       "assets_stompyrobot_srf_scripts_ui_srspinner_srf_ui_spinevent",
       "assets_textmesh_pro_examples_extras_scripts_tmp_texteventhandler_tmpro_characterselectionevent",
@@ -5114,7 +5101,7 @@
       "assets_textmesh_pro_examples_extras_scripts_tmp_texteventhandler_tmpro_wordselectionevent",
       "unityevent"
     ],
-    "221": [
+    "220": [
       "assets_stompyrobot_srf_scripts_ui_srretinascaler",
       "assets_stompyrobot_srf_scripts_ui_srretinascaler_cs_bool",
       "assets_stompyrobot_srf_scripts_ui_srretinascaler_cs_float",
@@ -5124,7 +5111,7 @@
       "assets_stompyrobot_srf_scripts_ui_srretinascaler_srf_ui_srretinascaler_start",
       "assets_stompyrobot_srf_scripts_ui_srretinascaler_srf_ui_srretinascaler_update"
     ],
-    "222": [
+    "221": [
       "assets_textmesh_pro_examples_extras_scripts_envmapanimator",
       "assets_textmesh_pro_examples_extras_scripts_envmapanimator_cs_ienumerator",
       "assets_textmesh_pro_examples_extras_scripts_envmapanimator_cs_material",
@@ -5134,7 +5121,7 @@
       "assets_textmesh_pro_examples_extras_scripts_envmapanimator_envmapanimator_awake",
       "assets_textmesh_pro_examples_extras_scripts_envmapanimator_envmapanimator_start"
     ],
-    "223": [
+    "222": [
       "packages_com_codomaster_uniject_tests_editor_containerbuildtests_cs_container",
       "packages_com_codomaster_uniject_tests_editor_containerbuildtests_uniject_tests_containerbuildtests",
       "packages_com_codomaster_uniject_tests_editor_containerbuildtests_uniject_tests_containerbuildtests_build",
@@ -5144,7 +5131,7 @@
       "packages_com_codomaster_uniject_tests_editor_containerbuildtests_uniject_tests_entrypointclass_run",
       "packages_com_codomaster_uniject_tests_editor_containerbuildtests_uniject_tests_nonlazyclass"
     ],
-    "224": [
+    "223": [
       "assets_scripts_musiccontroller_cs_inject",
       "assets_scripts_musiccontroller_musiccontroller_construct",
       "assets_scripts_providers_musicclipsprovider",
@@ -5153,7 +5140,7 @@
       "packages_com_codomaster_uniject_runtime_iprovider",
       "packages_com_codomaster_uniject_runtime_iprovider_uniject_iprovider"
     ],
-    "225": [
+    "224": [
       "assets_stompyrobot_srdebugger_scripts_internal_internalbugreporterhandler_cs_action",
       "assets_stompyrobot_srdebugger_scripts_internal_internalbugreporterhandler_cs_bugreport",
       "assets_stompyrobot_srdebugger_scripts_internal_internalbugreporterhandler_cs_bugreportsubmitresult",
@@ -5161,6 +5148,15 @@
       "assets_stompyrobot_srdebugger_scripts_internal_internalbugreporterhandler_srdebugger_internal_internalbugreporterhandler",
       "assets_stompyrobot_srdebugger_scripts_internal_internalbugreporterhandler_srdebugger_internal_internalbugreporterhandler_submit",
       "ibugreporterhandler"
+    ],
+    "225": [
+      "assets_stompyrobot_srdebugger_scripts_services_consolefilterstateservice",
+      "assets_stompyrobot_srdebugger_scripts_services_consolefilterstateservice_cs_bool",
+      "assets_stompyrobot_srdebugger_scripts_services_consolefilterstateservice_cs_logtype",
+      "assets_stompyrobot_srdebugger_scripts_services_consolefilterstateservice_srdebugger_services_consolefilterstateservice",
+      "assets_stompyrobot_srdebugger_scripts_services_consolefilterstateservice_srdebugger_services_consolefilterstateservice_getstate",
+      "assets_stompyrobot_srdebugger_scripts_services_consolefilterstateservice_srdebugger_services_consolefilterstateservice_gettype",
+      "assets_stompyrobot_srdebugger_scripts_services_consolefilterstateservice_srdebugger_services_consolefilterstateservice_setstate"
     ],
     "226": [
       "assets_stompyrobot_srdebugger_scripts_ui_controls_multitapbutton",
@@ -5436,69 +5432,73 @@
       "ientrypoint"
     ],
     "261": [
+      "assets_stompyrobot_srdebugger_scripts_profiler_profilerlateupdatelistener",
+      "assets_stompyrobot_srdebugger_scripts_profiler_profilerlateupdatelistener_cs_action",
+      "assets_stompyrobot_srdebugger_scripts_profiler_profilerlateupdatelistener_srdebugger_profiler_profilerlateupdatelistener",
+      "assets_stompyrobot_srdebugger_scripts_profiler_profilerlateupdatelistener_srdebugger_profiler_profilerlateupdatelistener_lateupdate"
+    ],
+    "262": [
       "assets_stompyrobot_srf_external_jetbrains_annotations_jetbrains_annotations_aspmvcareaattribute",
       "assets_stompyrobot_srf_external_jetbrains_annotations_jetbrains_annotations_aspmvcpartialviewattribute",
       "assets_stompyrobot_srf_external_jetbrains_annotations_jetbrains_annotations_aspmvcviewattribute",
       "assets_stompyrobot_srf_external_jetbrains_annotations_jetbrains_annotations_pathreferenceattribute"
     ],
-    "262": [
+    "263": [
+      "assets_stompyrobot_srf_external_jetbrains_annotations_jetbrains_annotations_assertionconditionattribute",
+      "assets_stompyrobot_srf_external_jetbrains_annotations_jetbrains_annotations_assertionconditiontype",
+      "assets_stompyrobot_srf_external_jetbrains_annotations_jetbrains_annotations_collectionaccessattribute",
+      "assets_stompyrobot_srf_external_jetbrains_annotations_jetbrains_annotations_collectionaccesstype"
+    ],
+    "264": [
       "assets_stompyrobot_srf_external_jetbrains_annotations_jetbrains_annotations_implicitusekindflags",
       "assets_stompyrobot_srf_external_jetbrains_annotations_jetbrains_annotations_implicitusetargetflags",
       "assets_stompyrobot_srf_external_jetbrains_annotations_jetbrains_annotations_meansimplicituseattribute",
       "assets_stompyrobot_srf_external_jetbrains_annotations_jetbrains_annotations_usedimplicitlyattribute"
     ],
-    "263": [
+    "265": [
       "assets_stompyrobot_srf_internal_componentmenupaths",
       "assets_stompyrobot_srf_internal_componentmenupaths_cs_string",
       "assets_stompyrobot_srf_internal_componentmenupaths_srf_internal_componentmenupaths",
       "csharp_namespace:166d89ff73b322ba"
     ],
-    "264": [
+    "266": [
       "assets_stompyrobot_srf_scripts_coroutines",
       "assets_stompyrobot_srf_scripts_coroutines_cs_ienumerator",
       "assets_stompyrobot_srf_scripts_coroutines_srf_coroutines",
       "assets_stompyrobot_srf_scripts_coroutines_srf_coroutines_waitforsecondsrealtime"
     ],
-    "265": [
+    "267": [
       "assets_vtabs_vtabs_cs_rect",
       "assets_vtabs_vtabs_vtabs_vtabs_hierarchywindowitemongui",
       "assets_vtabs_vtabs_vtabs_vtabs_onsomegui",
       "assets_vtabs_vtabs_vtabs_vtabs_projectwindowitemongui"
     ],
-    "266": [
+    "268": [
       "com_unity_modules_unitywebrequestwww",
       "packages_manifest_dependencies_com_unity_modules_unitywebrequestassetbundle",
       "packages_manifest_dependencies_com_unity_modules_unitywebrequesttexture",
       "packages_manifest_dependencies_com_unity_modules_unitywebrequestwww"
     ],
-    "267": [
+    "269": [
       "constructorinfo",
       "packages_com_codomaster_uniject_runtime_reflection_constructorinjectioninfo",
       "packages_com_codomaster_uniject_runtime_reflection_constructorinjectioninfo_cs_parameterinfo",
       "packages_com_codomaster_uniject_runtime_reflection_constructorinjectioninfo_uniject_reflection_constructorinjectiondata"
     ],
-    "268": [
+    "270": [
       "assets_stompyrobot_srf_external_jetbrains_annotations_cs_type",
       "assets_stompyrobot_srf_external_jetbrains_annotations_jetbrains_annotations_aspchildcontroltypeattribute",
       "assets_stompyrobot_srf_external_jetbrains_annotations_jetbrains_annotations_basetyperequiredattribute"
     ],
-    "269": [
+    "271": [
       "assets_vtabs_vtabs_vtabs_vtabs_onbuild",
       "buildtarget",
       "postprocessbuild"
     ],
-    "270": [
+    "272": [
       "packages_com_codomaster_uniject_tests_editor_containerfactoryfromcomponentinnewprefabtests_uniject_tests_containerfactoryfromcomponentinnewprefabtests",
       "packages_com_codomaster_uniject_tests_editor_containerfactoryfromcomponentinnewprefabtests_uniject_tests_containerfactoryfromcomponentinnewprefabtests_create_fromcomponentinnewprefab_whenprefabiscomponent_returnscomponentfromclonedprefab",
       "packages_com_codomaster_uniject_tests_editor_containerfactoryfromcomponentinnewprefabtests_uniject_tests_containerfactoryfromcomponentinnewprefabtests_create_fromcomponentinnewprefab_whenprefabisgameobject_returnscomponentfromclonedprefab"
-    ],
-    "271": [
-      "assets_stompyrobot_srf_external_jetbrains_annotations_jetbrains_annotations_assertionconditionattribute",
-      "assets_stompyrobot_srf_external_jetbrains_annotations_jetbrains_annotations_assertionconditiontype"
-    ],
-    "272": [
-      "assets_stompyrobot_srf_external_jetbrains_annotations_jetbrains_annotations_collectionaccessattribute",
-      "assets_stompyrobot_srf_external_jetbrains_annotations_jetbrains_annotations_collectionaccesstype"
     ],
     "273": [
       "basemethodconsumer",
@@ -6529,9 +6529,9 @@
     "12": 0.061979648473635525,
     "13": 0.07030527289546716,
     "14": 0.07246376811594203,
-    "15": 0.04878048780487805,
-    "16": 0.06387921022067364,
-    "17": 0.07439024390243902,
+    "15": 0.06387921022067364,
+    "16": 0.07439024390243902,
+    "17": 0.0524390243902439,
     "18": 0.09358974358974359,
     "19": 0.09358974358974359,
     "20": 0.05641025641025641,
@@ -6552,39 +6552,39 @@
     "35": 0.10685483870967742,
     "36": 0.06451612903225806,
     "37": 0.06666666666666667,
-    "38": 0.07311827956989247,
+    "38": 0.07526881720430108,
     "39": 0.07526881720430108,
-    "40": 0.07526881720430108,
-    "41": 0.1310344827586207,
-    "42": 0.09195402298850575,
-    "43": 0.10344827586206896,
-    "44": 0.11724137931034483,
+    "40": 0.1310344827586207,
+    "41": 0.09195402298850575,
+    "42": 0.10344827586206896,
+    "43": 0.11724137931034483,
+    "44": 0.07881773399014778,
     "45": 0.08866995073891626,
     "46": 0.08620689655172414,
     "47": 0.07389162561576355,
-    "48": 0.07389162561576355,
-    "49": 0.1349206349206349,
-    "50": 0.12535612535612536,
-    "51": 0.09971509971509972,
-    "52": 0.07692307692307693,
-    "53": 0.10256410256410256,
-    "54": 0.09230769230769231,
-    "55": 0.08,
-    "56": 0.08615384615384615,
-    "57": 0.09333333333333334,
-    "58": 0.09,
+    "48": 0.1330049261083744,
+    "49": 0.07389162561576355,
+    "50": 0.07142857142857142,
+    "51": 0.12535612535612536,
+    "52": 0.09971509971509972,
+    "53": 0.07692307692307693,
+    "54": 0.10256410256410256,
+    "55": 0.09230769230769231,
+    "56": 0.08,
+    "57": 0.08615384615384615,
+    "58": 0.09333333333333334,
     "59": 0.11,
     "60": 0.12333333333333334,
     "61": 0.18840579710144928,
     "62": 0.08695652173913043,
     "63": 0.13043478260869565,
     "64": 0.17753623188405798,
-    "65": 0.11857707509881422,
-    "66": 0.1067193675889328,
-    "67": 0.12648221343873517,
-    "68": 0.11462450592885376,
-    "69": 0.11067193675889328,
-    "70": 0.10822510822510822,
+    "65": 0.10276679841897234,
+    "66": 0.11857707509881422,
+    "67": 0.1067193675889328,
+    "68": 0.12648221343873517,
+    "69": 0.11462450592885376,
+    "70": 0.11067193675889328,
     "71": 0.1038961038961039,
     "72": 0.09956709956709957,
     "73": 0.16017316017316016,
@@ -6609,66 +6609,66 @@
     "92": 0.1111111111111111,
     "93": 0.14619883040935672,
     "94": 0.15204678362573099,
-    "95": 0.15204678362573099,
-    "96": 0.20261437908496732,
-    "97": 0.13071895424836602,
-    "98": 0.13725490196078433,
-    "99": 0.16993464052287582,
+    "95": 0.20261437908496732,
+    "96": 0.13071895424836602,
+    "97": 0.13725490196078433,
+    "98": 0.16993464052287582,
+    "99": 0.1503267973856209,
     "100": 0.12418300653594772,
-    "101": 0.11764705882352941,
-    "102": 0.20588235294117646,
-    "103": 0.1323529411764706,
+    "101": 0.16339869281045752,
+    "102": 0.11764705882352941,
+    "103": 0.20588235294117646,
     "104": 0.19117647058823528,
     "105": 0.15441176470588236,
     "106": 0.225,
-    "107": 0.2,
-    "108": 0.225,
-    "109": 0.18333333333333332,
+    "107": 0.225,
+    "108": 0.18333333333333332,
+    "109": 0.19166666666666668,
     "110": 0.19166666666666668,
-    "111": 0.19166666666666668,
-    "112": 0.16666666666666666,
-    "113": 0.125,
-    "114": 0.125,
-    "115": 0.1619047619047619,
+    "111": 0.125,
+    "112": 0.125,
+    "113": 0.1619047619047619,
+    "114": 0.1619047619047619,
+    "115": 0.14285714285714285,
     "116": 0.1619047619047619,
-    "117": 0.14285714285714285,
-    "118": 0.1619047619047619,
-    "119": 0.18095238095238095,
-    "120": 0.34285714285714286,
-    "121": 0.1619047619047619,
-    "122": 0.19047619047619047,
-    "123": 0.18095238095238095,
-    "124": 0.45714285714285713,
-    "125": 0.18681318681318682,
-    "126": 0.1978021978021978,
-    "127": 0.15384615384615385,
-    "128": 0.17582417582417584,
-    "129": 0.16483516483516483,
-    "130": 0.17582417582417584,
-    "131": 0.16483516483516483,
-    "132": 0.24175824175824176,
-    "133": 0.21978021978021978,
-    "134": 0.2087912087912088,
-    "135": 0.16483516483516483,
-    "136": 0.1978021978021978,
+    "117": 0.18095238095238095,
+    "118": 0.34285714285714286,
+    "119": 0.1619047619047619,
+    "120": 0.14285714285714285,
+    "121": 0.19047619047619047,
+    "122": 0.18095238095238095,
+    "123": 0.45714285714285713,
+    "124": 0.18681318681318682,
+    "125": 0.1978021978021978,
+    "126": 0.15384615384615385,
+    "127": 0.17582417582417584,
+    "128": 0.16483516483516483,
+    "129": 0.17582417582417584,
+    "130": 0.16483516483516483,
+    "131": 0.24175824175824176,
+    "132": 0.21978021978021978,
+    "133": 0.2087912087912088,
+    "134": 0.16483516483516483,
+    "135": 0.1978021978021978,
+    "136": 0.2564102564102564,
     "137": 0.3076923076923077,
     "138": 0.20512820512820512,
-    "139": 0.16666666666666666,
-    "140": 0.15384615384615385,
-    "141": 0.20512820512820512,
-    "142": 0.19230769230769232,
-    "143": 0.16666666666666666,
-    "144": 0.20512820512820512,
-    "145": 0.1794871794871795,
+    "139": 0.15384615384615385,
+    "140": 0.20512820512820512,
+    "141": 0.19230769230769232,
+    "142": 0.16666666666666666,
+    "143": 0.20512820512820512,
+    "144": 0.1794871794871795,
+    "145": 0.16666666666666666,
     "146": 0.16666666666666666,
     "147": 0.16666666666666666,
     "148": 0.16666666666666666,
-    "149": 0.16666666666666666,
-    "150": 0.15384615384615385,
-    "151": 0.34615384615384615,
-    "152": 0.23076923076923078,
-    "153": 0.2948717948717949,
-    "154": 0.19230769230769232,
+    "149": 0.15384615384615385,
+    "150": 0.34615384615384615,
+    "151": 0.23076923076923078,
+    "152": 0.2948717948717949,
+    "153": 0.19230769230769232,
+    "154": 0.19696969696969696,
     "155": 0.18181818181818182,
     "156": 0.16666666666666666,
     "157": 0.2727272727272727,
@@ -6728,18 +6728,18 @@
     "211": 0.2222222222222222,
     "212": 0.35714285714285715,
     "213": 0.25,
-    "214": 0.39285714285714285,
-    "215": 0.2857142857142857,
-    "216": 0.32142857142857145,
-    "217": 0.25,
-    "218": 0.32142857142857145,
-    "219": 0.39285714285714285,
-    "220": 0.25,
-    "221": 0.32142857142857145,
-    "222": 0.25,
-    "223": 0.32142857142857145,
+    "214": 0.2857142857142857,
+    "215": 0.32142857142857145,
+    "216": 0.25,
+    "217": 0.32142857142857145,
+    "218": 0.39285714285714285,
+    "219": 0.25,
+    "220": 0.32142857142857145,
+    "221": 0.25,
+    "222": 0.32142857142857145,
+    "223": 0.2857142857142857,
     "224": 0.2857142857142857,
-    "225": 0.2857142857142857,
+    "225": 0.47619047619047616,
     "226": 0.2857142857142857,
     "227": 0.2857142857142857,
     "228": 0.42857142857142855,
@@ -6776,17 +6776,17 @@
     "259": 0.4,
     "260": 0.5,
     "261": 0.5,
-    "262": 0.6666666666666666,
-    "263": 0.5,
-    "264": 0.5,
-    "265": 0.6666666666666666,
+    "262": 0.5,
+    "263": 0.3333333333333333,
+    "264": 0.6666666666666666,
+    "265": 0.5,
     "266": 0.5,
-    "267": 0.5,
-    "268": 0.6666666666666666,
-    "269": 0.6666666666666666,
+    "267": 0.6666666666666666,
+    "268": 0.5,
+    "269": 0.5,
     "270": 0.6666666666666666,
-    "271": 1.0,
-    "272": 1.0,
+    "271": 0.6666666666666666,
+    "272": 0.6666666666666666,
     "273": 1.0,
     "274": 1.0,
     "275": 1.0,

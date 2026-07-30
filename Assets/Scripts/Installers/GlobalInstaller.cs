@@ -12,10 +12,7 @@ public class GlobalInstaller : MonoInstaller
 
     public override void Install(Container container)
     {
-        container.Bind<EnemySpawner>().FromNewComponentOnConsumer();
-
-        container.AddToInjectionQueue(_enemy1);
-        container.AddToInjectionQueue(_enemy2);
+        container.Bind<Enemy>().FromComponentInHierarchy().AsCached();
 
         container.Bind<ProjectController>().AsEntryPoint();
     }

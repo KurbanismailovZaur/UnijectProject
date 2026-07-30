@@ -5,12 +5,16 @@ using UnityEngine;
 
 public class ProjectController : IEntryPoint
 {
-    public ProjectController()
+    private readonly Enemy _enemy;
+
+    public ProjectController(Enemy enemy)
     {
+        _enemy = enemy;
     }
 
     public void Run()
     {
         Debug.Log("ProjectController is running!");
+        Debug.Log(_enemy.name);
     }
 }

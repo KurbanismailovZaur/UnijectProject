@@ -1,0 +1,2087 @@
+{
+  "Assets/Scripts/BootSceneController.cs": {
+    "mtime": 1783280871.5866768,
+    "ast_hash": "1e8702eaac611021e4f6953b4ef05e0a",
+    "semantic_hash": "1e8702eaac611021e4f6953b4ef05e0a"
+  },
+  "Assets/Scripts/Enemy.cs": {
+    "mtime": 1785247117.3881645,
+    "ast_hash": "a2da2c4795afd7f68af339d8c3332d83",
+    "semantic_hash": "a2da2c4795afd7f68af339d8c3332d83"
+  },
+  "Assets/Scripts/EnemySpawner.cs": {
+    "mtime": 1785234693.1419425,
+    "ast_hash": "7c8cbeaede6eefcf15429ac569573a17",
+    "semantic_hash": "7c8cbeaede6eefcf15429ac569573a17"
+  },
+  "Assets/Scripts/Installers/BootInstaller.cs": {
+    "mtime": 1783280025.443023,
+    "ast_hash": "3e3b1da0631f84f099974744eba02c5f",
+    "semantic_hash": "3e3b1da0631f84f099974744eba02c5f"
+  },
+  "Assets/Scripts/Installers/EnemyInstaller.cs": {
+    "mtime": 1785247128.8390625,
+    "ast_hash": "fdb2673015bbacef064f06e6ffd10512",
+    "semantic_hash": "fdb2673015bbacef064f06e6ffd10512"
+  },
+  "Assets/Scripts/Installers/GlobalInstaller.cs": {
+    "mtime": 1785247024.2660952,
+    "ast_hash": "171d9c2ffa5df7ceb723d3a19a66737d",
+    "semantic_hash": "171d9c2ffa5df7ceb723d3a19a66737d"
+  },
+  "Assets/Scripts/MusicController.cs": {
+    "mtime": 1783280505.7342405,
+    "ast_hash": "7c5a2ddc2686526f894221d52beba44c",
+    "semantic_hash": "7c5a2ddc2686526f894221d52beba44c"
+  },
+  "Assets/Scripts/ProjectController.cs": {
+    "mtime": 1785247173.2071242,
+    "ast_hash": "284cddb32084f3bdc34d756f2c81d2ba",
+    "semantic_hash": "284cddb32084f3bdc34d756f2c81d2ba"
+  },
+  "Assets/Scripts/Providers/MusicClipsProvider.cs": {
+    "mtime": 1783255440.1485674,
+    "ast_hash": "aeb016971e89b6f56585e2cd4caa7b6e",
+    "semantic_hash": "aeb016971e89b6f56585e2cd4caa7b6e"
+  },
+  "Assets/Scripts/Test.cs": {
+    "mtime": 1783257291.5446668,
+    "ast_hash": "28af243587e009305d72ec6fafe3d39e",
+    "semantic_hash": "28af243587e009305d72ec6fafe3d39e"
+  },
+  "Assets/Scripts/TestScript.cs": {
+    "mtime": 1783281855.8776727,
+    "ast_hash": "5fec3b557da5337619daf01822a8981c",
+    "semantic_hash": "5fec3b557da5337619daf01822a8981c"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/AutoInitialize.cs": {
+    "mtime": 1783257234.41817,
+    "ast_hash": "014821151381c690e27652924d5eba6f",
+    "semantic_hash": "014821151381c690e27652924d5eba6f"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/Editor/ApiSignup.cs": {
+    "mtime": 1783257234.4184465,
+    "ast_hash": "975cf030ea0337f06becdfcc09a7bcd4",
+    "semantic_hash": "975cf030ea0337f06becdfcc09a7bcd4"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/Editor/ApiSignupWindow.cs": {
+    "mtime": 1783257234.4186041,
+    "ast_hash": "d6b27fe697f5a37bbb416f5a60cf8b18",
+    "semantic_hash": "d6b27fe697f5a37bbb416f5a60cf8b18"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/Editor/IntegrityChecking.cs": {
+    "mtime": 1783257234.4187648,
+    "ast_hash": "da80e7d49bf8310103db392637d23717",
+    "semantic_hash": "da80e7d49bf8310103db392637d23717"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/Editor/Migrations.cs": {
+    "mtime": 1783257234.418998,
+    "ast_hash": "0b0fb176f2e451ca969aa5155ae04656",
+    "semantic_hash": "0b0fb176f2e451ca969aa5155ae04656"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/Editor/ProfilerCameraListenerEditor.cs": {
+    "mtime": 1783257234.4191506,
+    "ast_hash": "b6df2d126a93634c4fa92f6b6d6dc7d8",
+    "semantic_hash": "b6df2d126a93634c4fa92f6b6d6dc7d8"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/Editor/SRDebugEditor.Compiler.cs": {
+    "mtime": 1783257234.4193084,
+    "ast_hash": "5ec883160448aaba805bdb6f3a536ca1",
+    "semantic_hash": "5ec883160448aaba805bdb6f3a536ca1"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/Editor/SRDebugEditor.Resources.cs": {
+    "mtime": 1783257234.4195426,
+    "ast_hash": "c362c9ac678b3824c3abadf5d52062ee",
+    "semantic_hash": "c362c9ac678b3824c3abadf5d52062ee"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/Editor/SRDebugEditor.cs": {
+    "mtime": 1783257234.419976,
+    "ast_hash": "71e5474300f01facbafc9ca5d9d96ae7",
+    "semantic_hash": "71e5474300f01facbafc9ca5d9d96ae7"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/Editor/SRDebugEditorPaths.cs": {
+    "mtime": 1783257234.4201314,
+    "ast_hash": "155413fb12ace2f0fbdc8258b40ff32a",
+    "semantic_hash": "155413fb12ace2f0fbdc8258b40ff32a"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/Editor/SRDebugEditorStrings.cs": {
+    "mtime": 1783257234.4202836,
+    "ast_hash": "66cd9d19911cb286d933db64200e0100",
+    "semantic_hash": "66cd9d19911cb286d933db64200e0100"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/Editor/SRIntegrityCheckWindow.cs": {
+    "mtime": 1783257234.4205823,
+    "ast_hash": "cc4ebc904ce0ad5cbc14904951bc4d31",
+    "semantic_hash": "cc4ebc904ce0ad5cbc14904951bc4d31"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/Editor/SRInternalEditorUtil.cs": {
+    "mtime": 1783257234.42076,
+    "ast_hash": "51d78925a074975f91938aae834b0313",
+    "semantic_hash": "51d78925a074975f91938aae834b0313"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/Editor/SROptionsWindow.cs": {
+    "mtime": 1783257234.421446,
+    "ast_hash": "54e9854034e0cc026100e2c35b16d224",
+    "semantic_hash": "54e9854034e0cc026100e2c35b16d224"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/Editor/SettingsEditor.cs": {
+    "mtime": 1783257234.4215732,
+    "ast_hash": "d58b0b79322ae1c5a4f3221766073772",
+    "semantic_hash": "d58b0b79322ae1c5a4f3221766073772"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/Editor/SettingsWindow.cs": {
+    "mtime": 1783257234.42172,
+    "ast_hash": "55940ab3b2fadaa8179210e05033381a",
+    "semantic_hash": "55940ab3b2fadaa8179210e05033381a"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/Editor/WelcomeWindow.cs": {
+    "mtime": 1783257234.422241,
+    "ast_hash": "d22a04d53b6497a67ded43f93281d4e8",
+    "semantic_hash": "d22a04d53b6497a67ded43f93281d4e8"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/IBugReporterHandler.cs": {
+    "mtime": 1783257234.4224668,
+    "ast_hash": "c378a69d2b63f17be96660ca08142224",
+    "semantic_hash": "c378a69d2b63f17be96660ca08142224"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/IOptionContainer.cs": {
+    "mtime": 1783257234.4226522,
+    "ast_hash": "be734521afd25a6bfac98d8c91bf05c0",
+    "semantic_hash": "be734521afd25a6bfac98d8c91bf05c0"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/Internal/Api.cs": {
+    "mtime": 1783257234.4229593,
+    "ast_hash": "d9127786709e115e8fd6e5c6d4cd593d",
+    "semantic_hash": "d9127786709e115e8fd6e5c6d4cd593d"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/Internal/ApiUtil.cs": {
+    "mtime": 1783257234.423103,
+    "ast_hash": "b14aaba6c3f0cc098263b6d2594ff8c8",
+    "semantic_hash": "b14aaba6c3f0cc098263b6d2594ff8c8"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/Internal/BugReportApi.cs": {
+    "mtime": 1783257234.4233375,
+    "ast_hash": "79309bc2d0151b1077aece33e3338e88",
+    "semantic_hash": "79309bc2d0151b1077aece33e3338e88"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/Internal/BugReportScreenshotUtil.cs": {
+    "mtime": 1783257234.4234986,
+    "ast_hash": "5216b2ea4c630797418fc76300c7bcab",
+    "semantic_hash": "5216b2ea4c630797418fc76300c7bcab"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/Internal/CircularBuffer.cs": {
+    "mtime": 1783257234.4237366,
+    "ast_hash": "f0f8c878f68064860546c3af8d0d77e4",
+    "semantic_hash": "f0f8c878f68064860546c3af8d0d77e4"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/Internal/EditorUtil.cs": {
+    "mtime": 1783257234.4238849,
+    "ast_hash": "b6df2d126a93634c4fa92f6b6d6dc7d8",
+    "semantic_hash": "b6df2d126a93634c4fa92f6b6d6dc7d8"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/Internal/InternalBugReporterHandler.cs": {
+    "mtime": 1783257234.4240274,
+    "ast_hash": "b5631463ca97febb2c2f5d6f77d66df2",
+    "semantic_hash": "b5631463ca97febb2c2f5d6f77d66df2"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/Internal/InternalOptionsRegistry.cs": {
+    "mtime": 1783257234.424186,
+    "ast_hash": "208a974a93000d890a7725410a84c8a2",
+    "semantic_hash": "208a974a93000d890a7725410a84c8a2"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/Internal/OptionControlFactory.cs": {
+    "mtime": 1783257234.4244184,
+    "ast_hash": "ffa0e8804730058bf9783e4dad87c651",
+    "semantic_hash": "ffa0e8804730058bf9783e4dad87c651"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/Internal/OptionDefinition.cs": {
+    "mtime": 1783257234.424593,
+    "ast_hash": "be0b5463463241847f72ae33ca54379b",
+    "semantic_hash": "be0b5463463241847f72ae33ca54379b"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/Internal/Paths.cs": {
+    "mtime": 1783257234.4247386,
+    "ast_hash": "1465f9d9971ae4774404c4c091325909",
+    "semantic_hash": "1465f9d9971ae4774404c4c091325909"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/Internal/SRScriptRecompileHelper.cs": {
+    "mtime": 1783257234.424897,
+    "ast_hash": "6412254582ac13078f68a6b26cf0e2ac",
+    "semantic_hash": "6412254582ac13078f68a6b26cf0e2ac"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/Internal/Service.cs": {
+    "mtime": 1783257234.4250345,
+    "ast_hash": "a3cf2738f6d8a819c4a92f544e2739d7",
+    "semantic_hash": "a3cf2738f6d8a819c4a92f544e2739d7"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/Internal/Strings.cs": {
+    "mtime": 1783257234.4251797,
+    "ast_hash": "e601edae2dbb434ce0b74079f9af5012",
+    "semantic_hash": "e601edae2dbb434ce0b74079f9af5012"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/Internal/Util.cs": {
+    "mtime": 1783257234.4254377,
+    "ast_hash": "6ae29923e59886c78cfbeba559f4264e",
+    "semantic_hash": "6ae29923e59886c78cfbeba559f4264e"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/Profiler/ProfilerCameraListener.cs": {
+    "mtime": 1783257234.4257064,
+    "ast_hash": "b6df2d126a93634c4fa92f6b6d6dc7d8",
+    "semantic_hash": "b6df2d126a93634c4fa92f6b6d6dc7d8"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/Profiler/ProfilerLateUpdateListener.cs": {
+    "mtime": 1783257234.4258778,
+    "ast_hash": "9ed6afd80e443e454c2c3dd9b6b644ca",
+    "semantic_hash": "9ed6afd80e443e454c2c3dd9b6b644ca"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/Profiler/ProfilerServiceImpl.cs": {
+    "mtime": 1783257234.4261482,
+    "ast_hash": "ebe17071fe667c76fb593c879d80d7bd",
+    "semantic_hash": "ebe17071fe667c76fb593c879d80d7bd"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/Profiler/SRPProfilerService.cs": {
+    "mtime": 1783257234.4264908,
+    "ast_hash": "13b283f50a5dfb3b72484d396848307f",
+    "semantic_hash": "13b283f50a5dfb3b72484d396848307f"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/SRDebug.cs": {
+    "mtime": 1783257234.4266477,
+    "ast_hash": "8f093e4ddf569ab443a474b5867e8ceb",
+    "semantic_hash": "8f093e4ddf569ab443a474b5867e8ceb"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/SRDebuggerInit.cs": {
+    "mtime": 1783257234.426794,
+    "ast_hash": "cccdab07aba3e034fd2d9412a65b172a",
+    "semantic_hash": "cccdab07aba3e034fd2d9412a65b172a"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/SROptions.Attributes.cs": {
+    "mtime": 1783257234.426963,
+    "ast_hash": "63600c617fcd863ec11e9cc0348a340e",
+    "semantic_hash": "63600c617fcd863ec11e9cc0348a340e"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/SROptions.Test.cs": {
+    "mtime": 1783257234.427104,
+    "ast_hash": "d1aa2e3df0aa5ce91330cc0f64de72d2",
+    "semantic_hash": "d1aa2e3df0aa5ce91330cc0f64de72d2"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/SROptions.cs": {
+    "mtime": 1783257234.427279,
+    "ast_hash": "492c4f6c080e368884bd87e5fe82148e",
+    "semantic_hash": "492c4f6c080e368884bd87e5fe82148e"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/Services/ConsoleFilterStateService.cs": {
+    "mtime": 1783257234.4275656,
+    "ast_hash": "88e1d9467e32fd4010d4fa625868906b",
+    "semantic_hash": "88e1d9467e32fd4010d4fa625868906b"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/Services/IBugReportService.cs": {
+    "mtime": 1783257234.4277308,
+    "ast_hash": "a6782f6501721321b02476d4edfa7e15",
+    "semantic_hash": "a6782f6501721321b02476d4edfa7e15"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/Services/IConsoleFilterState.cs": {
+    "mtime": 1783257234.4278853,
+    "ast_hash": "1a30a6aeef7b8ef36d1ddc4700768d89",
+    "semantic_hash": "1a30a6aeef7b8ef36d1ddc4700768d89"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/Services/IConsoleService.cs": {
+    "mtime": 1783257234.4280493,
+    "ast_hash": "ee029237f8fc918534ad6e3c3c17304a",
+    "semantic_hash": "ee029237f8fc918534ad6e3c3c17304a"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/Services/IDebugCameraService.cs": {
+    "mtime": 1783257234.4281902,
+    "ast_hash": "b1154909024ee4d2de66e15c74ee7e3e",
+    "semantic_hash": "b1154909024ee4d2de66e15c74ee7e3e"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/Services/IDebugPanelService.cs": {
+    "mtime": 1783257234.428338,
+    "ast_hash": "23ab17435f281aec9ba910cf08615ce8",
+    "semantic_hash": "23ab17435f281aec9ba910cf08615ce8"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/Services/IDebugService.cs": {
+    "mtime": 1783257234.4285698,
+    "ast_hash": "1940e6089ad9cd0b96a32da8d1b28737",
+    "semantic_hash": "1940e6089ad9cd0b96a32da8d1b28737"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/Services/IDebugTriggerService.cs": {
+    "mtime": 1783257234.4288712,
+    "ast_hash": "e1c0c13316edae4a3b8a5dc3243caa36",
+    "semantic_hash": "e1c0c13316edae4a3b8a5dc3243caa36"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/Services/IDockConsoleService.cs": {
+    "mtime": 1783257234.4290707,
+    "ast_hash": "99aff6c4e46ab0b2843c6ea66577f4cf",
+    "semantic_hash": "99aff6c4e46ab0b2843c6ea66577f4cf"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/Services/IOptionsService.cs": {
+    "mtime": 1783257234.4292512,
+    "ast_hash": "ff12e0eff7f9b989f6dcdd40f72828b8",
+    "semantic_hash": "ff12e0eff7f9b989f6dcdd40f72828b8"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/Services/IPinEntryService.cs": {
+    "mtime": 1783257234.4294608,
+    "ast_hash": "9d69716f032871a3d43ad6b2b0d5c6ed",
+    "semantic_hash": "9d69716f032871a3d43ad6b2b0d5c6ed"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/Services/IPinnedOptionsService.cs": {
+    "mtime": 1783257234.4296446,
+    "ast_hash": "f1359d230d29f23e2667d477c1861439",
+    "semantic_hash": "f1359d230d29f23e2667d477c1861439"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/Services/IProfilerService.cs": {
+    "mtime": 1783257234.4298017,
+    "ast_hash": "77d8a2568b3bd95e28b5589bb2e346cc",
+    "semantic_hash": "77d8a2568b3bd95e28b5589bb2e346cc"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/Services/ISystemInformationService.cs": {
+    "mtime": 1783257234.429962,
+    "ast_hash": "b150a23facaae4d5cdc4920a83001d27",
+    "semantic_hash": "b150a23facaae4d5cdc4920a83001d27"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/Services/Implementation/BugReportApiService.cs": {
+    "mtime": 1783257234.4302692,
+    "ast_hash": "1d2d7a6573d77d1ebb02f2d18b3f0930",
+    "semantic_hash": "1d2d7a6573d77d1ebb02f2d18b3f0930"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/Services/Implementation/BugReportPopoverService.cs": {
+    "mtime": 1783257234.430507,
+    "ast_hash": "8e4831f45fce560336c3bf58895335f3",
+    "semantic_hash": "8e4831f45fce560336c3bf58895335f3"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/Services/Implementation/ConsoleFilterStateService.cs": {
+    "mtime": 1783257234.430682,
+    "ast_hash": "e583493f59599af4f03ee6b36496b167",
+    "semantic_hash": "e583493f59599af4f03ee6b36496b167"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/Services/Implementation/DebugCameraServiceImpl.cs": {
+    "mtime": 1783257234.4309595,
+    "ast_hash": "5f8b4a7064f2b78c81739593385f1859",
+    "semantic_hash": "5f8b4a7064f2b78c81739593385f1859"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/Services/Implementation/DebugPanelServiceImpl.cs": {
+    "mtime": 1783257234.4314535,
+    "ast_hash": "a7533e1c063ea015cd98dd8629ee54f7",
+    "semantic_hash": "a7533e1c063ea015cd98dd8629ee54f7"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/Services/Implementation/DebugTriggerImpl.cs": {
+    "mtime": 1783257234.431774,
+    "ast_hash": "71efeddbebbe703c51964b19d48deaeb",
+    "semantic_hash": "71efeddbebbe703c51964b19d48deaeb"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/Services/Implementation/DockConsoleServiceImpl.cs": {
+    "mtime": 1783257234.4320824,
+    "ast_hash": "c901caea293f80540ee29ed4229fe6cb",
+    "semantic_hash": "c901caea293f80540ee29ed4229fe6cb"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/Services/Implementation/KeyboardShortcutListenerService.cs": {
+    "mtime": 1783257234.4323,
+    "ast_hash": "e5650770f89a5cf800258bba91bf29d0",
+    "semantic_hash": "e5650770f89a5cf800258bba91bf29d0"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/Services/Implementation/OptionsServiceImpl.ReflectionOptionContainer.cs": {
+    "mtime": 1783257234.4324598,
+    "ast_hash": "6dccb93202ca6054c254b96569309cfb",
+    "semantic_hash": "6dccb93202ca6054c254b96569309cfb"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/Services/Implementation/OptionsServiceImpl.cs": {
+    "mtime": 1783257234.432795,
+    "ast_hash": "6f5a38583f51e07bf241bffa371beacd",
+    "semantic_hash": "6f5a38583f51e07bf241bffa371beacd"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/Services/Implementation/PinEntryServiceImpl.cs": {
+    "mtime": 1783257234.4329512,
+    "ast_hash": "2cd731539df9f3b0c6457077b7c1c1a4",
+    "semantic_hash": "2cd731539df9f3b0c6457077b7c1c1a4"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/Services/Implementation/PinnedUIServiceImpl.cs": {
+    "mtime": 1783257234.4333532,
+    "ast_hash": "8dd8a0c8294f05fe25c73bd3e673e05c",
+    "semantic_hash": "8dd8a0c8294f05fe25c73bd3e673e05c"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/Services/Implementation/SRDebugService.cs": {
+    "mtime": 1783257234.4335515,
+    "ast_hash": "d40a0ec70f98fa4528803c0b159bebb7",
+    "semantic_hash": "d40a0ec70f98fa4528803c0b159bebb7"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/Services/Implementation/StandardConsoleService.cs": {
+    "mtime": 1783257234.4337692,
+    "ast_hash": "b6e8d68048e1314cc46aafc9c37dffb5",
+    "semantic_hash": "b6e8d68048e1314cc46aafc9c37dffb5"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/Services/Implementation/SystemInformationService.cs": {
+    "mtime": 1783257234.4339793,
+    "ast_hash": "4ab2f7bc3563689cd458cd0bc15d7ed5",
+    "semantic_hash": "4ab2f7bc3563689cd458cd0bc15d7ed5"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/Services/ServiceSelectors.cs": {
+    "mtime": 1783257234.4341395,
+    "ast_hash": "acf430b8fece1dddd26ef7f7165a7044",
+    "semantic_hash": "acf430b8fece1dddd26ef7f7165a7044"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/Settings.cs": {
+    "mtime": 1783257234.4343047,
+    "ast_hash": "c4b379fec52d9652f4d21444890fccf8",
+    "semantic_hash": "c4b379fec52d9652f4d21444890fccf8"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/UI/Controls/ConsoleEntryView.cs": {
+    "mtime": 1783257234.435287,
+    "ast_hash": "f243f13c4699d6849e675772038ff540",
+    "semantic_hash": "f243f13c4699d6849e675772038ff540"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/UI/Controls/ConsoleLogControl.cs": {
+    "mtime": 1783257234.4354784,
+    "ast_hash": "74afd9e02570405ccd7260243973c39a",
+    "semantic_hash": "74afd9e02570405ccd7260243973c39a"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/UI/Controls/Data/ActionControl.cs": {
+    "mtime": 1783257234.4357336,
+    "ast_hash": "9aa1f27c37f955471406d74e9959ac18",
+    "semantic_hash": "9aa1f27c37f955471406d74e9959ac18"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/UI/Controls/Data/BoolControl.cs": {
+    "mtime": 1783257234.4358795,
+    "ast_hash": "39d9531b135710f63280e91c148fdb03",
+    "semantic_hash": "39d9531b135710f63280e91c148fdb03"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/UI/Controls/Data/DataBoundControl.cs": {
+    "mtime": 1783257234.4360073,
+    "ast_hash": "284034ae8ad3a51ea6a63cdda2dbad2f",
+    "semantic_hash": "284034ae8ad3a51ea6a63cdda2dbad2f"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/UI/Controls/Data/EnumControl.cs": {
+    "mtime": 1783257234.4361491,
+    "ast_hash": "e246d4837313192786e0b0f81e465aed",
+    "semantic_hash": "e246d4837313192786e0b0f81e465aed"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/UI/Controls/Data/NumberControl.cs": {
+    "mtime": 1783257234.4364624,
+    "ast_hash": "2f8bfa32bbee6091e89e91ce9bc8ffba",
+    "semantic_hash": "2f8bfa32bbee6091e89e91ce9bc8ffba"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/UI/Controls/Data/OptionsControlBase.cs": {
+    "mtime": 1783257234.4366114,
+    "ast_hash": "36efccf035827f70fa7d88dad805de97",
+    "semantic_hash": "36efccf035827f70fa7d88dad805de97"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/UI/Controls/Data/ReadOnlyControl.cs": {
+    "mtime": 1783257234.4367478,
+    "ast_hash": "219ee02c3f3619d59264f84c1adb8559",
+    "semantic_hash": "219ee02c3f3619d59264f84c1adb8559"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/UI/Controls/Data/StringControl.cs": {
+    "mtime": 1783257234.4368708,
+    "ast_hash": "ccae21ddbf6d2ef595d4c5511c99d559",
+    "semantic_hash": "ccae21ddbf6d2ef595d4c5511c99d559"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/UI/Controls/InfoBlock.cs": {
+    "mtime": 1783257234.437004,
+    "ast_hash": "bb0110bd78fab9c98f9f212ee37bfd6c",
+    "semantic_hash": "bb0110bd78fab9c98f9f212ee37bfd6c"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/UI/Controls/MultiTapButton.cs": {
+    "mtime": 1783257234.4371624,
+    "ast_hash": "57a3cdebdcae0bd9a093d3aaac5f7791",
+    "semantic_hash": "57a3cdebdcae0bd9a093d3aaac5f7791"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/UI/Controls/PinEntryControl.cs": {
+    "mtime": 1783257234.4374626,
+    "ast_hash": "9749c24b810416fed436c9113c33d1bd",
+    "semantic_hash": "9749c24b810416fed436c9113c33d1bd"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/UI/Controls/Profiler/ProfilerFPSLabel.cs": {
+    "mtime": 1783257234.437694,
+    "ast_hash": "36a16d13d7fb11a381f5aed0bf0ec182",
+    "semantic_hash": "36a16d13d7fb11a381f5aed0bf0ec182"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/UI/Controls/Profiler/ProfilerMemoryBlock.cs": {
+    "mtime": 1783257234.437805,
+    "ast_hash": "4de69e54bb9cc702f45642588029cb4b",
+    "semantic_hash": "4de69e54bb9cc702f45642588029cb4b"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/UI/Controls/Profiler/ProfilerMonoBlock.cs": {
+    "mtime": 1783257234.4379203,
+    "ast_hash": "2c84307928431960acab14371886a173",
+    "semantic_hash": "2c84307928431960acab14371886a173"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/UI/Controls/ProfilerEnableControl.cs": {
+    "mtime": 1783257234.438046,
+    "ast_hash": "c69d6435a554d6939453969099983d95",
+    "semantic_hash": "c69d6435a554d6939453969099983d95"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/UI/Controls/ProfilerGraphAxisLabel.cs": {
+    "mtime": 1783257234.438154,
+    "ast_hash": "527479a4e257df65bb65630c25222aa6",
+    "semantic_hash": "527479a4e257df65bb65630c25222aa6"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/UI/Controls/ProfilerGraphControl.cs": {
+    "mtime": 1783257234.4385495,
+    "ast_hash": "423f0cadbc32b1b3370d604e6e5f0351",
+    "semantic_hash": "423f0cadbc32b1b3370d604e6e5f0351"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/UI/Controls/SRTabButton.cs": {
+    "mtime": 1783257234.438679,
+    "ast_hash": "d30ace65088f5adb2d0ad9de797ea182",
+    "semantic_hash": "d30ace65088f5adb2d0ad9de797ea182"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/UI/DebugPanelRoot.cs": {
+    "mtime": 1783257234.438795,
+    "ast_hash": "a843851e2ab57327fd47aad23651d259",
+    "semantic_hash": "a843851e2ab57327fd47aad23651d259"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/UI/DebuggerTabController.cs": {
+    "mtime": 1783257234.4389434,
+    "ast_hash": "db7fe8b13a49512c24fe484624354834",
+    "semantic_hash": "db7fe8b13a49512c24fe484624354834"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/UI/MobileMenuController.cs": {
+    "mtime": 1783257234.439149,
+    "ast_hash": "bdcf67af9c04bd270a945c7694505950",
+    "semantic_hash": "bdcf67af9c04bd270a945c7694505950"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/UI/Other/BugReportPopoverRoot.cs": {
+    "mtime": 1783257234.4394078,
+    "ast_hash": "54b2d5ddeb5c5f7fba2af173725c5173",
+    "semantic_hash": "54b2d5ddeb5c5f7fba2af173725c5173"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/UI/Other/BugReportSheetController.cs": {
+    "mtime": 1783257234.4397767,
+    "ast_hash": "2d2a41a005996a2877ec731ab9689b58",
+    "semantic_hash": "2d2a41a005996a2877ec731ab9689b58"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/UI/Other/CategoryGroup.cs": {
+    "mtime": 1783257234.4398983,
+    "ast_hash": "2aca73e64c932220bc70e93199ff7ca3",
+    "semantic_hash": "2aca73e64c932220bc70e93199ff7ca3"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/UI/Other/ConfigureCanvasFromSettings.cs": {
+    "mtime": 1783257234.4400213,
+    "ast_hash": "351468f7b1eaf2ecaa62d891989aef42",
+    "semantic_hash": "351468f7b1eaf2ecaa62d891989aef42"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/UI/Other/ConsoleTabQuickViewControl.cs": {
+    "mtime": 1783257234.4401407,
+    "ast_hash": "f2e0dead1e4c0c10a3aede959c3cbb2b",
+    "semantic_hash": "f2e0dead1e4c0c10a3aede959c3cbb2b"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/UI/Other/DebugPanelBackgroundBehaviour.cs": {
+    "mtime": 1783257234.4402506,
+    "ast_hash": "f53c22866f15e3de8948c15a8bc07b8a",
+    "semantic_hash": "f53c22866f15e3de8948c15a8bc07b8a"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/UI/Other/DockConsoleController.cs": {
+    "mtime": 1783257234.4404442,
+    "ast_hash": "fc6a64f3706ac916a6baeffb8d2c4ce9",
+    "semantic_hash": "fc6a64f3706ac916a6baeffb8d2c4ce9"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/UI/Other/DockConsoleRoot.cs": {
+    "mtime": 1783257234.4405837,
+    "ast_hash": "cd00457cd978634e7e1f5087293010ff",
+    "semantic_hash": "cd00457cd978634e7e1f5087293010ff"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/UI/Other/ErrorNotifier.cs": {
+    "mtime": 1783257234.4407287,
+    "ast_hash": "4781fc5fa11410f2dcfc581965c5ff72",
+    "semantic_hash": "4781fc5fa11410f2dcfc581965c5ff72"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/UI/Other/FloatOverElement.cs": {
+    "mtime": 1783257234.4408617,
+    "ast_hash": "70da939ae297c8635670ecc786fba75c",
+    "semantic_hash": "70da939ae297c8635670ecc786fba75c"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/UI/Other/HandleManager.cs": {
+    "mtime": 1783257234.4410148,
+    "ast_hash": "1a4e1a269d68905d6b3016b161c0cf30",
+    "semantic_hash": "1a4e1a269d68905d6b3016b161c0cf30"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/UI/Other/IEnableTab.cs": {
+    "mtime": 1783257234.4411652,
+    "ast_hash": "0bb8edeac078e7177db398aca3c340e7",
+    "semantic_hash": "0bb8edeac078e7177db398aca3c340e7"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/UI/Other/LoadingSpinnerBehaviour.cs": {
+    "mtime": 1783257234.4413111,
+    "ast_hash": "6b8d32c24ffc761f500e070ea333556a",
+    "semantic_hash": "6b8d32c24ffc761f500e070ea333556a"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/UI/Other/PinnedUIRoot.cs": {
+    "mtime": 1783257234.441442,
+    "ast_hash": "4d669a6a258648499cb14a1c012ace75",
+    "semantic_hash": "4d669a6a258648499cb14a1c012ace75"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/UI/Other/SRTab.cs": {
+    "mtime": 1783257234.4415905,
+    "ast_hash": "820a8e1af964eb0f50120539c6f1eb7b",
+    "semantic_hash": "820a8e1af964eb0f50120539c6f1eb7b"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/UI/Other/SRTabController.cs": {
+    "mtime": 1783257234.4417083,
+    "ast_hash": "0548054e9b89f4b6f848ca53fcf998db",
+    "semantic_hash": "0548054e9b89f4b6f848ca53fcf998db"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/UI/Other/SafeAreaSizer.cs": {
+    "mtime": 1783257234.4418526,
+    "ast_hash": "b4833dd917c8f4afd6954a1fb13e63aa",
+    "semantic_hash": "b4833dd917c8f4afd6954a1fb13e63aa"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/UI/Other/ScrollRectPatch.cs": {
+    "mtime": 1783257234.4419951,
+    "ast_hash": "b6df2d126a93634c4fa92f6b6d6dc7d8",
+    "semantic_hash": "b6df2d126a93634c4fa92f6b6d6dc7d8"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/UI/Other/ScrollSettingsBehaviour.cs": {
+    "mtime": 1783257234.4421299,
+    "ast_hash": "9f477ebcc1784536224913c0a7c1fdaf",
+    "semantic_hash": "9f477ebcc1784536224913c0a7c1fdaf"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/UI/Other/SetLayerFromSettings.cs": {
+    "mtime": 1783257234.4422605,
+    "ast_hash": "da312b97fa5db55e9235286c48c12e32",
+    "semantic_hash": "da312b97fa5db55e9235286c48c12e32"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/UI/Other/TriggerRoot.cs": {
+    "mtime": 1783257234.4423823,
+    "ast_hash": "70d52734f5f5b2a07d0bbdbe84b3626f",
+    "semantic_hash": "70d52734f5f5b2a07d0bbdbe84b3626f"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/UI/Other/VersionTextBehaviour.cs": {
+    "mtime": 1783257234.442512,
+    "ast_hash": "7ad38b1009e3bd4705d368839c537360",
+    "semantic_hash": "7ad38b1009e3bd4705d368839c537360"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/UI/Tabs/BugReportTabController.cs": {
+    "mtime": 1783257234.4427238,
+    "ast_hash": "4b119d8698113013db7344a331acc8aa",
+    "semantic_hash": "4b119d8698113013db7344a331acc8aa"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/UI/Tabs/ConsoleTabController.cs": {
+    "mtime": 1783257234.443248,
+    "ast_hash": "7e6fec37c380d33b1c60a965b6154535",
+    "semantic_hash": "7e6fec37c380d33b1c60a965b6154535"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/UI/Tabs/InfoTabController.cs": {
+    "mtime": 1783257234.4433925,
+    "ast_hash": "400727b1799cb095a80c2d18da7a2b33",
+    "semantic_hash": "400727b1799cb095a80c2d18da7a2b33"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/UI/Tabs/OptionsTabController.cs": {
+    "mtime": 1783257234.4435694,
+    "ast_hash": "777e381f73d26ff801ad8de8b6f7e8eb",
+    "semantic_hash": "777e381f73d26ff801ad8de8b6f7e8eb"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/UI/Tabs/ProfilerTabController.cs": {
+    "mtime": 1783257234.443712,
+    "ast_hash": "6f7d5cb225f8711768672c385ea1f2e5",
+    "semantic_hash": "6f7d5cb225f8711768672c385ea1f2e5"
+  },
+  "Assets/StompyRobot/SRDebugger/Scripts/Version.cs": {
+    "mtime": 1783257234.4438307,
+    "ast_hash": "247f5c49eaf77d6308789988df856fc8",
+    "semantic_hash": "247f5c49eaf77d6308789988df856fc8"
+  },
+  "Assets/StompyRobot/SRF/External/Jetbrains.Annotations.cs": {
+    "mtime": 1783257234.4571707,
+    "ast_hash": "ac373a7c068f0fd3d78b667a627f4a80",
+    "semantic_hash": "ac373a7c068f0fd3d78b667a627f4a80"
+  },
+  "Assets/StompyRobot/SRF/External/MiniJSON.cs": {
+    "mtime": 1783257234.457554,
+    "ast_hash": "97780de0a6e9ce30f18d7ecb22e6e4d2",
+    "semantic_hash": "97780de0a6e9ce30f18d7ecb22e6e4d2"
+  },
+  "Assets/StompyRobot/SRF/Internal/ComponentMenuPaths.cs": {
+    "mtime": 1783257234.458147,
+    "ast_hash": "af17024d798456fc95c5d42cd585745a",
+    "semantic_hash": "af17024d798456fc95c5d42cd585745a"
+  },
+  "Assets/StompyRobot/SRF/Scripts/Collections/SRList.cs": {
+    "mtime": 1783257234.4587646,
+    "ast_hash": "5cd62dc413c87745a25f2d5301cf38f8",
+    "semantic_hash": "5cd62dc413c87745a25f2d5301cf38f8"
+  },
+  "Assets/StompyRobot/SRF/Scripts/Components/SRAutoSingleton.cs": {
+    "mtime": 1783257234.4590058,
+    "ast_hash": "bfc52e4e4496872590e5c48351d79baf",
+    "semantic_hash": "bfc52e4e4496872590e5c48351d79baf"
+  },
+  "Assets/StompyRobot/SRF/Scripts/Components/SRMonoBehaviour.cs": {
+    "mtime": 1783257234.4593108,
+    "ast_hash": "4721a4bd8bbfe8a5b7136f19add91609",
+    "semantic_hash": "4721a4bd8bbfe8a5b7136f19add91609"
+  },
+  "Assets/StompyRobot/SRF/Scripts/Components/SRMonoBehaviourEx.cs": {
+    "mtime": 1783257234.4595232,
+    "ast_hash": "fdd0d3fc6ad04120d30f11b0fa43cd8a",
+    "semantic_hash": "fdd0d3fc6ad04120d30f11b0fa43cd8a"
+  },
+  "Assets/StompyRobot/SRF/Scripts/Components/SRSingleton.cs": {
+    "mtime": 1783257234.4596677,
+    "ast_hash": "9d98a3a6692e51bf430ee2ff1bff22b0",
+    "semantic_hash": "9d98a3a6692e51bf430ee2ff1bff22b0"
+  },
+  "Assets/StompyRobot/SRF/Scripts/Coroutines.cs": {
+    "mtime": 1783257234.4598002,
+    "ast_hash": "ee86aebee226c59b359a22cf11c0eab3",
+    "semantic_hash": "ee86aebee226c59b359a22cf11c0eab3"
+  },
+  "Assets/StompyRobot/SRF/Scripts/Extensions/FloatExtensions.cs": {
+    "mtime": 1783257234.460039,
+    "ast_hash": "95b1a147c790361b75fe1a050336d0c0",
+    "semantic_hash": "95b1a147c790361b75fe1a050336d0c0"
+  },
+  "Assets/StompyRobot/SRF/Scripts/Extensions/GameObjectExtensions.cs": {
+    "mtime": 1783257234.4601672,
+    "ast_hash": "68b4355eb1b3e7ce97126dd8af849f31",
+    "semantic_hash": "68b4355eb1b3e7ce97126dd8af849f31"
+  },
+  "Assets/StompyRobot/SRF/Scripts/Extensions/IListExtensions.cs": {
+    "mtime": 1783257234.460277,
+    "ast_hash": "3fc153d809f8165b5e057252c97dcd08",
+    "semantic_hash": "3fc153d809f8165b5e057252c97dcd08"
+  },
+  "Assets/StompyRobot/SRF/Scripts/Extensions/NetFxExtensions.cs": {
+    "mtime": 1783257234.4604008,
+    "ast_hash": "455797456c865aed7b81f2febfc7ed63",
+    "semantic_hash": "455797456c865aed7b81f2febfc7ed63"
+  },
+  "Assets/StompyRobot/SRF/Scripts/Extensions/StringExtensions.cs": {
+    "mtime": 1783257234.4605439,
+    "ast_hash": "eebc4ef8ea551efcbc1dd8784eb0bc8e",
+    "semantic_hash": "eebc4ef8ea551efcbc1dd8784eb0bc8e"
+  },
+  "Assets/StompyRobot/SRF/Scripts/Extensions/TransformExtensions.cs": {
+    "mtime": 1783257234.4606812,
+    "ast_hash": "68393632f5de6306787ba806f39095d0",
+    "semantic_hash": "68393632f5de6306787ba806f39095d0"
+  },
+  "Assets/StompyRobot/SRF/Scripts/Helpers/AssetUtil.cs": {
+    "mtime": 1783257234.460907,
+    "ast_hash": "c6e3ce94d3eec0a9c7314d19e5440309",
+    "semantic_hash": "c6e3ce94d3eec0a9c7314d19e5440309"
+  },
+  "Assets/StompyRobot/SRF/Scripts/Helpers/Hierarchy.cs": {
+    "mtime": 1783257234.4610186,
+    "ast_hash": "ae58bab5020498952219cd15b25c29bf",
+    "semantic_hash": "ae58bab5020498952219cd15b25c29bf"
+  },
+  "Assets/StompyRobot/SRF/Scripts/Helpers/MethodReference.cs": {
+    "mtime": 1783257234.4611406,
+    "ast_hash": "3cd14216ded32fb58255a3efd40f600e",
+    "semantic_hash": "3cd14216ded32fb58255a3efd40f600e"
+  },
+  "Assets/StompyRobot/SRF/Scripts/Helpers/PropertyReference.cs": {
+    "mtime": 1783257234.4613416,
+    "ast_hash": "2edc4db43d59a629e36cde022fb79675",
+    "semantic_hash": "2edc4db43d59a629e36cde022fb79675"
+  },
+  "Assets/StompyRobot/SRF/Scripts/Helpers/SRDebugUtil.cs": {
+    "mtime": 1783257234.461466,
+    "ast_hash": "8ddee9139eaf30a3e2c333e1ba22a1fa",
+    "semantic_hash": "8ddee9139eaf30a3e2c333e1ba22a1fa"
+  },
+  "Assets/StompyRobot/SRF/Scripts/Helpers/SRFileUtil.cs": {
+    "mtime": 1783257234.4616044,
+    "ast_hash": "4d83923ff940a393d541e8327b3999cd",
+    "semantic_hash": "4d83923ff940a393d541e8327b3999cd"
+  },
+  "Assets/StompyRobot/SRF/Scripts/Helpers/SRInstantiate.cs": {
+    "mtime": 1783257234.4617279,
+    "ast_hash": "0a0e4bc88d4f701ca2a37357c3802f42",
+    "semantic_hash": "0a0e4bc88d4f701ca2a37357c3802f42"
+  },
+  "Assets/StompyRobot/SRF/Scripts/Helpers/SRMath.Tweening.Functions.cs": {
+    "mtime": 1783257234.4618592,
+    "ast_hash": "c61db678490f0b824a804a552ed50926",
+    "semantic_hash": "c61db678490f0b824a804a552ed50926"
+  },
+  "Assets/StompyRobot/SRF/Scripts/Helpers/SRMath.Tweening.cs": {
+    "mtime": 1783257234.4624774,
+    "ast_hash": "06e50db50d71db6f6936d3e74b7b6284",
+    "semantic_hash": "06e50db50d71db6f6936d3e74b7b6284"
+  },
+  "Assets/StompyRobot/SRF/Scripts/Helpers/SRMath.cs": {
+    "mtime": 1783257234.462576,
+    "ast_hash": "abf9abc6305b5edbd62c281c452a7fc6",
+    "semantic_hash": "abf9abc6305b5edbd62c281c452a7fc6"
+  },
+  "Assets/StompyRobot/SRF/Scripts/Helpers/SRReflection.cs": {
+    "mtime": 1783257234.4626925,
+    "ast_hash": "1c194b63843bd24a7013470ff12f2ce7",
+    "semantic_hash": "1c194b63843bd24a7013470ff12f2ce7"
+  },
+  "Assets/StompyRobot/SRF/Scripts/Service/Attributes.cs": {
+    "mtime": 1783257234.462922,
+    "ast_hash": "885521855f961e54e00a4c8635709f19",
+    "semantic_hash": "885521855f961e54e00a4c8635709f19"
+  },
+  "Assets/StompyRobot/SRF/Scripts/Service/IAsyncService.cs": {
+    "mtime": 1783257234.4630353,
+    "ast_hash": "4d6a3a3030048da85edb4c91a8f016a4",
+    "semantic_hash": "4d6a3a3030048da85edb4c91a8f016a4"
+  },
+  "Assets/StompyRobot/SRF/Scripts/Service/SRDependencyServiceBase.cs": {
+    "mtime": 1783257234.4631724,
+    "ast_hash": "9659011a83cb87d48daf5f681809f28f",
+    "semantic_hash": "9659011a83cb87d48daf5f681809f28f"
+  },
+  "Assets/StompyRobot/SRF/Scripts/Service/SRSceneServiceBase.cs": {
+    "mtime": 1783257234.4632897,
+    "ast_hash": "4d9413ffbb8c516e77b31877587b3fa9",
+    "semantic_hash": "4d9413ffbb8c516e77b31877587b3fa9"
+  },
+  "Assets/StompyRobot/SRF/Scripts/Service/SRServiceBase.cs": {
+    "mtime": 1783257234.463411,
+    "ast_hash": "17de44320198e239313719c2322868c7",
+    "semantic_hash": "17de44320198e239313719c2322868c7"
+  },
+  "Assets/StompyRobot/SRF/Scripts/Service/SRServiceManager.cs": {
+    "mtime": 1783257234.4638267,
+    "ast_hash": "4261fb92111711b1c74dec77a15a6dab",
+    "semantic_hash": "4261fb92111711b1c74dec77a15a6dab"
+  },
+  "Assets/StompyRobot/SRF/Scripts/UI/ContentFitText.cs": {
+    "mtime": 1783257234.464068,
+    "ast_hash": "d8ee802c2cf825f9ca697d275cde085a",
+    "semantic_hash": "d8ee802c2cf825f9ca697d275cde085a"
+  },
+  "Assets/StompyRobot/SRF/Scripts/UI/CopyLayoutElement.cs": {
+    "mtime": 1783257234.4642057,
+    "ast_hash": "77b0a96187efbb978ca2d6a210524542",
+    "semantic_hash": "77b0a96187efbb978ca2d6a210524542"
+  },
+  "Assets/StompyRobot/SRF/Scripts/UI/CopyPreferredSize.cs": {
+    "mtime": 1783257234.4643223,
+    "ast_hash": "68a07d5a0e4159352cd8c665d1995be7",
+    "semantic_hash": "68a07d5a0e4159352cd8c665d1995be7"
+  },
+  "Assets/StompyRobot/SRF/Scripts/UI/CopyPreferredSizes.cs": {
+    "mtime": 1783257234.464433,
+    "ast_hash": "c77292fb28cc6e214f2fda90388d5dc9",
+    "semantic_hash": "c77292fb28cc6e214f2fda90388d5dc9"
+  },
+  "Assets/StompyRobot/SRF/Scripts/UI/CopySizeIntoLayoutElement.cs": {
+    "mtime": 1783257234.4645605,
+    "ast_hash": "e97e02655ffe951c54901adf8194dda6",
+    "semantic_hash": "e97e02655ffe951c54901adf8194dda6"
+  },
+  "Assets/StompyRobot/SRF/Scripts/UI/DragHandle.cs": {
+    "mtime": 1783257234.4647446,
+    "ast_hash": "9eb0bb733d9d28f72203caa975933ba7",
+    "semantic_hash": "9eb0bb733d9d28f72203caa975933ba7"
+  },
+  "Assets/StompyRobot/SRF/Scripts/UI/Editor/CopyLayoutElementEditor.cs": {
+    "mtime": 1783257234.464982,
+    "ast_hash": "4cd9f59685d926f93f91439faa30c3c2",
+    "semantic_hash": "4cd9f59685d926f93f91439faa30c3c2"
+  },
+  "Assets/StompyRobot/SRF/Scripts/UI/Editor/CopyPreferredSizeEditor.cs": {
+    "mtime": 1783257234.465109,
+    "ast_hash": "3e0f52931a68cf01abe8b057cf039cb0",
+    "semantic_hash": "3e0f52931a68cf01abe8b057cf039cb0"
+  },
+  "Assets/StompyRobot/SRF/Scripts/UI/Editor/CopyPreferredSizesEditor.cs": {
+    "mtime": 1783257234.4652286,
+    "ast_hash": "e3ef7b012c1690c7c975c7afa6874267",
+    "semantic_hash": "e3ef7b012c1690c7c975c7afa6874267"
+  },
+  "Assets/StompyRobot/SRF/Scripts/UI/Editor/LongPressButtonEditor.cs": {
+    "mtime": 1783257234.4653609,
+    "ast_hash": "f719dc9795f30bc4e64bd1201f3fc52d",
+    "semantic_hash": "f719dc9795f30bc4e64bd1201f3fc52d"
+  },
+  "Assets/StompyRobot/SRF/Scripts/UI/Editor/SRNumberButtonEditor.cs": {
+    "mtime": 1783257234.4654758,
+    "ast_hash": "1e5f4e62fa522966eb235ef600cf39e4",
+    "semantic_hash": "1e5f4e62fa522966eb235ef600cf39e4"
+  },
+  "Assets/StompyRobot/SRF/Scripts/UI/Editor/StyleComponentEditor.cs": {
+    "mtime": 1783257234.4657006,
+    "ast_hash": "5f62de0addb31aa7efee1aad258c3ef4",
+    "semantic_hash": "5f62de0addb31aa7efee1aad258c3ef4"
+  },
+  "Assets/StompyRobot/SRF/Scripts/UI/Editor/StyleSheetEditor.cs": {
+    "mtime": 1783257234.465896,
+    "ast_hash": "5aad9086de3df14495885da72fff679b",
+    "semantic_hash": "5aad9086de3df14495885da72fff679b"
+  },
+  "Assets/StompyRobot/SRF/Scripts/UI/FlashGraphic.cs": {
+    "mtime": 1783257234.4660203,
+    "ast_hash": "0edc30c6671f3a36336bc5cdaeb88140",
+    "semantic_hash": "0edc30c6671f3a36336bc5cdaeb88140"
+  },
+  "Assets/StompyRobot/SRF/Scripts/UI/InheritColour.cs": {
+    "mtime": 1783257234.4661574,
+    "ast_hash": "2c39618500e66a0d2acf3c9c57814274",
+    "semantic_hash": "2c39618500e66a0d2acf3c9c57814274"
+  },
+  "Assets/StompyRobot/SRF/Scripts/UI/Layout/FlowLayoutGroup.cs": {
+    "mtime": 1783257234.4664428,
+    "ast_hash": "e3b3cdabf9f04e5faa74631ea45a1037",
+    "semantic_hash": "e3b3cdabf9f04e5faa74631ea45a1037"
+  },
+  "Assets/StompyRobot/SRF/Scripts/UI/Layout/VirtualVerticalLayoutGroup.cs": {
+    "mtime": 1783257234.4665916,
+    "ast_hash": "f787f49f2dc3b65528454dbf98cb6956",
+    "semantic_hash": "f787f49f2dc3b65528454dbf98cb6956"
+  },
+  "Assets/StompyRobot/SRF/Scripts/UI/LongPressButton.cs": {
+    "mtime": 1783257234.466954,
+    "ast_hash": "058c666e0676d975a3dace36a4bb0583",
+    "semantic_hash": "058c666e0676d975a3dace36a4bb0583"
+  },
+  "Assets/StompyRobot/SRF/Scripts/UI/ResponsiveBase.cs": {
+    "mtime": 1783257234.4670827,
+    "ast_hash": "f21348ac3643ceaddb22273e76999f37",
+    "semantic_hash": "f21348ac3643ceaddb22273e76999f37"
+  },
+  "Assets/StompyRobot/SRF/Scripts/UI/ResponsiveEnable.cs": {
+    "mtime": 1783257234.4672005,
+    "ast_hash": "865c628834655ced318321416b258445",
+    "semantic_hash": "865c628834655ced318321416b258445"
+  },
+  "Assets/StompyRobot/SRF/Scripts/UI/ResponsiveResize.cs": {
+    "mtime": 1783257234.467315,
+    "ast_hash": "f2939cd801f2947d187164e918fcd8d9",
+    "semantic_hash": "f2939cd801f2947d187164e918fcd8d9"
+  },
+  "Assets/StompyRobot/SRF/Scripts/UI/SRNumberButton.cs": {
+    "mtime": 1783257234.4674325,
+    "ast_hash": "b3d1e2b80ec6ed1a4101a357986c2bc7",
+    "semantic_hash": "b3d1e2b80ec6ed1a4101a357986c2bc7"
+  },
+  "Assets/StompyRobot/SRF/Scripts/UI/SRNumberSpinner.cs": {
+    "mtime": 1783257234.467627,
+    "ast_hash": "5cccba54c89a4bb04539591aec3a7556",
+    "semantic_hash": "5cccba54c89a4bb04539591aec3a7556"
+  },
+  "Assets/StompyRobot/SRF/Scripts/UI/SRRetinaScaler.cs": {
+    "mtime": 1783257234.4677627,
+    "ast_hash": "66c08bf6511ba455fe157f56f5c5bd2d",
+    "semantic_hash": "66c08bf6511ba455fe157f56f5c5bd2d"
+  },
+  "Assets/StompyRobot/SRF/Scripts/UI/SRSpinner.cs": {
+    "mtime": 1783257234.4678855,
+    "ast_hash": "a20d83450b8be958760596ab0b21296f",
+    "semantic_hash": "a20d83450b8be958760596ab0b21296f"
+  },
+  "Assets/StompyRobot/SRF/Scripts/UI/SRText.cs": {
+    "mtime": 1783257234.4680014,
+    "ast_hash": "c9dbc25baf353ca736afbdbf15bcb5bf",
+    "semantic_hash": "c9dbc25baf353ca736afbdbf15bcb5bf"
+  },
+  "Assets/StompyRobot/SRF/Scripts/UI/ScrollToBottomBehaviour.cs": {
+    "mtime": 1783257234.4681194,
+    "ast_hash": "99d025e9b4b6f2dc06c933c5846ede31",
+    "semantic_hash": "99d025e9b4b6f2dc06c933c5846ede31"
+  },
+  "Assets/StompyRobot/SRF/Scripts/UI/StyleComponent.cs": {
+    "mtime": 1783257234.468301,
+    "ast_hash": "f10f23c728decdfabc61d291e6cb12af",
+    "semantic_hash": "f10f23c728decdfabc61d291e6cb12af"
+  },
+  "Assets/StompyRobot/SRF/Scripts/UI/StyleRoot.cs": {
+    "mtime": 1783257234.468428,
+    "ast_hash": "150c00950f05ef121b7f4480b6ee7637",
+    "semantic_hash": "150c00950f05ef121b7f4480b6ee7637"
+  },
+  "Assets/StompyRobot/SRF/Scripts/UI/StyleSheet.cs": {
+    "mtime": 1783257234.4685748,
+    "ast_hash": "d216338656a2134e903c2bcd2e8d422e",
+    "semantic_hash": "d216338656a2134e903c2bcd2e8d422e"
+  },
+  "Assets/StompyRobot/SRF/Scripts/UI/Unselectable.cs": {
+    "mtime": 1783257234.4687262,
+    "ast_hash": "b37621c2ef46ad8dace35ba8253d2ae4",
+    "semantic_hash": "b37621c2ef46ad8dace35ba8253d2ae4"
+  },
+  "Assets/StompyRobot/SROptions/SROptions.Attributes.cs": {
+    "mtime": 1783257234.4691296,
+    "ast_hash": "0ecc19a75626051918dd2319e518e909",
+    "semantic_hash": "0ecc19a75626051918dd2319e518e909"
+  },
+  "Assets/StompyRobot/SROptions/SROptions.Test.cs": {
+    "mtime": 1783257234.469337,
+    "ast_hash": "7e6e47472ace0200eefa5480e11d9800",
+    "semantic_hash": "7e6e47472ace0200eefa5480e11d9800"
+  },
+  "Assets/StompyRobot/SROptions/SROptions.cs": {
+    "mtime": 1783257234.469573,
+    "ast_hash": "3495f5fdcac7b5340abf7b52106577e7",
+    "semantic_hash": "3495f5fdcac7b5340abf7b52106577e7"
+  },
+  "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs": {
+    "mtime": 1781712689.9234645,
+    "ast_hash": "e684e35594fad9cf5a547bdbebf15140",
+    "semantic_hash": "e684e35594fad9cf5a547bdbebf15140"
+  },
+  "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01_UGUI.cs": {
+    "mtime": 1781712689.9236183,
+    "ast_hash": "7204101af11cf8adf2b2e0d89b9873f1",
+    "semantic_hash": "7204101af11cf8adf2b2e0d89b9873f1"
+  },
+  "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark02.cs": {
+    "mtime": 1781712689.9237683,
+    "ast_hash": "12182f6ca92606ed0672125ce725d066",
+    "semantic_hash": "12182f6ca92606ed0672125ce725d066"
+  },
+  "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark03.cs": {
+    "mtime": 1781712689.9239078,
+    "ast_hash": "abc32bf494a52e957127e7322260e955",
+    "semantic_hash": "abc32bf494a52e957127e7322260e955"
+  },
+  "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark04.cs": {
+    "mtime": 1781712689.9240315,
+    "ast_hash": "41c2b5dc62b5fc2bd1e0c0323901f4e1",
+    "semantic_hash": "41c2b5dc62b5fc2bd1e0c0323901f4e1"
+  },
+  "Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs": {
+    "mtime": 1781712689.9242952,
+    "ast_hash": "f75a6e32c750a259e29e00a15e279ca4",
+    "semantic_hash": "f75a6e32c750a259e29e00a15e279ca4"
+  },
+  "Assets/TextMesh Pro/Examples & Extras/Scripts/ChatController.cs": {
+    "mtime": 1781712689.9244196,
+    "ast_hash": "8d813194e132cca1348ed8badc27680b",
+    "semantic_hash": "8d813194e132cca1348ed8badc27680b"
+  },
+  "Assets/TextMesh Pro/Examples & Extras/Scripts/DropdownSample.cs": {
+    "mtime": 1781712689.924565,
+    "ast_hash": "9920ec8e71190b583a3dceb67888cb84",
+    "semantic_hash": "9920ec8e71190b583a3dceb67888cb84"
+  },
+  "Assets/TextMesh Pro/Examples & Extras/Scripts/EnvMapAnimator.cs": {
+    "mtime": 1781712689.924695,
+    "ast_hash": "0e5ccff504d29b340d10c690938e2ae1",
+    "semantic_hash": "0e5ccff504d29b340d10c690938e2ae1"
+  },
+  "Assets/TextMesh Pro/Examples & Extras/Scripts/ObjectSpin.cs": {
+    "mtime": 1781712689.924825,
+    "ast_hash": "b59e3b8ba56457646e97227a579d97ef",
+    "semantic_hash": "b59e3b8ba56457646e97227a579d97ef"
+  },
+  "Assets/TextMesh Pro/Examples & Extras/Scripts/ShaderPropAnimator.cs": {
+    "mtime": 1781712689.9249504,
+    "ast_hash": "4d1e11f7a0618119ff0af11d61b8dd39",
+    "semantic_hash": "4d1e11f7a0618119ff0af11d61b8dd39"
+  },
+  "Assets/TextMesh Pro/Examples & Extras/Scripts/SimpleScript.cs": {
+    "mtime": 1781712689.9250815,
+    "ast_hash": "9457b5a63a198def40dfd310e2b176ad",
+    "semantic_hash": "9457b5a63a198def40dfd310e2b176ad"
+  },
+  "Assets/TextMesh Pro/Examples & Extras/Scripts/SkewTextExample.cs": {
+    "mtime": 1781712689.9252489,
+    "ast_hash": "41a8bb099456e8f65cf157d372c51367",
+    "semantic_hash": "41a8bb099456e8f65cf157d372c51367"
+  },
+  "Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_DigitValidator.cs": {
+    "mtime": 1781712689.9253836,
+    "ast_hash": "5a2b86de882f72d057d2cfe2b3229d56",
+    "semantic_hash": "5a2b86de882f72d057d2cfe2b3229d56"
+  },
+  "Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_ExampleScript_01.cs": {
+    "mtime": 1781712689.9255238,
+    "ast_hash": "008f5326fd7590437feb1a9d485edd97",
+    "semantic_hash": "008f5326fd7590437feb1a9d485edd97"
+  },
+  "Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_FrameRateCounter.cs": {
+    "mtime": 1781712689.925681,
+    "ast_hash": "7af01fe89556925e1cbd615fd87fb43e",
+    "semantic_hash": "7af01fe89556925e1cbd615fd87fb43e"
+  },
+  "Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_PhoneNumberValidator.cs": {
+    "mtime": 1781712689.9258046,
+    "ast_hash": "c9c3048db6974fca282f3d07b73062b3",
+    "semantic_hash": "c9c3048db6974fca282f3d07b73062b3"
+  },
+  "Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventCheck.cs": {
+    "mtime": 1781712689.9259515,
+    "ast_hash": "86a7ab221205918c2d04b114c9b893ac",
+    "semantic_hash": "86a7ab221205918c2d04b114c9b893ac"
+  },
+  "Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs": {
+    "mtime": 1781712689.9261112,
+    "ast_hash": "eac200ecd5909eac57a64f4c163cc4c1",
+    "semantic_hash": "eac200ecd5909eac57a64f4c163cc4c1"
+  },
+  "Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextInfoDebugTool.cs": {
+    "mtime": 1781712689.9263678,
+    "ast_hash": "0afeb06cf860bad5e5d0ec56d74ae4be",
+    "semantic_hash": "0afeb06cf860bad5e5d0ec56d74ae4be"
+  },
+  "Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_A.cs": {
+    "mtime": 1781712689.9265463,
+    "ast_hash": "8a0520e7a3bba1c46bcca856f8b0c959",
+    "semantic_hash": "8a0520e7a3bba1c46bcca856f8b0c959"
+  },
+  "Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs": {
+    "mtime": 1781712689.9267993,
+    "ast_hash": "1b5ee0c2cdd8f295efb1f35c0d7f8239",
+    "semantic_hash": "1b5ee0c2cdd8f295efb1f35c0d7f8239"
+  },
+  "Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_UiFrameRateCounter.cs": {
+    "mtime": 1781712689.9269757,
+    "ast_hash": "968d6a3c31bfdf7e839ad89dae9d7dd9",
+    "semantic_hash": "968d6a3c31bfdf7e839ad89dae9d7dd9"
+  },
+  "Assets/TextMesh Pro/Examples & Extras/Scripts/TMPro_InstructionOverlay.cs": {
+    "mtime": 1781712689.92712,
+    "ast_hash": "abb2f9ef5b897ef8409d6c0f49fee98b",
+    "semantic_hash": "abb2f9ef5b897ef8409d6c0f49fee98b"
+  },
+  "Assets/TextMesh Pro/Examples & Extras/Scripts/TeleType.cs": {
+    "mtime": 1781712689.927256,
+    "ast_hash": "df80aa1ed341bc62cc103ec8aab3fd01",
+    "semantic_hash": "df80aa1ed341bc62cc103ec8aab3fd01"
+  },
+  "Assets/TextMesh Pro/Examples & Extras/Scripts/TextConsoleSimulator.cs": {
+    "mtime": 1781712689.9273906,
+    "ast_hash": "43c70d35c96dec4945418facc6e2bf6b",
+    "semantic_hash": "43c70d35c96dec4945418facc6e2bf6b"
+  },
+  "Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs": {
+    "mtime": 1781712689.9276736,
+    "ast_hash": "e965435a8850f7044c0363d05a5c7fab",
+    "semantic_hash": "e965435a8850f7044c0363d05a5c7fab"
+  },
+  "Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshSpawner.cs": {
+    "mtime": 1781712689.9278088,
+    "ast_hash": "4dfc5f357d8bc78820f6e7adabf5717d",
+    "semantic_hash": "4dfc5f357d8bc78820f6e7adabf5717d"
+  },
+  "Assets/TextMesh Pro/Examples & Extras/Scripts/VertexColorCycler.cs": {
+    "mtime": 1781712689.927969,
+    "ast_hash": "9e46ccee35f6b84d3e22f5de24342bb5",
+    "semantic_hash": "9e46ccee35f6b84d3e22f5de24342bb5"
+  },
+  "Assets/TextMesh Pro/Examples & Extras/Scripts/VertexJitter.cs": {
+    "mtime": 1781712689.9281242,
+    "ast_hash": "b955ec108ccb5ad67db91b5628912398",
+    "semantic_hash": "b955ec108ccb5ad67db91b5628912398"
+  },
+  "Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeA.cs": {
+    "mtime": 1781712689.928281,
+    "ast_hash": "49d28055f5bf1d114171fa261df58df5",
+    "semantic_hash": "49d28055f5bf1d114171fa261df58df5"
+  },
+  "Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs": {
+    "mtime": 1781712689.928449,
+    "ast_hash": "4aa7a6fbcc1655ec907fd4be812a9ce7",
+    "semantic_hash": "4aa7a6fbcc1655ec907fd4be812a9ce7"
+  },
+  "Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs": {
+    "mtime": 1781712689.9286008,
+    "ast_hash": "2cfce87d6cbf7654c3e670bb6798a0a2",
+    "semantic_hash": "2cfce87d6cbf7654c3e670bb6798a0a2"
+  },
+  "Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs": {
+    "mtime": 1781712689.928766,
+    "ast_hash": "e4e83bc8456713a3c2849fbefb019d08",
+    "semantic_hash": "e4e83bc8456713a3c2849fbefb019d08"
+  },
+  "Assets/TextMesh Pro/Sprites/EmojiOne.json": {
+    "mtime": 1781712689.944731,
+    "ast_hash": "3cc172b271fdc3fdfad5e6c2c8c65a33",
+    "semantic_hash": "3cc172b271fdc3fdfad5e6c2c8c65a33"
+  },
+  "Assets/vTabs/VTabs.cs": {
+    "mtime": 1772698032.0,
+    "ast_hash": "ec3e964bf218eae538c9136422d50a52",
+    "semantic_hash": "ec3e964bf218eae538c9136422d50a52"
+  },
+  "Assets/vTabs/VTabsAddTabWindow.cs": {
+    "mtime": 1772698032.0,
+    "ast_hash": "cb931eef59e01d17ba970c4d1fb1ddd1",
+    "semantic_hash": "cb931eef59e01d17ba970c4d1fb1ddd1"
+  },
+  "Assets/vTabs/VTabsCache.cs": {
+    "mtime": 1772698032.0,
+    "ast_hash": "dbcb827cf4ab832805459af399df637b",
+    "semantic_hash": "dbcb827cf4ab832805459af399df637b"
+  },
+  "Assets/vTabs/VTabsGUI.cs": {
+    "mtime": 1772698031.0,
+    "ast_hash": "1684e6277d4fe9cdb53c5ed89414b088",
+    "semantic_hash": "1684e6277d4fe9cdb53c5ed89414b088"
+  },
+  "Assets/vTabs/VTabsLibs.cs": {
+    "mtime": 1772698032.0,
+    "ast_hash": "9ce51ef9712e1b40cefcebe2ef8e706d",
+    "semantic_hash": "9ce51ef9712e1b40cefcebe2ef8e706d"
+  },
+  "Assets/vTabs/VTabsMenu.cs": {
+    "mtime": 1772698031.0,
+    "ast_hash": "0bbcd1ed2b7db4501a35e1402b60119c",
+    "semantic_hash": "0bbcd1ed2b7db4501a35e1402b60119c"
+  },
+  "Assets/vTabs/VTabsMenuItems.cs": {
+    "mtime": 1772698031.0,
+    "ast_hash": "0cb4dec82bd24b244cf5411c690df6cb",
+    "semantic_hash": "0cb4dec82bd24b244cf5411c690df6cb"
+  },
+  "Assets/vTabs/VTabsPlaceholderWindow.cs": {
+    "mtime": 1772698031.0,
+    "ast_hash": "970b78ce16bb52b06c3c4d355d572c47",
+    "semantic_hash": "970b78ce16bb52b06c3c4d355d572c47"
+  },
+  "Packages/com.codomaster.uniject/Runtime/Attributes/InjectAttribute.cs": {
+    "mtime": 1781895146.6008437,
+    "ast_hash": "ff9b577f5f22e649dc70381789bcc78a",
+    "semantic_hash": "ff9b577f5f22e649dc70381789bcc78a"
+  },
+  "Packages/com.codomaster.uniject/Runtime/Bindings/Binding.cs": {
+    "mtime": 1785233388.7375605,
+    "ast_hash": "132bb4e06a3b3a354fc2db5f6b6d7935",
+    "semantic_hash": "132bb4e06a3b3a354fc2db5f6b6d7935"
+  },
+  "Packages/com.codomaster.uniject/Runtime/Bindings/BindingToType.cs": {
+    "mtime": 1785233388.8505285,
+    "ast_hash": "a8315c9c1eda51bcc9aa72548185ee86",
+    "semantic_hash": "a8315c9c1eda51bcc9aa72548185ee86"
+  },
+  "Packages/com.codomaster.uniject/Runtime/Bindings/BindingToTypeAsBuilder.cs": {
+    "mtime": 1782064271.8129148,
+    "ast_hash": "d23e43882fd4b55f0be234c4027f2031",
+    "semantic_hash": "d23e43882fd4b55f0be234c4027f2031"
+  },
+  "Packages/com.codomaster.uniject/Runtime/Bindings/BindingToTypeAsEntryPointBuilder.cs": {
+    "mtime": 1782064271.8131068,
+    "ast_hash": "1abb6f5cde9c83d842668708a55dd268",
+    "semantic_hash": "1abb6f5cde9c83d842668708a55dd268"
+  },
+  "Packages/com.codomaster.uniject/Runtime/Bindings/BindingToTypeBuilder.cs": {
+    "mtime": 1782246282.6536608,
+    "ast_hash": "6b60a5b7e196fed4a47481416a0b2bed",
+    "semantic_hash": "6b60a5b7e196fed4a47481416a0b2bed"
+  },
+  "Packages/com.codomaster.uniject/Runtime/Bindings/BindingToTypeByBuilder.cs": {
+    "mtime": 1784403651.2118363,
+    "ast_hash": "8fa803f8a0f60fb84edf18eaf8a0a334",
+    "semantic_hash": "8fa803f8a0f60fb84edf18eaf8a0a334"
+  },
+  "Packages/com.codomaster.uniject/Runtime/Bindings/BindingToTypeFromBuilder.cs": {
+    "mtime": 1785315058.0907729,
+    "ast_hash": "b3ff383162136f0d5a093e067033782f",
+    "semantic_hash": "b3ff383162136f0d5a093e067033782f"
+  },
+  "Packages/com.codomaster.uniject/Runtime/Bindings/BindingToTypeNonLazyBuilder.cs": {
+    "mtime": 1782249431.4745753,
+    "ast_hash": "d5794155596fd77d72afb51283fd43f9",
+    "semantic_hash": "d5794155596fd77d72afb51283fd43f9"
+  },
+  "Packages/com.codomaster.uniject/Runtime/Bindings/BindingToTypeToBuilder.cs": {
+    "mtime": 1785315058.1966128,
+    "ast_hash": "05c6fd63702ad3070df1be05ed4f6f71",
+    "semantic_hash": "05c6fd63702ad3070df1be05ed4f6f71"
+  },
+  "Packages/com.codomaster.uniject/Runtime/Bindings/BindingToTypeUnderTransformBuilder.cs": {
+    "mtime": 1784052832.040753,
+    "ast_hash": "87fc983f2e308b0c06d0555e5ab175e0",
+    "semantic_hash": "87fc983f2e308b0c06d0555e5ab175e0"
+  },
+  "Packages/com.codomaster.uniject/Runtime/Bindings/BindingToTypeWithGameObjectNameBuilder.cs": {
+    "mtime": 1782064271.8148098,
+    "ast_hash": "82621290898b1ab3cfcc7fc763a1462a",
+    "semantic_hash": "82621290898b1ab3cfcc7fc763a1462a"
+  },
+  "Packages/com.codomaster.uniject/Runtime/Bindings/CreateOptions.cs": {
+    "mtime": 1784226187.6643147,
+    "ast_hash": "edd1473913c8e44b3d9bb220836d8c8c",
+    "semantic_hash": "edd1473913c8e44b3d9bb220836d8c8c"
+  },
+  "Packages/com.codomaster.uniject/Runtime/Bindings/Factories/BindingToFactory.cs": {
+    "mtime": 1785229675.2965589,
+    "ast_hash": "d803942ecb11a0505a172800dc962d8d",
+    "semantic_hash": "d803942ecb11a0505a172800dc962d8d"
+  },
+  "Packages/com.codomaster.uniject/Runtime/Bindings/Factories/BindingToFactoryAsBuilder.cs": {
+    "mtime": 1782064271.8156917,
+    "ast_hash": "ce624b897ba8d77d4b4f18f67402af5e",
+    "semantic_hash": "ce624b897ba8d77d4b4f18f67402af5e"
+  },
+  "Packages/com.codomaster.uniject/Runtime/Bindings/Factories/BindingToFactoryBuilder.cs": {
+    "mtime": 1782064271.8161259,
+    "ast_hash": "355124d7fe90cbe88db8a9a9218132e3",
+    "semantic_hash": "355124d7fe90cbe88db8a9a9218132e3"
+  },
+  "Packages/com.codomaster.uniject/Runtime/Bindings/Factories/BindingToFactoryFromBuilder.cs": {
+    "mtime": 1785233439.7680075,
+    "ast_hash": "9ea14d9a8c0737811aef4ca619ab1d05",
+    "semantic_hash": "9ea14d9a8c0737811aef4ca619ab1d05"
+  },
+  "Packages/com.codomaster.uniject/Runtime/Bindings/Factories/BindingToFactoryToBuilder.cs": {
+    "mtime": 1785233439.874884,
+    "ast_hash": "bfb500235acb68c40a7b8cd8f573a85e",
+    "semantic_hash": "bfb500235acb68c40a7b8cd8f573a85e"
+  },
+  "Packages/com.codomaster.uniject/Runtime/Bindings/Factories/BindingToFactoryWithParameter.cs": {
+    "mtime": 1785229675.2976832,
+    "ast_hash": "6bfc05f2eef0437c4d1cbfd6fc807eff",
+    "semantic_hash": "6bfc05f2eef0437c4d1cbfd6fc807eff"
+  },
+  "Packages/com.codomaster.uniject/Runtime/Bindings/Factories/BindingToFactoryWithParameterAsBuilder.cs": {
+    "mtime": 1782064271.8173287,
+    "ast_hash": "6de8aeb08336243a5ff433b0d6385bd8",
+    "semantic_hash": "6de8aeb08336243a5ff433b0d6385bd8"
+  },
+  "Packages/com.codomaster.uniject/Runtime/Bindings/Factories/BindingToFactoryWithParameterBuilder.cs": {
+    "mtime": 1782064271.8175113,
+    "ast_hash": "5597f98200cddf1021f416580a0aafe2",
+    "semantic_hash": "5597f98200cddf1021f416580a0aafe2"
+  },
+  "Packages/com.codomaster.uniject/Runtime/Bindings/Factories/BindingToFactoryWithParameterFromBuilder.cs": {
+    "mtime": 1785233439.9811842,
+    "ast_hash": "e5d570d522cab97f9020b75bd1e80d32",
+    "semantic_hash": "e5d570d522cab97f9020b75bd1e80d32"
+  },
+  "Packages/com.codomaster.uniject/Runtime/Bindings/Factories/BindingToFactoryWithParameterToBuilder.cs": {
+    "mtime": 1785233440.0879114,
+    "ast_hash": "4071fc313874a74c45e5745520393b29",
+    "semantic_hash": "4071fc313874a74c45e5745520393b29"
+  },
+  "Packages/com.codomaster.uniject/Runtime/Bindings/Pools/BindingToPool.cs": {
+    "mtime": 1785229675.2996528,
+    "ast_hash": "32f640499ce5ddc310ac122b02734e0d",
+    "semantic_hash": "32f640499ce5ddc310ac122b02734e0d"
+  },
+  "Packages/com.codomaster.uniject/Runtime/Bindings/Pools/BindingToPoolAsBuilder.cs": {
+    "mtime": 1783013982.7263632,
+    "ast_hash": "a350a98ec5ba5c6bc6d8b591931c11e3",
+    "semantic_hash": "a350a98ec5ba5c6bc6d8b591931c11e3"
+  },
+  "Packages/com.codomaster.uniject/Runtime/Bindings/Pools/BindingToPoolBuilder.cs": {
+    "mtime": 1783014021.3483548,
+    "ast_hash": "e0999b4219de5527caffcf13f819b783",
+    "semantic_hash": "e0999b4219de5527caffcf13f819b783"
+  },
+  "Packages/com.codomaster.uniject/Runtime/Bindings/Pools/BindingToPoolExpandTypeBuilder.cs": {
+    "mtime": 1785233440.4046419,
+    "ast_hash": "fbb57e98f3004a2a5d59a6a5d1bb416c",
+    "semantic_hash": "fbb57e98f3004a2a5d59a6a5d1bb416c"
+  },
+  "Packages/com.codomaster.uniject/Runtime/Bindings/Pools/BindingToPoolFromBuilder.cs": {
+    "mtime": 1785233440.1939776,
+    "ast_hash": "38132431c7ff468a1624b61a3b7d1e91",
+    "semantic_hash": "38132431c7ff468a1624b61a3b7d1e91"
+  },
+  "Packages/com.codomaster.uniject/Runtime/Bindings/Pools/BindingToPoolToBuilder.cs": {
+    "mtime": 1785233440.2990196,
+    "ast_hash": "949b7c948102242d3f1335dc54de2c05",
+    "semantic_hash": "949b7c948102242d3f1335dc54de2c05"
+  },
+  "Packages/com.codomaster.uniject/Runtime/Bindings/Pools/BindingToPoolWithInitialSizeBuilder.cs": {
+    "mtime": 1785233440.5119488,
+    "ast_hash": "bf1ec5ed0592120edc725ac4c0934871",
+    "semantic_hash": "bf1ec5ed0592120edc725ac4c0934871"
+  },
+  "Packages/com.codomaster.uniject/Runtime/Bindings/Pools/BindingToPoolWithMaxSizeBuilder.cs": {
+    "mtime": 1785233440.6180072,
+    "ast_hash": "2e6f6f8ddf77aaec49041575264612d0",
+    "semantic_hash": "2e6f6f8ddf77aaec49041575264612d0"
+  },
+  "Packages/com.codomaster.uniject/Runtime/Bindings/Pools/BindingToPoolWithoutGameObjectActivationBuilder .cs": {
+    "mtime": 1785233440.724,
+    "ast_hash": "3fab43901d8869146eb20691ca811892",
+    "semantic_hash": "3fab43901d8869146eb20691ca811892"
+  },
+  "Packages/com.codomaster.uniject/Runtime/Bindings/Pools/ExpandType.cs": {
+    "mtime": 1783011500.3486805,
+    "ast_hash": "d439822fd571e781efb17be5a824892e",
+    "semantic_hash": "d439822fd571e781efb17be5a824892e"
+  },
+  "Packages/com.codomaster.uniject/Runtime/Bindings/Scope.cs": {
+    "mtime": 1780497838.8823295,
+    "ast_hash": "e3657757bcfe159bf52be6404735b344",
+    "semantic_hash": "e3657757bcfe159bf52be6404735b344"
+  },
+  "Packages/com.codomaster.uniject/Runtime/Bindings/Subcontainers/BindingToSubcontainerAsBuilder.cs": {
+    "mtime": 1782246282.6556113,
+    "ast_hash": "3a3686d971650a5b49ec05a0e412b173",
+    "semantic_hash": "3a3686d971650a5b49ec05a0e412b173"
+  },
+  "Packages/com.codomaster.uniject/Runtime/Bindings/Subcontainers/BindingToSubcontainerUnderTransformBuilder.cs": {
+    "mtime": 1784309952.7942898,
+    "ast_hash": "0f12e431c008caf36bb854abfcf4cb3c",
+    "semantic_hash": "0f12e431c008caf36bb854abfcf4cb3c"
+  },
+  "Packages/com.codomaster.uniject/Runtime/Bindings/Subcontainers/BindingToSubcontainerWithGameObjectNameBuilder.cs": {
+    "mtime": 1784310087.4177423,
+    "ast_hash": "1a94995368191a3a71ee094fd95cf6d3",
+    "semantic_hash": "1a94995368191a3a71ee094fd95cf6d3"
+  },
+  "Packages/com.codomaster.uniject/Runtime/CollectionPool.cs": {
+    "mtime": 1783102496.218094,
+    "ast_hash": "52974d3c87a19b137693acd331c9d604",
+    "semantic_hash": "52974d3c87a19b137693acd331c9d604"
+  },
+  "Packages/com.codomaster.uniject/Runtime/Collections/OrderedSet.cs": {
+    "mtime": 1781712684.413303,
+    "ast_hash": "a9cd1e0f081930cc379fe2053e69bbe2",
+    "semantic_hash": "a9cd1e0f081930cc379fe2053e69bbe2"
+  },
+  "Packages/com.codomaster.uniject/Runtime/Components/InjectTargets.cs": {
+    "mtime": 1781712684.4135714,
+    "ast_hash": "633d73dde5d2ed8903a98bf518c582a3",
+    "semantic_hash": "633d73dde5d2ed8903a98bf518c582a3"
+  },
+  "Packages/com.codomaster.uniject/Runtime/Container.cs": {
+    "mtime": 1785233388.6056442,
+    "ast_hash": "65f6d949c80b0b28e143338f1d0f2b53",
+    "semantic_hash": "65f6d949c80b0b28e143338f1d0f2b53"
+  },
+  "Packages/com.codomaster.uniject/Runtime/Contexts/Context.cs": {
+    "mtime": 1784411265.4826233,
+    "ast_hash": "0f66bd6d5c0650ad0d28093ab031f640",
+    "semantic_hash": "0f66bd6d5c0650ad0d28093ab031f640"
+  },
+  "Packages/com.codomaster.uniject/Runtime/Contexts/GameObjectContext.cs": {
+    "mtime": 1784049187.9791222,
+    "ast_hash": "5620c16fa0bb8c365ee780b880370d41",
+    "semantic_hash": "5620c16fa0bb8c365ee780b880370d41"
+  },
+  "Packages/com.codomaster.uniject/Runtime/Contexts/SceneContext.cs": {
+    "mtime": 1784062899.2650764,
+    "ast_hash": "cba9e18d6eecae0653e0e65d265ec950",
+    "semantic_hash": "cba9e18d6eecae0653e0e65d265ec950"
+  },
+  "Packages/com.codomaster.uniject/Runtime/CustomFactory.cs": {
+    "mtime": 1783028616.1832063,
+    "ast_hash": "695ad6ef2c971abb8757d5c693bfcfbc",
+    "semantic_hash": "695ad6ef2c971abb8757d5c693bfcfbc"
+  },
+  "Packages/com.codomaster.uniject/Runtime/Exceptions/NoBindingFoundException.cs": {
+    "mtime": 1784063096.0448112,
+    "ast_hash": "071866175328a754ed1639c876b788cc",
+    "semantic_hash": "071866175328a754ed1639c876b788cc"
+  },
+  "Packages/com.codomaster.uniject/Runtime/Factory.cs": {
+    "mtime": 1785233389.0768967,
+    "ast_hash": "55a0e470cb6fc30233bf50bcd4c8bf2f",
+    "semantic_hash": "55a0e470cb6fc30233bf50bcd4c8bf2f"
+  },
+  "Packages/com.codomaster.uniject/Runtime/IFactory.cs": {
+    "mtime": 1782064271.8186827,
+    "ast_hash": "7072d9ee990a7be8d6488e53d9f3595b",
+    "semantic_hash": "7072d9ee990a7be8d6488e53d9f3595b"
+  },
+  "Packages/com.codomaster.uniject/Runtime/IObjectBuilder.cs": {
+    "mtime": 1781719640.7547987,
+    "ast_hash": "5cfb59b071273d794bf87b336acc673b",
+    "semantic_hash": "5cfb59b071273d794bf87b336acc673b"
+  },
+  "Packages/com.codomaster.uniject/Runtime/IPool.cs": {
+    "mtime": 1782419227.491105,
+    "ast_hash": "00cd4c686557674376dbf9256d8e22b6",
+    "semantic_hash": "00cd4c686557674376dbf9256d8e22b6"
+  },
+  "Packages/com.codomaster.uniject/Runtime/IProvider.cs": {
+    "mtime": 1783268490.77075,
+    "ast_hash": "e1746885b981a19f6c68f355ee358ff4",
+    "semantic_hash": "e1746885b981a19f6c68f355ee358ff4"
+  },
+  "Packages/com.codomaster.uniject/Runtime/InjectContext.cs": {
+    "mtime": 1785233388.488737,
+    "ast_hash": "6bf38f272ea2ed33758f4d7062904974",
+    "semantic_hash": "6bf38f272ea2ed33758f4d7062904974"
+  },
+  "Packages/com.codomaster.uniject/Runtime/Installers/IInstaller.cs": {
+    "mtime": 1784062505.0789363,
+    "ast_hash": "58deeddddba2d6cb775a8e4a8e297e75",
+    "semantic_hash": "58deeddddba2d6cb775a8e4a8e297e75"
+  },
+  "Packages/com.codomaster.uniject/Runtime/Installers/MonoInstaller.cs": {
+    "mtime": 1783197238.7460527,
+    "ast_hash": "c984461732a5b0e9b4be402827831ecd",
+    "semantic_hash": "c984461732a5b0e9b4be402827831ecd"
+  },
+  "Packages/com.codomaster.uniject/Runtime/Installers/SceneLoaderInstaller.cs": {
+    "mtime": 1784449703.0236163,
+    "ast_hash": "82bf5cb137cbfacb38a2c614a64e9800",
+    "semantic_hash": "82bf5cb137cbfacb38a2c614a64e9800"
+  },
+  "Packages/com.codomaster.uniject/Runtime/Installers/TickableManagerInstaller.cs": {
+    "mtime": 1784449793.5204227,
+    "ast_hash": "a1d20ad765567712df7f7d7f645798d4",
+    "semantic_hash": "a1d20ad765567712df7f7d7f645798d4"
+  },
+  "Packages/com.codomaster.uniject/Runtime/InstanceGetters/Factories/InstanceGetterFromFactory.cs": {
+    "mtime": 1785234038.4966068,
+    "ast_hash": "156426e41760a83948340c18422b312b",
+    "semantic_hash": "156426e41760a83948340c18422b312b"
+  },
+  "Packages/com.codomaster.uniject/Runtime/InstanceGetters/Factories/InstanceGetterWithParameter.cs": {
+    "mtime": 1785229675.304848,
+    "ast_hash": "0717bf63d22f08e37dad7937afd0aa2f",
+    "semantic_hash": "0717bf63d22f08e37dad7937afd0aa2f"
+  },
+  "Packages/com.codomaster.uniject/Runtime/InstanceGetters/Factories/InstanceGetterWithParameterFromComponentInNewPrefab.cs": {
+    "mtime": 1785234043.3582833,
+    "ast_hash": "665e8d7b55afc64d9a9cb69fa01cbcb9",
+    "semantic_hash": "665e8d7b55afc64d9a9cb69fa01cbcb9"
+  },
+  "Packages/com.codomaster.uniject/Runtime/InstanceGetters/Factories/InstanceGetterWithParameterFromFactory.cs": {
+    "mtime": 1785234016.5883725,
+    "ast_hash": "b446f241aaa512d546953ca2658f16f4",
+    "semantic_hash": "b446f241aaa512d546953ca2658f16f4"
+  },
+  "Packages/com.codomaster.uniject/Runtime/InstanceGetters/Factories/InstanceGetterWithParameterFromMethod.cs": {
+    "mtime": 1785233389.3134055,
+    "ast_hash": "07956382de9989a51335a6e6fe626ebb",
+    "semantic_hash": "07956382de9989a51335a6e6fe626ebb"
+  },
+  "Packages/com.codomaster.uniject/Runtime/InstanceGetters/Factories/InstanceGetterWithParameterFromNewComponentInNewPrefab.cs": {
+    "mtime": 1785234033.3528717,
+    "ast_hash": "b14648f03b750df9ecfdaa7842b0ab60",
+    "semantic_hash": "b14648f03b750df9ecfdaa7842b0ab60"
+  },
+  "Packages/com.codomaster.uniject/Runtime/InstanceGetters/InstanceGetter.cs": {
+    "mtime": 1785229675.3064604,
+    "ast_hash": "8fd10f86b2626e10d78794c18a047841",
+    "semantic_hash": "8fd10f86b2626e10d78794c18a047841"
+  },
+  "Packages/com.codomaster.uniject/Runtime/InstanceGetters/InstanceGetterBase.cs": {
+    "mtime": 1785234005.8977396,
+    "ast_hash": "405c9a061fe8476fa16595ab0709b209",
+    "semantic_hash": "405c9a061fe8476fa16595ab0709b209"
+  },
+  "Packages/com.codomaster.uniject/Runtime/InstanceGetters/InstanceGetterFromComponentInNewPrefab.cs": {
+    "mtime": 1785234058.9331794,
+    "ast_hash": "71b591504a6a0b32ed39f9e4fcc1f2c7",
+    "semantic_hash": "71b591504a6a0b32ed39f9e4fcc1f2c7"
+  },
+  "Packages/com.codomaster.uniject/Runtime/InstanceGetters/InstanceGetterFromConstructor.cs": {
+    "mtime": 1785234027.3975682,
+    "ast_hash": "1a0e4d632438623d4c2e5e7fbbe1074f",
+    "semantic_hash": "1a0e4d632438623d4c2e5e7fbbe1074f"
+  },
+  "Packages/com.codomaster.uniject/Runtime/InstanceGetters/InstanceGetterFromInstance.cs": {
+    "mtime": 1785229675.3079824,
+    "ast_hash": "d46587b306b10b81e2fd888d67b9a683",
+    "semantic_hash": "d46587b306b10b81e2fd888d67b9a683"
+  },
+  "Packages/com.codomaster.uniject/Runtime/InstanceGetters/InstanceGetterFromMethod.cs": {
+    "mtime": 1785233389.197431,
+    "ast_hash": "f2914b5571e258b54ba1eabf2ca5b4c3",
+    "semantic_hash": "f2914b5571e258b54ba1eabf2ca5b4c3"
+  },
+  "Packages/com.codomaster.uniject/Runtime/InstanceGetters/InstanceGetterFromNewComponentOn.cs": {
+    "mtime": 1785234047.884397,
+    "ast_hash": "64b7541fdf845cd218c1b59e6dac3c0e",
+    "semantic_hash": "64b7541fdf845cd218c1b59e6dac3c0e"
+  },
+  "Packages/com.codomaster.uniject/Runtime/InstanceGetters/InstanceGetterFromNewComponentOnNewGameObject.cs": {
+    "mtime": 1785234053.3101275,
+    "ast_hash": "beb934aeb97d4788e38df4c503e83275",
+    "semantic_hash": "beb934aeb97d4788e38df4c503e83275"
+  },
+  "Packages/com.codomaster.uniject/Runtime/InstanceGetters/InstanceGetterFromNewComponentOnNewPrefab.cs": {
+    "mtime": 1785234022.4388394,
+    "ast_hash": "8d8a20efb75ad18774764784c59e0b2c",
+    "semantic_hash": "8d8a20efb75ad18774764784c59e0b2c"
+  },
+  "Packages/com.codomaster.uniject/Runtime/InstanceGetters/InstanceGetterFromResolve.cs": {
+    "mtime": 1785229675.3091328,
+    "ast_hash": "42bb8690fa00a6dbbea828722e4d9499",
+    "semantic_hash": "42bb8690fa00a6dbbea828722e4d9499"
+  },
+  "Packages/com.codomaster.uniject/Runtime/InstanceGetters/InstanceGetterFromSubContainerResolve.cs": {
+    "mtime": 1785229675.3093126,
+    "ast_hash": "3b1b61e987f009e1202079ad8ea41c4e",
+    "semantic_hash": "3b1b61e987f009e1202079ad8ea41c4e"
+  },
+  "Packages/com.codomaster.uniject/Runtime/Lifecycle/FixedTickable.cs": {
+    "mtime": 1781712684.414322,
+    "ast_hash": "803066da7bea36bb7c10133e94dbc55b",
+    "semantic_hash": "803066da7bea36bb7c10133e94dbc55b"
+  },
+  "Packages/com.codomaster.uniject/Runtime/Lifecycle/IEntryPoint.cs": {
+    "mtime": 1781712684.4145112,
+    "ast_hash": "8056bf46bf4679cee6ec2a45dce5088c",
+    "semantic_hash": "8056bf46bf4679cee6ec2a45dce5088c"
+  },
+  "Packages/com.codomaster.uniject/Runtime/Lifecycle/IFixedTickable.cs": {
+    "mtime": 1781712684.414694,
+    "ast_hash": "76f1dabf1d5853e6823cfeca74d9160b",
+    "semantic_hash": "76f1dabf1d5853e6823cfeca74d9160b"
+  },
+  "Packages/com.codomaster.uniject/Runtime/Lifecycle/ILateTickable.cs": {
+    "mtime": 1781712684.41489,
+    "ast_hash": "4c29c6b5c303c445af0fa96acc5fb4f6",
+    "semantic_hash": "4c29c6b5c303c445af0fa96acc5fb4f6"
+  },
+  "Packages/com.codomaster.uniject/Runtime/Lifecycle/ITickable.cs": {
+    "mtime": 1781712684.4150705,
+    "ast_hash": "e509bc666823e4fc90b5aff619aff7da",
+    "semantic_hash": "e509bc666823e4fc90b5aff619aff7da"
+  },
+  "Packages/com.codomaster.uniject/Runtime/Lifecycle/LateTickable.cs": {
+    "mtime": 1781712684.415285,
+    "ast_hash": "96eb9a354d22c8dc60820a492628f689",
+    "semantic_hash": "96eb9a354d22c8dc60820a492628f689"
+  },
+  "Packages/com.codomaster.uniject/Runtime/Lifecycle/Tickable.cs": {
+    "mtime": 1781712684.4154966,
+    "ast_hash": "ea594711d7a9a6afdf5e2d519665a339",
+    "semantic_hash": "ea594711d7a9a6afdf5e2d519665a339"
+  },
+  "Packages/com.codomaster.uniject/Runtime/Lifecycle/TickableBase.cs": {
+    "mtime": 1781712684.4157262,
+    "ast_hash": "ccb6c5accd27c913a796b8568831d7eb",
+    "semantic_hash": "ccb6c5accd27c913a796b8568831d7eb"
+  },
+  "Packages/com.codomaster.uniject/Runtime/Lifecycle/TickableManager.cs": {
+    "mtime": 1781712684.4159558,
+    "ast_hash": "dfd8da6bd48738b3ebbf9db79dd7fff5",
+    "semantic_hash": "dfd8da6bd48738b3ebbf9db79dd7fff5"
+  },
+  "Packages/com.codomaster.uniject/Runtime/Pool.cs": {
+    "mtime": 1785229675.3098495,
+    "ast_hash": "27d527bf18bff34962c56c113e4074f5",
+    "semantic_hash": "27d527bf18bff34962c56c113e4074f5"
+  },
+  "Packages/com.codomaster.uniject/Runtime/Reflection/ConstructorInjectionInfo.cs": {
+    "mtime": 1780497838.884333,
+    "ast_hash": "3fc40a75da58db05e19ad94c72066967",
+    "semantic_hash": "3fc40a75da58db05e19ad94c72066967"
+  },
+  "Packages/com.codomaster.uniject/Runtime/Reflection/MethodInjectionData.cs": {
+    "mtime": 1780497838.884606,
+    "ast_hash": "4acbfcf5bf37af2de75fea3ad59cb2b4",
+    "semantic_hash": "4acbfcf5bf37af2de75fea3ad59cb2b4"
+  },
+  "Packages/com.codomaster.uniject/Runtime/Reflection/ReflectionCache.cs": {
+    "mtime": 1781886819.8711092,
+    "ast_hash": "3f3001e531316deb0f3b9c17ce7cdedf",
+    "semantic_hash": "3f3001e531316deb0f3b9c17ce7cdedf"
+  },
+  "Packages/com.codomaster.uniject/Runtime/Reflection/TypeValidator.cs": {
+    "mtime": 1782064271.8217113,
+    "ast_hash": "569cb936190a5c6916d8e186465a30f5",
+    "semantic_hash": "569cb936190a5c6916d8e186465a30f5"
+  },
+  "Packages/com.codomaster.uniject/Runtime/SceneLoader.cs": {
+    "mtime": 1784140531.1521556,
+    "ast_hash": "ed5335f8bda974dfe4b5f19347ad0530",
+    "semantic_hash": "ed5335f8bda974dfe4b5f19347ad0530"
+  },
+  "Packages/com.codomaster.uniject/Runtime/SubcontainerGetters/SubcontainerGetter.cs": {
+    "mtime": 1784240571.028257,
+    "ast_hash": "8ba540f3d5efc56b04c34bd490811a9f",
+    "semantic_hash": "8ba540f3d5efc56b04c34bd490811a9f"
+  },
+  "Packages/com.codomaster.uniject/Runtime/SubcontainerGetters/SubcontainerGetterByContextOnNewPrefab.cs": {
+    "mtime": 1784403604.890961,
+    "ast_hash": "5c524f3845ae99bb708468dca9a997bf",
+    "semantic_hash": "5c524f3845ae99bb708468dca9a997bf"
+  },
+  "Packages/com.codomaster.uniject/Runtime/SubcontainerGetters/SubcontainerGetterByInstaller.cs": {
+    "mtime": 1783197328.9363377,
+    "ast_hash": "33cca2764f02490681aa382df47ccb05",
+    "semantic_hash": "33cca2764f02490681aa382df47ccb05"
+  },
+  "Packages/com.codomaster.uniject/Runtime/SubcontainerGetters/SubcontainerGetterByInstance.cs": {
+    "mtime": 1782314248.0632906,
+    "ast_hash": "765fd32f01bbb0611aeec532df62b0d0",
+    "semantic_hash": "765fd32f01bbb0611aeec532df62b0d0"
+  },
+  "Packages/com.codomaster.uniject/Runtime/SubcontainerGetters/SubcontainerGetterByMethod.cs": {
+    "mtime": 1784294168.9257567,
+    "ast_hash": "b6c801cb5df3cf004ead74c290023827",
+    "semantic_hash": "b6c801cb5df3cf004ead74c290023827"
+  },
+  "Packages/com.codomaster.uniject/Runtime/SubcontainerGetters/SubcontainerGetterByNewContextFromInstallerOnNewGameObject.cs": {
+    "mtime": 1784316018.9296234,
+    "ast_hash": "e0f96a77e3a1ffa4b1c8718126864c74",
+    "semantic_hash": "e0f96a77e3a1ffa4b1c8718126864c74"
+  },
+  "Packages/com.codomaster.uniject/Runtime/SubcontainerGetters/SubcontainerGetterByNewContextFromInstallerOnNewPrefab.cs": {
+    "mtime": 1784320734.259757,
+    "ast_hash": "732e780d1e8f3c7970e88d4c0c4e4992",
+    "semantic_hash": "732e780d1e8f3c7970e88d4c0c4e4992"
+  },
+  "Packages/com.codomaster.uniject/Runtime/SubcontainerGetters/SubcontainerGetterByNewContextFromMethodOnNewGameObject.cs": {
+    "mtime": 1784315861.048019,
+    "ast_hash": "7c87cf103f6789e5f7471e282c996d90",
+    "semantic_hash": "7c87cf103f6789e5f7471e282c996d90"
+  },
+  "Packages/com.codomaster.uniject/Runtime/SubcontainerGetters/SubcontainerGetterByNewContextFromMethodOnNewPrefab.cs": {
+    "mtime": 1784320027.4455776,
+    "ast_hash": "69e7f70939a6ae6b750269698c0aed38",
+    "semantic_hash": "69e7f70939a6ae6b750269698c0aed38"
+  },
+  "Packages/com.codomaster.uniject/Tests/Editor/CollectionPoolTests.cs": {
+    "mtime": 1783102119.2168639,
+    "ast_hash": "d17b6d875ec4aace095449eedb83c298",
+    "semantic_hash": "d17b6d875ec4aace095449eedb83c298"
+  },
+  "Packages/com.codomaster.uniject/Tests/Editor/ContainerBindingTests.cs": {
+    "mtime": 1782246278.422809,
+    "ast_hash": "1cc78c35c73617a3d899d923ad9b2757",
+    "semantic_hash": "1cc78c35c73617a3d899d923ad9b2757"
+  },
+  "Packages/com.codomaster.uniject/Tests/Editor/ContainerBuildTests.cs": {
+    "mtime": 1783969094.5255475,
+    "ast_hash": "129b179bcac562935cb36c1d3eda1c6f",
+    "semantic_hash": "129b179bcac562935cb36c1d3eda1c6f"
+  },
+  "Packages/com.codomaster.uniject/Tests/Editor/ContainerCircularDependencyTests.cs": {
+    "mtime": 1780944431.758067,
+    "ast_hash": "6a5216c8553cf42da20b0f4a1af56209",
+    "semantic_hash": "6a5216c8553cf42da20b0f4a1af56209"
+  },
+  "Packages/com.codomaster.uniject/Tests/Editor/ContainerEntryPointsTests.cs": {
+    "mtime": 1781895199.4359794,
+    "ast_hash": "d0ad9aa3d4304bce1bf5c3b6b406d3e5",
+    "semantic_hash": "d0ad9aa3d4304bce1bf5c3b6b406d3e5"
+  },
+  "Packages/com.codomaster.uniject/Tests/Editor/ContainerFactoryFromComponentInNewPrefabTests.cs": {
+    "mtime": 1782420170.5724878,
+    "ast_hash": "aea38b0cec48fac7934d6a60d3ecd7bf",
+    "semantic_hash": "aea38b0cec48fac7934d6a60d3ecd7bf"
+  },
+  "Packages/com.codomaster.uniject/Tests/Editor/ContainerFactoryFromCustomFactoryTests.cs": {
+    "mtime": 1783028929.4865155,
+    "ast_hash": "773a4127edae3c6c108a942593b9bb37",
+    "semantic_hash": "773a4127edae3c6c108a942593b9bb37"
+  },
+  "Packages/com.codomaster.uniject/Tests/Editor/ContainerFactoryFromMethodTests.cs": {
+    "mtime": 1785233554.4215999,
+    "ast_hash": "aca9491a7c62d28b5c504a66f80fb0c8",
+    "semantic_hash": "aca9491a7c62d28b5c504a66f80fb0c8"
+  },
+  "Packages/com.codomaster.uniject/Tests/Editor/ContainerFactoryFromNewComponentOnNewGameObjectTests.cs": {
+    "mtime": 1784227857.9458377,
+    "ast_hash": "d0d50d1cec93b5a91497a68f3fe4870d",
+    "semantic_hash": "d0d50d1cec93b5a91497a68f3fe4870d"
+  },
+  "Packages/com.codomaster.uniject/Tests/Editor/ContainerFactoryFromNewComponentOnNewPrefabTests.cs": {
+    "mtime": 1782420170.5721195,
+    "ast_hash": "398ce72f67a3c99a653c53ef81d21b47",
+    "semantic_hash": "398ce72f67a3c99a653c53ef81d21b47"
+  },
+  "Packages/com.codomaster.uniject/Tests/Editor/ContainerFactoryFromNewComponentOnTests.cs": {
+    "mtime": 1784985196.165543,
+    "ast_hash": "ebe7192a2a2b487bfc3270b4dfa8ecd8",
+    "semantic_hash": "ebe7192a2a2b487bfc3270b4dfa8ecd8"
+  },
+  "Packages/com.codomaster.uniject/Tests/Editor/ContainerFactoryFromResolveTests.cs": {
+    "mtime": 1782420170.5692601,
+    "ast_hash": "77cde7dfef7680d864fb6df7ca88fbb9",
+    "semantic_hash": "77cde7dfef7680d864fb6df7ca88fbb9"
+  },
+  "Packages/com.codomaster.uniject/Tests/Editor/ContainerFactoryTestFixture.cs": {
+    "mtime": 1784464687.9661312,
+    "ast_hash": "aed00786458760a8ad0ff2eae5253ae5",
+    "semantic_hash": "aed00786458760a8ad0ff2eae5253ae5"
+  },
+  "Packages/com.codomaster.uniject/Tests/Editor/ContainerFactoryTests.cs": {
+    "mtime": 1782420156.1652884,
+    "ast_hash": "e8d8340d6b3ce66400d9186fe848d4b6",
+    "semantic_hash": "e8d8340d6b3ce66400d9186fe848d4b6"
+  },
+  "Packages/com.codomaster.uniject/Tests/Editor/ContainerInjectContextTests.cs": {
+    "mtime": 1785233684.5283215,
+    "ast_hash": "e7ee7c8311267cf2b50ba8bd916edc52",
+    "semantic_hash": "e7ee7c8311267cf2b50ba8bd916edc52"
+  },
+  "Packages/com.codomaster.uniject/Tests/Editor/ContainerInjectTests.cs": {
+    "mtime": 1781712684.4167192,
+    "ast_hash": "6d9c85c68d2a584aac0516e34e08a639",
+    "semantic_hash": "6d9c85c68d2a584aac0516e34e08a639"
+  },
+  "Packages/com.codomaster.uniject/Tests/Editor/ContainerInstantiateTests.cs": {
+    "mtime": 1782315780.1624832,
+    "ast_hash": "26319aa24f6eaeec79e22bb761d46bf4",
+    "semantic_hash": "26319aa24f6eaeec79e22bb761d46bf4"
+  },
+  "Packages/com.codomaster.uniject/Tests/Editor/ContainerNonLazyTests.cs": {
+    "mtime": 1784065098.3134897,
+    "ast_hash": "3115a24ca7ce52cd35717677d1459b2b",
+    "semantic_hash": "3115a24ca7ce52cd35717677d1459b2b"
+  },
+  "Packages/com.codomaster.uniject/Tests/Editor/ContainerParameterizedFactoryFromComponentInNewPrefabTests.cs": {
+    "mtime": 1782420229.164891,
+    "ast_hash": "ec16cbb472d23fdca566424f649a214e",
+    "semantic_hash": "ec16cbb472d23fdca566424f649a214e"
+  },
+  "Packages/com.codomaster.uniject/Tests/Editor/ContainerParameterizedFactoryFromCustomFactoryTests.cs": {
+    "mtime": 1783105992.6193483,
+    "ast_hash": "04740b2f9c568a22174acc52bfe1216b",
+    "semantic_hash": "04740b2f9c568a22174acc52bfe1216b"
+  },
+  "Packages/com.codomaster.uniject/Tests/Editor/ContainerParameterizedFactoryFromMethodTests.cs": {
+    "mtime": 1785233571.280805,
+    "ast_hash": "08ac59a356afe53e45b6189ae212bfba",
+    "semantic_hash": "08ac59a356afe53e45b6189ae212bfba"
+  },
+  "Packages/com.codomaster.uniject/Tests/Editor/ContainerParameterizedFactoryFromNewComponentOnNewPrefabTests.cs": {
+    "mtime": 1782420250.25822,
+    "ast_hash": "b494161d451559eb9ebfb5a42a5b0eaa",
+    "semantic_hash": "b494161d451559eb9ebfb5a42a5b0eaa"
+  },
+  "Packages/com.codomaster.uniject/Tests/Editor/ContainerParameterizedFactoryTests.cs": {
+    "mtime": 1784464688.07919,
+    "ast_hash": "4e897930f14e781c2c354a4a462812fa",
+    "semantic_hash": "4e897930f14e781c2c354a4a462812fa"
+  },
+  "Packages/com.codomaster.uniject/Tests/Editor/ContainerPoolFromNewComponentOnTests.cs": {
+    "mtime": 1784985196.1661232,
+    "ast_hash": "64df15be6b43b00ab50c680da0e40b41",
+    "semantic_hash": "64df15be6b43b00ab50c680da0e40b41"
+  },
+  "Packages/com.codomaster.uniject/Tests/Editor/ContainerPoolTestFixture.cs": {
+    "mtime": 1783015832.5554094,
+    "ast_hash": "b7da4c9561f74121c6d47ed8559b3e23",
+    "semantic_hash": "b7da4c9561f74121c6d47ed8559b3e23"
+  },
+  "Packages/com.codomaster.uniject/Tests/Editor/ContainerPoolTests.cs": {
+    "mtime": 1785233562.440747,
+    "ast_hash": "720dd43ce0f28af7a6dbb104bff6e277",
+    "semantic_hash": "720dd43ce0f28af7a6dbb104bff6e277"
+  },
+  "Packages/com.codomaster.uniject/Tests/Editor/ContainerResolveFromComponentInNewPrefabTests.cs": {
+    "mtime": 1782246278.42464,
+    "ast_hash": "3ca84dbc79d900e1059a1efce349c40f",
+    "semantic_hash": "3ca84dbc79d900e1059a1efce349c40f"
+  },
+  "Packages/com.codomaster.uniject/Tests/Editor/ContainerResolveFromConstructorTests.cs": {
+    "mtime": 1782246278.424788,
+    "ast_hash": "7dbaefc769a083808927c14eaf201080",
+    "semantic_hash": "7dbaefc769a083808927c14eaf201080"
+  },
+  "Packages/com.codomaster.uniject/Tests/Editor/ContainerResolveFromContextOnNewPrefabTests.cs": {
+    "mtime": 1784411546.4370227,
+    "ast_hash": "5460662cdd9d97eb1abfaf5a3be45777",
+    "semantic_hash": "5460662cdd9d97eb1abfaf5a3be45777"
+  },
+  "Packages/com.codomaster.uniject/Tests/Editor/ContainerResolveFromInstanceTests.cs": {
+    "mtime": 1782246278.4250028,
+    "ast_hash": "b76ec5604900961d782ca4d04f6f22a0",
+    "semantic_hash": "b76ec5604900961d782ca4d04f6f22a0"
+  },
+  "Packages/com.codomaster.uniject/Tests/Editor/ContainerResolveFromMethodTests.cs": {
+    "mtime": 1785233545.2821064,
+    "ast_hash": "c65ca751b9fa323e0c686fad1a1b97e4",
+    "semantic_hash": "c65ca751b9fa323e0c686fad1a1b97e4"
+  },
+  "Packages/com.codomaster.uniject/Tests/Editor/ContainerResolveFromNewComponentOnNewGameObjectTests.cs": {
+    "mtime": 1782246278.4251409,
+    "ast_hash": "9f9a28a81bea878199f2d94cf9aefc21",
+    "semantic_hash": "9f9a28a81bea878199f2d94cf9aefc21"
+  },
+  "Packages/com.codomaster.uniject/Tests/Editor/ContainerResolveFromNewComponentOnNewPrefabTests.cs": {
+    "mtime": 1782246278.42535,
+    "ast_hash": "f5205015b4bba18df6ab87cd9fde7abf",
+    "semantic_hash": "f5205015b4bba18df6ab87cd9fde7abf"
+  },
+  "Packages/com.codomaster.uniject/Tests/Editor/ContainerResolveFromNewComponentOnTests.cs": {
+    "mtime": 1784985196.1665068,
+    "ast_hash": "5bff5a277ba0211c3cf0d7284a316daa",
+    "semantic_hash": "5bff5a277ba0211c3cf0d7284a316daa"
+  },
+  "Packages/com.codomaster.uniject/Tests/Editor/ContainerResolveFromNewContextPrefabSubcontainerTests.cs": {
+    "mtime": 1784411546.3275738,
+    "ast_hash": "5cb5759edd89db95b3c7bf6edec3395a",
+    "semantic_hash": "5cb5759edd89db95b3c7bf6edec3395a"
+  },
+  "Packages/com.codomaster.uniject/Tests/Editor/ContainerResolveFromNewContextSubcontainerTests.cs": {
+    "mtime": 1784411546.2107468,
+    "ast_hash": "6ced89fa034956f20514aed812e797f3",
+    "semantic_hash": "6ced89fa034956f20514aed812e797f3"
+  },
+  "Packages/com.codomaster.uniject/Tests/Editor/ContainerResolveFromResolveTests.cs": {
+    "mtime": 1782246278.4254696,
+    "ast_hash": "6eb13c8c53b8685f4b38c996e3ded5e2",
+    "semantic_hash": "6eb13c8c53b8685f4b38c996e3ded5e2"
+  },
+  "Packages/com.codomaster.uniject/Tests/Editor/ContainerResolveFromSubcontainerTests.cs": {
+    "mtime": 1784311049.7432375,
+    "ast_hash": "cb0577e553de40e5f09002aa6dc7441c",
+    "semantic_hash": "cb0577e553de40e5f09002aa6dc7441c"
+  },
+  "Packages/com.codomaster.uniject/Tests/Editor/ContainerResolveGameObjectConfigurationTests.cs": {
+    "mtime": 1784227857.9454856,
+    "ast_hash": "5314175d4c925d4dd2cd87b3a979bc2c",
+    "semantic_hash": "5314175d4c925d4dd2cd87b3a979bc2c"
+  },
+  "Packages/com.codomaster.uniject/Tests/Editor/ContainerResolveParentTests.cs": {
+    "mtime": 1782246278.4257796,
+    "ast_hash": "9d2f5fb1dc1ab9e932184ae5df55d2c1",
+    "semantic_hash": "9d2f5fb1dc1ab9e932184ae5df55d2c1"
+  },
+  "Packages/com.codomaster.uniject/Tests/Editor/ContainerResolveScopeTests.cs": {
+    "mtime": 1782246278.4259143,
+    "ast_hash": "e3b622e40ea508807d9ea12ed6226122",
+    "semantic_hash": "e3b622e40ea508807d9ea12ed6226122"
+  },
+  "Packages/com.codomaster.uniject/Tests/Editor/ContainerResolveTestFixture.cs": {
+    "mtime": 1782246278.4260254,
+    "ast_hash": "fc095a1796c9401c41a7689e58d94d69",
+    "semantic_hash": "fc095a1796c9401c41a7689e58d94d69"
+  },
+  "Packages/com.codomaster.uniject/Tests/Editor/ContainerTryResolveTests.cs": {
+    "mtime": 1784449925.1369152,
+    "ast_hash": "02fea43bdc549aaf77ead17a2e4f1a97",
+    "semantic_hash": "02fea43bdc549aaf77ead17a2e4f1a97"
+  },
+  "Packages/com.codomaster.uniject/Tests/Editor/ContextLifecycleTests.cs": {
+    "mtime": 1784411546.0995383,
+    "ast_hash": "6965f2c6a8b70258e45e03815cd43c05",
+    "semantic_hash": "6965f2c6a8b70258e45e03815cd43c05"
+  },
+  "Packages/com.codomaster.uniject/Tests/Editor/ContextTestUtility.cs": {
+    "mtime": 1784064415.494273,
+    "ast_hash": "59416ec9de5f454b10ca89ce046273ec",
+    "semantic_hash": "59416ec9de5f454b10ca89ce046273ec"
+  },
+  "Packages/com.codomaster.uniject/Tests/Editor/ReflectionCacheConstructorTests.cs": {
+    "mtime": 1782246278.426144,
+    "ast_hash": "72de87552774f1575749a1758dd82680",
+    "semantic_hash": "72de87552774f1575749a1758dd82680"
+  },
+  "Packages/com.codomaster.uniject/Tests/Editor/ReflectionCacheMethodInjectionTests.cs": {
+    "mtime": 1782246278.4263527,
+    "ast_hash": "f5db0f226f85f88033fc285c7ba45db7",
+    "semantic_hash": "f5db0f226f85f88033fc285c7ba45db7"
+  },
+  "Packages/com.codomaster.uniject/Tests/Editor/ReflectionCacheTestFixture.cs": {
+    "mtime": 1782246278.4265068,
+    "ast_hash": "370e3aa545e8f5e63838233bd3562d31",
+    "semantic_hash": "370e3aa545e8f5e63838233bd3562d31"
+  },
+  "Packages/com.codomaster.uniject/Tests/Editor/ReflectionCacheTests.cs": {
+    "mtime": 1782246278.4267786,
+    "ast_hash": "e46906d42e5bd15752d78ebd2447e8e1",
+    "semantic_hash": "e46906d42e5bd15752d78ebd2447e8e1"
+  },
+  "Packages/com.codomaster.uniject/Tests/Editor/TickableManagerTests.cs": {
+    "mtime": 1781712684.4180174,
+    "ast_hash": "72d77edab10f6ae33532f3fc74569496",
+    "semantic_hash": "72d77edab10f6ae33532f3fc74569496"
+  },
+  "Packages/com.codomaster.uniject/Tests/Runtime/ContainerPoolRuntimeTests.cs": {
+    "mtime": 1783015801.0307124,
+    "ast_hash": "8d123adce668955477353724da1d2ce2",
+    "semantic_hash": "8d123adce668955477353724da1d2ce2"
+  },
+  "Packages/com.codomaster.uniject/Tests/Runtime/Fixtures/AbstractClass.cs": {
+    "mtime": 1780945977.9581077,
+    "ast_hash": "06a8df21c5f2a21585400f430e39bcf0",
+    "semantic_hash": "06a8df21c5f2a21585400f430e39bcf0"
+  },
+  "Packages/com.codomaster.uniject/Tests/Runtime/Fixtures/AbstractScript.cs": {
+    "mtime": 1780945977.9619524,
+    "ast_hash": "f72d05e1bc291d3cd5dfdea5d62f604a",
+    "semantic_hash": "f72d05e1bc291d3cd5dfdea5d62f604a"
+  },
+  "Packages/com.codomaster.uniject/Tests/Runtime/Fixtures/Class.cs": {
+    "mtime": 1780945977.963238,
+    "ast_hash": "7611e7baceff34a97964739b723accd5",
+    "semantic_hash": "7611e7baceff34a97964739b723accd5"
+  },
+  "Packages/com.codomaster.uniject/Tests/Runtime/Fixtures/ClassImplementedAbstractClass.cs": {
+    "mtime": 1780945977.9690611,
+    "ast_hash": "da561c72e0dd7fe740b2ec6ee6702bd0",
+    "semantic_hash": "da561c72e0dd7fe740b2ec6ee6702bd0"
+  },
+  "Packages/com.codomaster.uniject/Tests/Runtime/Fixtures/ClassImplementedIInterface.cs": {
+    "mtime": 1780945977.9765787,
+    "ast_hash": "abea0fc6026188b4d05e94fffb9ee260",
+    "semantic_hash": "abea0fc6026188b4d05e94fffb9ee260"
+  },
+  "Packages/com.codomaster.uniject/Tests/Runtime/Fixtures/ClassWithEntryPoint.cs": {
+    "mtime": 1781712684.4182117,
+    "ast_hash": "c803ef53385949a4aff5b25daffa2cb7",
+    "semantic_hash": "c803ef53385949a4aff5b25daffa2cb7"
+  },
+  "Packages/com.codomaster.uniject/Tests/Runtime/Fixtures/ClassWithPrivateConstructor.cs": {
+    "mtime": 1780945977.9807267,
+    "ast_hash": "823cb823abf465fb61d17b0d736a08e9",
+    "semantic_hash": "823cb823abf465fb61d17b0d736a08e9"
+  },
+  "Packages/com.codomaster.uniject/Tests/Runtime/Fixtures/IInterface.cs": {
+    "mtime": 1780945977.9811711,
+    "ast_hash": "7ced22f34fb0862a88d98ca0a2307a3f",
+    "semantic_hash": "7ced22f34fb0862a88d98ca0a2307a3f"
+  },
+  "Packages/com.codomaster.uniject/Tests/Runtime/Fixtures/InjectableScript.cs": {
+    "mtime": 1780945977.9815872,
+    "ast_hash": "10437724c721c06f90d903c6405e97f7",
+    "semantic_hash": "10437724c721c06f90d903c6405e97f7"
+  },
+  "Packages/com.codomaster.uniject/Tests/Runtime/Fixtures/Script.cs": {
+    "mtime": 1780945977.983131,
+    "ast_hash": "323a0d769c8a2307bb61e58de30eaef2",
+    "semantic_hash": "323a0d769c8a2307bb61e58de30eaef2"
+  },
+  "Packages/com.codomaster.uniject/Tests/Runtime/Fixtures/ScriptImplementedIInterface.cs": {
+    "mtime": 1780945977.9850788,
+    "ast_hash": "513f3879cab06231c861a6eb20247714",
+    "semantic_hash": "513f3879cab06231c861a6eb20247714"
+  },
+  "Packages/com.codomaster.uniject/Tests/Runtime/Fixtures/ScriptWithEntryPoint.cs": {
+    "mtime": 1781712684.4183962,
+    "ast_hash": "48838df31437bdfc0c6f7736c138a8f1",
+    "semantic_hash": "48838df31437bdfc0c6f7736c138a8f1"
+  },
+  "Packages/com.codomaster.uniject/Tests/Runtime/SceneLoaderTests.cs": {
+    "mtime": 1784228395.441964,
+    "ast_hash": "5bdec228d457a095b01c3ed6054bb6f0",
+    "semantic_hash": "5bdec228d457a095b01c3ed6054bb6f0"
+  },
+  "Packages/com.codomaster.uniject/package.json": {
+    "mtime": 1780497838.8850305,
+    "ast_hash": "72d37eafc722dce2738b508669ceb5f1",
+    "semantic_hash": "72d37eafc722dce2738b508669ceb5f1"
+  },
+  "Packages/manifest.json": {
+    "mtime": 1780497836.1878695,
+    "ast_hash": "a19b5ddcf1a981ee74ccea32cd454b13",
+    "semantic_hash": "a19b5ddcf1a981ee74ccea32cd454b13"
+  },
+  "Packages/packages-lock.json": {
+    "mtime": 1780560823.6912906,
+    "ast_hash": "1d52adf005af9f779e1f249afb667595",
+    "semantic_hash": "1d52adf005af9f779e1f249afb667595"
+  },
+  "ProjectSettings/SceneTemplateSettings.json": {
+    "mtime": 1780497836.1897473,
+    "ast_hash": "eeb26e313b89cd9334b828428a4847ef",
+    "semantic_hash": "eeb26e313b89cd9334b828428a4847ef"
+  },
+  "Assets/Audio/Music/Music 1.mp3": {
+    "mtime": 1783256026.9387941,
+    "ast_hash": "22b4ea19f5963cd5b1bc96ec4908c108",
+    "semantic_hash": "22b4ea19f5963cd5b1bc96ec4908c108"
+  },
+  "Assets/Audio/Music/Music 2.mp3": {
+    "mtime": 1783256035.1161633,
+    "ast_hash": "4bbca60c5bf0b76bd1d28e0978e907fb",
+    "semantic_hash": "4bbca60c5bf0b76bd1d28e0978e907fb"
+  },
+  "Assets/Audio/Music/Music 3.mp3": {
+    "mtime": 1783256045.4190865,
+    "ast_hash": "5904e22e6649b33094e685952967ac40",
+    "semantic_hash": "5904e22e6649b33094e685952967ac40"
+  },
+  "Packages/com.codomaster.uniject/Runtime/InstanceGetters/InstanceGetterFromNewComponentOnConsumer.cs": {
+    "mtime": 1785246591.5003364,
+    "ast_hash": "8dd62dc0518ac0df19caf0e90af8b406",
+    "semantic_hash": "8dd62dc0518ac0df19caf0e90af8b406"
+  },
+  "Packages/com.codomaster.uniject/Tests/Editor/ContainerResolveFromNewComponentOnConsumerTests.cs": {
+    "mtime": 1785246949.2946482,
+    "ast_hash": "5b265baa61eb95764d079f3efe46219c",
+    "semantic_hash": "5b265baa61eb95764d079f3efe46219c"
+  },
+  "Packages/com.codomaster.uniject/Runtime/InstanceGetters/InstanceGetterFromComponentOnConsumer.cs": {
+    "mtime": 1785315058.3030293,
+    "ast_hash": "981fbbb7472d0e1889fb06d991759719",
+    "semantic_hash": "981fbbb7472d0e1889fb06d991759719"
+  },
+  "Packages/com.codomaster.uniject/Tests/Editor/ContainerResolveFromComponentOnConsumerTests.cs": {
+    "mtime": 1785315234.6995227,
+    "ast_hash": "128e807f2696b98ef6e042f7c01a1ada",
+    "semantic_hash": "128e807f2696b98ef6e042f7c01a1ada"
+  }
+}
