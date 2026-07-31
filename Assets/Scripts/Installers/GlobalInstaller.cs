@@ -7,13 +7,9 @@ using UnityEngine;
 
 public class GlobalInstaller : MonoInstaller
 {
-    [SerializeField] private Enemy _enemy1;
-    [SerializeField] private Enemy _enemy2;
-
     public override void Install(Container container)
     {
-        container.Bind<Enemy>().FromComponentInHierarchy().AsCached();
-
+        container.BindInstance(3.14f);
         container.Bind<ProjectController>().AsEntryPoint();
     }
 }

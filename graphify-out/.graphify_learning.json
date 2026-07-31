@@ -1,21 +1,26 @@
 {
-  "generated_at": "2026-07-30T20:32:17.750134+00:00",
+  "generated_at": "2026-07-30T20:58:32.101325+00:00",
   "nodes": {
     "csharp_namespace:ad3a20f2f19e10d0": {
       "code_fingerprint": "dce40ee5053f1db7632efc52d1ecc3655eb8b41cd8c80ab593b8dc3fb41648e8",
       "label": "Uniject.InstanceGetters",
-      "last": "2026-07-30T16:51:58.356548+00:00",
+      "last": "2026-07-30T20:44:41.976807+00:00",
       "provenance": [
+        {
+          "date": "2026-07-30T20:44:41.976807+00:00",
+          "outcome": "useful",
+          "q": "Теперь я хочу добавить FromNewComponentOnRoot, который создает новый компонент на игровом объекте текущего контекста."
+        },
         {
           "date": "2026-07-30T16:51:58.356548+00:00",
           "outcome": "useful",
           "q": "Теперь я хочу сделать метод FromComponentInChildren, который рекурсивно ищет компонент на том игровом объекте в который происходит внедрение и на его детях."
         }
       ],
-      "score": 0.996471139,
+      "score": 1.995829738,
       "source_file": "Packages/com.codomaster.uniject/Runtime/InstanceGetters/InstanceGetter.cs",
-      "status": "tentative",
-      "uses": 1
+      "status": "preferred",
+      "uses": 2
     },
     "packages_com_codomaster_uniject_runtime_bindings_scope_uniject_bindings_scope": {
       "code_fingerprint": "c6441a0b5173b02b6e7b19e1019c29ee592dda0b6210ffade5a44dc36f4b1892",
@@ -28,7 +33,7 @@
           "q": "Read-only финальный review текущего package diff для FromComponentInChildren: runtime getter, три builder API, scope/error semantics и compile risks"
         }
       ],
-      "score": 0.996459578,
+      "score": 0.996040147,
       "source_file": "Packages/com.codomaster.uniject/Runtime/Bindings/Scope.cs",
       "status": "tentative",
       "uses": 1
@@ -44,8 +49,40 @@
           "q": "Read-only финальный review текущего package diff для FromComponentInChildren: runtime getter, три builder API, scope/error semantics и compile risks"
         }
       ],
-      "score": 0.996459578,
+      "score": 0.996040147,
       "source_file": "Packages/com.codomaster.uniject/Runtime/InstanceGetters/InstanceGetterFromComponentOnConsumer.cs",
+      "status": "tentative",
+      "uses": 1
+    },
+    "packages_com_codomaster_uniject_runtime_instancegetters_instancegetterfromnewcomponentonroot_uniject_instancegetters_instancegetterfromnewcomponentonroot": {
+      "code_fingerprint": "07a35e84ca7ebf93b46b9dc2f53c8aef1e17ec27cd82c2d3e05a20b40347dc69",
+      "label": "InstanceGetterFromNewComponentOnRoot",
+      "last": "2026-07-30T20:42:11.296832+00:00",
+      "provenance": [
+        {
+          "date": "2026-07-30T20:42:11.296832+00:00",
+          "outcome": "useful",
+          "q": "Реализовать обычные editor tests для FromNewComponentOnRoot"
+        }
+      ],
+      "score": 0.99973775,
+      "source_file": "Packages/com.codomaster.uniject/Runtime/InstanceGetters/InstanceGetterFromNewComponentOnRoot.cs",
+      "status": "tentative",
+      "uses": 1
+    },
+    "packages_com_codomaster_uniject_tests_editor_containerfactoryfromnewcomponentontests_uniject_tests_containerfactoryfromnewcomponentontests": {
+      "code_fingerprint": "b15d76f4f442238b5aea818aa90dfe20643dd25e1d1857116c4c673376095c9b",
+      "label": "ContainerFactoryFromNewComponentOnTests",
+      "last": "2026-07-30T20:36:40.635633+00:00",
+      "provenance": [
+        {
+          "date": "2026-07-30T20:36:40.635633+00:00",
+          "outcome": "useful",
+          "q": "Реализовать factory editor tests для FromNewComponentOnRoot"
+        }
+      ],
+      "score": 0.999649352,
+      "source_file": "Packages/com.codomaster.uniject/Tests/Editor/ContainerFactoryFromNewComponentOnTests.cs",
       "status": "tentative",
       "uses": 1
     },
@@ -60,7 +97,7 @@
           "q": "Теперь я хочу сделать метод FromComponentInChildren, который рекурсивно ищет компонент на том игровом объекте в который происходит внедрение и на его детях."
         }
       ],
-      "score": 0.996255839,
+      "score": 0.995836494,
       "source_file": "Packages/com.codomaster.uniject/Tests/Editor/ContainerResolveFromComponentInHierarchyTests.cs",
       "status": "tentative",
       "uses": 1
@@ -86,7 +123,7 @@
           "q": "PLEASE IMPLEMENT THIS PLAN: Добавление FromComponentInParents"
         }
       ],
-      "score": 2.988833137,
+      "score": 2.987575075,
       "source_file": "Packages/com.codomaster.uniject/Tests/Editor/ContainerResolveFromComponentOnConsumerTests.cs",
       "status": "preferred",
       "uses": 3
@@ -102,7 +139,7 @@
           "q": "Теперь напиши тесты для FromComponentInHierarchy"
         }
       ],
-      "score": 0.989751421,
+      "score": 0.989334814,
       "source_file": "Packages/com.codomaster.uniject/Tests/Editor/ContextTestUtility.cs",
       "status": "tentative",
       "uses": 1

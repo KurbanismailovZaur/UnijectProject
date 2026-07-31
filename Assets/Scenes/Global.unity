@@ -164,8 +164,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 42de87b2d5fd04fa39ad0bd57467e230, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _installers:
-  - {fileID: 45182594}
+  _useSiblingInstallers: 0
+  _installers: []
+  _injectInAllContextGameObjects: 0
   _injectTargets: []
   _gameObjectContexts: []
   ParentTransformForGameObjects: {fileID: 0}
@@ -181,8 +182,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f3f9309e767b14df7b64e519ee95ed71, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _enemy1: {fileID: 730722503}
-  _enemy2: {fileID: 1418609702}
 --- !u!1 &492096023
 GameObject:
   m_ObjectHideFlags: 0
@@ -258,7 +257,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b251d9a45c4b4e269157058ce35a4d7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  pi: 0
+  _pi: 0
 --- !u!1 &1372396530
 GameObject:
   m_ObjectHideFlags: 0
@@ -382,7 +381,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b251d9a45c4b4e269157058ce35a4d7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  pi: 0
+  _pi: 0
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0

@@ -41,6 +41,7 @@ annotations
 another
 any
 api
+appears
 application
 applies
 apply
@@ -919,6 +920,7 @@ restore
 result
 results
 retina
+retries
 retry
 returns
 reuses
@@ -1130,6 +1132,7 @@ types
 ugui
 uielements
 umbra
+unchanged
 unclamped
 under
 undo
