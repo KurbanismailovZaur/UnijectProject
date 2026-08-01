@@ -164,10 +164,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 42de87b2d5fd04fa39ad0bd57467e230, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _useSiblingInstallers: 0
-  _installers: []
+  _useSiblingInstallers: 1
+  _installers:
+  - {fileID: 45182594}
   _injectInAllContextGameObjects: 0
-  _injectTargets: []
+  _injectTargets:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
   _gameObjectContexts: []
   ParentTransformForGameObjects: {fileID: 0}
 --- !u!114 &45182594
