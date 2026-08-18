@@ -9,7 +9,8 @@ public class GlobalInstaller : MonoInstaller
 {
     public override void Install(Container container)
     {
-        container.BindInstance(3.14f);
+        container.Bind<EnemyContainer>().AsCached();
+        container.Bind<Enemy>().FromResolveGetter<EnemyContainer>(ec => ec.Enemy);
         container.Bind<ProjectController>().AsEntryPoint();
     }
 }
