@@ -2,7 +2,9 @@ about
 abs
 abstract
 access
+accesses
 accessibility
+across
 action
 actions
 activate
@@ -19,12 +21,15 @@ adopt
 advanced
 after
 again
+aggregate
+aggregates
 align
 alignment
 alignments
 all
 alpha
 already
+alternative
 ancestor
 anchor
 anchors
@@ -66,6 +71,7 @@ attributes
 audio
 author
 auto
+automatic
 available
 average
 awaitable
@@ -94,6 +100,7 @@ bookmarks
 bool
 boolean
 boot
+borrowed
 both
 bottom
 bounce
@@ -223,6 +230,7 @@ contents
 context
 contexts
 contextual
+continues
 contract
 contracts
 control
@@ -287,7 +295,9 @@ debug
 debugger
 decamelcase
 decimal
+decision
 decrement
+deep
 default
 define
 defines
@@ -298,9 +308,11 @@ delete
 delta
 dependencies
 dependency
+depends
 depth
 derived
 descendant
+descendants
 description
 deserialize
 despawn
@@ -316,6 +328,7 @@ different
 digit
 dimensions
 dir
+direct
 director
 directory
 dirty
@@ -324,6 +337,7 @@ disabled
 disables
 display
 disposable
+disposal
 dispose
 disposed
 disposes
@@ -377,6 +391,8 @@ equality
 equals
 equatable
 error
+errors
+evaluate
 even
 event
 events
@@ -397,6 +413,8 @@ expand
 expansion
 expected
 expo
+expose
+exposes
 ext
 extension
 extensions
@@ -406,8 +424,11 @@ facing
 factories
 factory
 fade
+fail
 failed
+failing
 fails
+failure
 false
 field
 fields
@@ -415,8 +436,10 @@ file
 filename
 fill
 filter
+finalizes
 find
 finder
+finds
 first
 fit
 fix
@@ -427,6 +450,7 @@ fixtures
 flags
 flash
 flat
+flattened
 float
 floating
 floor
@@ -436,6 +460,7 @@ fmt
 focus
 focused
 folder
+foldout
 font
 for
 force
@@ -456,6 +481,7 @@ game
 gaussian
 general
 generate
+generated
 generic
 get
 getter
@@ -478,6 +504,7 @@ guid
 guids
 handle
 handler
+handles
 has
 hash
 hashtable
@@ -489,6 +516,7 @@ helpers
 hidden
 hide
 hiding
+hierarchies
 hierarchy
 hierarchycore
 hold
@@ -508,6 +536,7 @@ image
 imageconversion
 imgui
 immediate
+immediately
 impl
 implement
 implementation
@@ -538,6 +567,7 @@ initialized
 initializes
 inject
 injectable
+injected
 injection
 injects
 inner
@@ -646,6 +676,7 @@ make
 manager
 manifest
 manual
+manually
 map
 maps
 mark
@@ -678,6 +709,7 @@ mini
 minimum
 minus
 missing
+mixed
 mobile
 mode
 model
@@ -736,6 +768,7 @@ option
 options
 order
 ordered
+ordinary
 origin
 original
 other
@@ -747,7 +780,9 @@ over
 overlay
 overriden
 own
+owned
 owner
+ownership
 owns
 package
 packages
@@ -757,6 +792,7 @@ parameterized
 parameterless
 parameters
 parent
+parented
 parents
 parse
 parser
@@ -764,6 +800,7 @@ partial
 partially
 particlesystem
 passed
+passes
 patch
 path
 paths
@@ -828,12 +865,14 @@ progress
 project
 prompt
 prop
+propagates
 properties
 property
 protected
 provider
 provides
 proxy
+prunes
 public
 pure
 push
@@ -869,6 +908,7 @@ rectangle
 recursive
 recycle
 reenable
+reentrantly
 reference
 reflection
 refresh
@@ -932,6 +972,7 @@ right
 rigidbody
 robot
 root
+roots
 rotate
 round
 rounded
@@ -988,6 +1029,7 @@ several
 shader
 shadergraph
 shake
+shares
 sheet
 shortcut
 shortcuts
@@ -1032,6 +1074,7 @@ srfi
 srp
 stack
 stage
+stages
 standard
 start
 starts
@@ -1055,7 +1098,6 @@ styles
 sub
 subclasses
 subcontainer
-subcontainers
 submit
 subpath
 subscribe
@@ -1078,6 +1120,7 @@ task
 tear
 tele
 template
+terminal
 terminates
 terms
 terrain
@@ -1090,9 +1133,11 @@ than
 their
 them
 then
+third
 this
 through
 throw
+throwing
 throws
 tick
 tickable
@@ -1100,6 +1145,7 @@ tickables
 tilemap
 time
 timeline
+times
 title
 titles
 tmp
@@ -1111,6 +1157,7 @@ trace
 track
 tracked
 tracker
+tracking
 tracks
 transform
 transforms
@@ -1134,8 +1181,10 @@ uielements
 umbra
 unchanged
 unclamped
+uncreated
 under
 undo
+uniform
 uniject
 unique
 unity
@@ -1148,6 +1197,7 @@ unitywebrequestwww
 universal
 unload
 unloaded
+unmarked
 unmaximized
 unpack
 unpin

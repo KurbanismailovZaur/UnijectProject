@@ -25,7 +25,7 @@
     "semantic_hash": "fdb2673015bbacef064f06e6ffd10512"
   },
   "Assets/Scripts/Installers/GlobalInstaller.cs": {
-    "mtime": 1787060497.5212414,
+    "mtime": 1787068791.0648587,
     "ast_hash": "e543691144c77ddc8774fc1eab132d95",
     "semantic_hash": "e543691144c77ddc8774fc1eab132d95"
   },
@@ -1235,19 +1235,19 @@
     "semantic_hash": "132bb4e06a3b3a354fc2db5f6b6d7935"
   },
   "Packages/com.codomaster.uniject/Runtime/Bindings/BindingToType.cs": {
-    "mtime": 1785233388.8505285,
-    "ast_hash": "a8315c9c1eda51bcc9aa72548185ee86",
-    "semantic_hash": "a8315c9c1eda51bcc9aa72548185ee86"
+    "mtime": 1787067657.0005617,
+    "ast_hash": "2259f2f03128a1d2d48b65b02075c96f",
+    "semantic_hash": "2259f2f03128a1d2d48b65b02075c96f"
   },
   "Packages/com.codomaster.uniject/Runtime/Bindings/BindingToTypeAsBuilder.cs": {
-    "mtime": 1782064271.8129148,
-    "ast_hash": "d23e43882fd4b55f0be234c4027f2031",
-    "semantic_hash": "d23e43882fd4b55f0be234c4027f2031"
+    "mtime": 1787067318.8307092,
+    "ast_hash": "8e1798f727adcf52348496b39bb45319",
+    "semantic_hash": "8e1798f727adcf52348496b39bb45319"
   },
   "Packages/com.codomaster.uniject/Runtime/Bindings/BindingToTypeAsEntryPointBuilder.cs": {
-    "mtime": 1782064271.8131068,
-    "ast_hash": "1abb6f5cde9c83d842668708a55dd268",
-    "semantic_hash": "1abb6f5cde9c83d842668708a55dd268"
+    "mtime": 1787067727.0727465,
+    "ast_hash": "455c98041e4ac8f2cabf02d94a233dcd",
+    "semantic_hash": "455c98041e4ac8f2cabf02d94a233dcd"
   },
   "Packages/com.codomaster.uniject/Runtime/Bindings/BindingToTypeBuilder.cs": {
     "mtime": 1782246282.6536608,
@@ -1255,34 +1255,34 @@
     "semantic_hash": "6b60a5b7e196fed4a47481416a0b2bed"
   },
   "Packages/com.codomaster.uniject/Runtime/Bindings/BindingToTypeByBuilder.cs": {
-    "mtime": 1784403651.2118363,
-    "ast_hash": "8fa803f8a0f60fb84edf18eaf8a0a334",
-    "semantic_hash": "8fa803f8a0f60fb84edf18eaf8a0a334"
+    "mtime": 1787067538.985174,
+    "ast_hash": "e79aa9e3e284585023d04db3b4527a21",
+    "semantic_hash": "e79aa9e3e284585023d04db3b4527a21"
   },
   "Packages/com.codomaster.uniject/Runtime/Bindings/BindingToTypeFromBuilder.cs": {
-    "mtime": 1785519132.3090174,
-    "ast_hash": "ef87fb655be0806bdd3d153b72853be6",
-    "semantic_hash": "ef87fb655be0806bdd3d153b72853be6"
+    "mtime": 1787067538.7990975,
+    "ast_hash": "d6d96ed90ba93b462bcbd0d3b6346978",
+    "semantic_hash": "d6d96ed90ba93b462bcbd0d3b6346978"
   },
   "Packages/com.codomaster.uniject/Runtime/Bindings/BindingToTypeNonLazyBuilder.cs": {
-    "mtime": 1782249431.4745753,
-    "ast_hash": "d5794155596fd77d72afb51283fd43f9",
-    "semantic_hash": "d5794155596fd77d72afb51283fd43f9"
+    "mtime": 1787065992.7842119,
+    "ast_hash": "a4e55d63853dcdad508f018b3ab000f9",
+    "semantic_hash": "a4e55d63853dcdad508f018b3ab000f9"
   },
   "Packages/com.codomaster.uniject/Runtime/Bindings/BindingToTypeToBuilder.cs": {
-    "mtime": 1787058542.497726,
-    "ast_hash": "7eac1e03fdeb90342dd253d02f34896f",
-    "semantic_hash": "7eac1e03fdeb90342dd253d02f34896f"
+    "mtime": 1787067538.849577,
+    "ast_hash": "11afad129038455b13cbefe47ead4387",
+    "semantic_hash": "11afad129038455b13cbefe47ead4387"
   },
   "Packages/com.codomaster.uniject/Runtime/Bindings/BindingToTypeUnderTransformBuilder.cs": {
-    "mtime": 1784052832.040753,
-    "ast_hash": "87fc983f2e308b0c06d0555e5ab175e0",
-    "semantic_hash": "87fc983f2e308b0c06d0555e5ab175e0"
+    "mtime": 1787067538.8948302,
+    "ast_hash": "b388dba4fd922858cbe5aa35e7716de0",
+    "semantic_hash": "b388dba4fd922858cbe5aa35e7716de0"
   },
   "Packages/com.codomaster.uniject/Runtime/Bindings/BindingToTypeWithGameObjectNameBuilder.cs": {
-    "mtime": 1782064271.8148098,
-    "ast_hash": "82621290898b1ab3cfcc7fc763a1462a",
-    "semantic_hash": "82621290898b1ab3cfcc7fc763a1462a"
+    "mtime": 1787067538.942216,
+    "ast_hash": "8c9d60a0e55695c0edbdb75f77771552",
+    "semantic_hash": "8c9d60a0e55695c0edbdb75f77771552"
   },
   "Packages/com.codomaster.uniject/Runtime/Bindings/CreateOptions.cs": {
     "mtime": 1784226187.6643147,
@@ -1395,19 +1395,19 @@
     "semantic_hash": "e3657757bcfe159bf52be6404735b344"
   },
   "Packages/com.codomaster.uniject/Runtime/Bindings/Subcontainers/BindingToSubcontainerAsBuilder.cs": {
-    "mtime": 1782246282.6556113,
-    "ast_hash": "3a3686d971650a5b49ec05a0e412b173",
-    "semantic_hash": "3a3686d971650a5b49ec05a0e412b173"
+    "mtime": 1787067539.0271041,
+    "ast_hash": "1b1fdaa387354403ca86e5cd86c20a0f",
+    "semantic_hash": "1b1fdaa387354403ca86e5cd86c20a0f"
   },
   "Packages/com.codomaster.uniject/Runtime/Bindings/Subcontainers/BindingToSubcontainerUnderTransformBuilder.cs": {
-    "mtime": 1784309952.7942898,
-    "ast_hash": "0f12e431c008caf36bb854abfcf4cb3c",
-    "semantic_hash": "0f12e431c008caf36bb854abfcf4cb3c"
+    "mtime": 1787067539.0675597,
+    "ast_hash": "d4986d155c3dd01f61bb9c4400f8cb79",
+    "semantic_hash": "d4986d155c3dd01f61bb9c4400f8cb79"
   },
   "Packages/com.codomaster.uniject/Runtime/Bindings/Subcontainers/BindingToSubcontainerWithGameObjectNameBuilder.cs": {
-    "mtime": 1784310087.4177423,
-    "ast_hash": "1a94995368191a3a71ee094fd95cf6d3",
-    "semantic_hash": "1a94995368191a3a71ee094fd95cf6d3"
+    "mtime": 1787067539.108561,
+    "ast_hash": "b802a9ee3d768c507bebfb5f383a4229",
+    "semantic_hash": "b802a9ee3d768c507bebfb5f383a4229"
   },
   "Packages/com.codomaster.uniject/Runtime/CollectionPool.cs": {
     "mtime": 1783102496.218094,
@@ -1425,14 +1425,14 @@
     "semantic_hash": "633d73dde5d2ed8903a98bf518c582a3"
   },
   "Packages/com.codomaster.uniject/Runtime/Container.cs": {
-    "mtime": 1787063208.3085315,
-    "ast_hash": "7b37eacd121b9a2f8960d001920d35a4",
-    "semantic_hash": "7b37eacd121b9a2f8960d001920d35a4"
+    "mtime": 1787067854.9068239,
+    "ast_hash": "51825c23a41c7fbc216d88660a23a72f",
+    "semantic_hash": "51825c23a41c7fbc216d88660a23a72f"
   },
   "Packages/com.codomaster.uniject/Runtime/Contexts/Context.cs": {
-    "mtime": 1787063221.7027495,
-    "ast_hash": "ae3341ce96e84cd168303689b708e16b",
-    "semantic_hash": "ae3341ce96e84cd168303689b708e16b"
+    "mtime": 1787066273.7854228,
+    "ast_hash": "ed6ae9fdbf6bdd91f035e036b5ed3920",
+    "semantic_hash": "ed6ae9fdbf6bdd91f035e036b5ed3920"
   },
   "Packages/com.codomaster.uniject/Runtime/Contexts/GameObjectContext.cs": {
     "mtime": 1785610204.347758,
@@ -1555,9 +1555,9 @@
     "semantic_hash": "1a0e4d632438623d4c2e5e7fbbe1074f"
   },
   "Packages/com.codomaster.uniject/Runtime/InstanceGetters/InstanceGetterFromInstance.cs": {
-    "mtime": 1785229675.3079824,
-    "ast_hash": "d46587b306b10b81e2fd888d67b9a683",
-    "semantic_hash": "d46587b306b10b81e2fd888d67b9a683"
+    "mtime": 1787066076.9835668,
+    "ast_hash": "e13878ce08290e873b62f0415e68ed48",
+    "semantic_hash": "e13878ce08290e873b62f0415e68ed48"
   },
   "Packages/com.codomaster.uniject/Runtime/InstanceGetters/InstanceGetterFromMethod.cs": {
     "mtime": 1785233389.197431,
@@ -1585,9 +1585,9 @@
     "semantic_hash": "42bb8690fa00a6dbbea828722e4d9499"
   },
   "Packages/com.codomaster.uniject/Runtime/InstanceGetters/InstanceGetterFromSubContainerResolve.cs": {
-    "mtime": 1785229675.3093126,
-    "ast_hash": "3b1b61e987f009e1202079ad8ea41c4e",
-    "semantic_hash": "3b1b61e987f009e1202079ad8ea41c4e"
+    "mtime": 1787066437.9619637,
+    "ast_hash": "26be92ec54774f895a0207c206d2512c",
+    "semantic_hash": "26be92ec54774f895a0207c206d2512c"
   },
   "Packages/com.codomaster.uniject/Runtime/Lifecycle/FixedTickable.cs": {
     "mtime": 1781712684.414322,
@@ -1635,9 +1635,9 @@
     "semantic_hash": "dfd8da6bd48738b3ebbf9db79dd7fff5"
   },
   "Packages/com.codomaster.uniject/Runtime/Pool.cs": {
-    "mtime": 1787063402.2281656,
-    "ast_hash": "27d527bf18bff34962c56c113e4074f5",
-    "semantic_hash": "27d527bf18bff34962c56c113e4074f5"
+    "mtime": 1787161094.6321313,
+    "ast_hash": "5466f3d4d288ef6d2edd5c4f33f55d89",
+    "semantic_hash": "5466f3d4d288ef6d2edd5c4f33f55d89"
   },
   "Packages/com.codomaster.uniject/Runtime/Reflection/ConstructorInjectionInfo.cs": {
     "mtime": 1780497838.884333,
@@ -1660,14 +1660,14 @@
     "semantic_hash": "569cb936190a5c6916d8e186465a30f5"
   },
   "Packages/com.codomaster.uniject/Runtime/SceneLoader.cs": {
-    "mtime": 1784140531.1521556,
-    "ast_hash": "ed5335f8bda974dfe4b5f19347ad0530",
-    "semantic_hash": "ed5335f8bda974dfe4b5f19347ad0530"
+    "mtime": 1787161535.5843563,
+    "ast_hash": "61dc07b967c101776ea1f92cc928fbaf",
+    "semantic_hash": "61dc07b967c101776ea1f92cc928fbaf"
   },
   "Packages/com.codomaster.uniject/Runtime/SubcontainerGetters/SubcontainerGetter.cs": {
-    "mtime": 1784240571.028257,
-    "ast_hash": "8ba540f3d5efc56b04c34bd490811a9f",
-    "semantic_hash": "8ba540f3d5efc56b04c34bd490811a9f"
+    "mtime": 1787065891.526474,
+    "ast_hash": "bb856ba4d93ccd6e4f4d0b394667c0e8",
+    "semantic_hash": "bb856ba4d93ccd6e4f4d0b394667c0e8"
   },
   "Packages/com.codomaster.uniject/Runtime/SubcontainerGetters/SubcontainerGetterByContextOnNewPrefab.cs": {
     "mtime": 1784403604.890961,
@@ -1675,9 +1675,9 @@
     "semantic_hash": "5c524f3845ae99bb708468dca9a997bf"
   },
   "Packages/com.codomaster.uniject/Runtime/SubcontainerGetters/SubcontainerGetterByInstaller.cs": {
-    "mtime": 1783197328.9363377,
-    "ast_hash": "33cca2764f02490681aa382df47ccb05",
-    "semantic_hash": "33cca2764f02490681aa382df47ccb05"
+    "mtime": 1787066437.8581097,
+    "ast_hash": "d47910fb23c66aeb201cc2dc12962e6b",
+    "semantic_hash": "d47910fb23c66aeb201cc2dc12962e6b"
   },
   "Packages/com.codomaster.uniject/Runtime/SubcontainerGetters/SubcontainerGetterByInstance.cs": {
     "mtime": 1782314248.0632906,
@@ -1685,9 +1685,9 @@
     "semantic_hash": "765fd32f01bbb0611aeec532df62b0d0"
   },
   "Packages/com.codomaster.uniject/Runtime/SubcontainerGetters/SubcontainerGetterByMethod.cs": {
-    "mtime": 1784294168.9257567,
-    "ast_hash": "b6c801cb5df3cf004ead74c290023827",
-    "semantic_hash": "b6c801cb5df3cf004ead74c290023827"
+    "mtime": 1787066437.912444,
+    "ast_hash": "e3ef0fab3a522ee5c6df071abcfefb67",
+    "semantic_hash": "e3ef0fab3a522ee5c6df071abcfefb67"
   },
   "Packages/com.codomaster.uniject/Runtime/SubcontainerGetters/SubcontainerGetterByNewContextFromInstallerOnNewGameObject.cs": {
     "mtime": 1784316018.9296234,
@@ -2025,9 +2025,9 @@
     "semantic_hash": "48838df31437bdfc0c6f7736c138a8f1"
   },
   "Packages/com.codomaster.uniject/Tests/Runtime/SceneLoaderTests.cs": {
-    "mtime": 1784228395.441964,
-    "ast_hash": "5bdec228d457a095b01c3ed6054bb6f0",
-    "semantic_hash": "5bdec228d457a095b01c3ed6054bb6f0"
+    "mtime": 1787161535.643067,
+    "ast_hash": "baae2cbaa3164dec00b471e5a17d94c6",
+    "semantic_hash": "baae2cbaa3164dec00b471e5a17d94c6"
   },
   "Packages/com.codomaster.uniject/package.json": {
     "mtime": 1780497838.8850305,
@@ -2035,14 +2035,14 @@
     "semantic_hash": "72d37eafc722dce2738b508669ceb5f1"
   },
   "Packages/manifest.json": {
-    "mtime": 1780497836.1878695,
-    "ast_hash": "a19b5ddcf1a981ee74ccea32cd454b13",
-    "semantic_hash": "a19b5ddcf1a981ee74ccea32cd454b13"
+    "mtime": 1787160234.4257157,
+    "ast_hash": "6c69f81fc3d5a2a31bd7d8874e067162",
+    "semantic_hash": "6c69f81fc3d5a2a31bd7d8874e067162"
   },
   "Packages/packages-lock.json": {
-    "mtime": 1780560823.6912906,
-    "ast_hash": "1d52adf005af9f779e1f249afb667595",
-    "semantic_hash": "1d52adf005af9f779e1f249afb667595"
+    "mtime": 1787160446.4992967,
+    "ast_hash": "67c9df343182ea8d752d955eb76464a2",
+    "semantic_hash": "67c9df343182ea8d752d955eb76464a2"
   },
   "ProjectSettings/SceneTemplateSettings.json": {
     "mtime": 1780497836.1897473,
@@ -2173,5 +2173,40 @@
     "mtime": 1787060563.5342216,
     "ast_hash": "ad8ddb509357019845259b0308795704",
     "semantic_hash": "ad8ddb509357019845259b0308795704"
+  },
+  "Packages/com.codomaster.uniject/Runtime/Bindings/BindingToTypeCachedBuilder.cs": {
+    "mtime": 1787067727.1361094,
+    "ast_hash": "c4bedf3cae3f806f2e954f2f64a77067",
+    "semantic_hash": "c4bedf3cae3f806f2e954f2f64a77067"
+  },
+  "Packages/com.codomaster.uniject/Runtime/Bindings/BindingToTypeCachedEntryPointBuilder.cs": {
+    "mtime": 1787065993.3539674,
+    "ast_hash": "6a66a900a8a8037d32d88cad77992890",
+    "semantic_hash": "6a66a900a8a8037d32d88cad77992890"
+  },
+  "Packages/com.codomaster.uniject/Runtime/Bindings/BindingToTypeCachedNonLazyBuilder.cs": {
+    "mtime": 1787067727.1847873,
+    "ast_hash": "ddede1d02c28e7b3897e739be26f21a3",
+    "semantic_hash": "ddede1d02c28e7b3897e739be26f21a3"
+  },
+  "Packages/com.codomaster.uniject/Tests/Editor/ContainerChildContainerOwnershipTests.cs": {
+    "mtime": 1787068008.6545002,
+    "ast_hash": "c89f4b89e5e6391fbdc15670ab0247b0",
+    "semantic_hash": "c89f4b89e5e6391fbdc15670ab0247b0"
+  },
+  "Packages/com.codomaster.uniject/Tests/Editor/ContainerDisposeWithContainerTests.cs": {
+    "mtime": 1787068115.036453,
+    "ast_hash": "234b5fefb7608cbf42110a1125c225a4",
+    "semantic_hash": "234b5fefb7608cbf42110a1125c225a4"
+  },
+  "Packages/com.codomaster.uniject/Tests/Editor/ContextDisposalTests.cs": {
+    "mtime": 1787068662.8831193,
+    "ast_hash": "bc9a3a1dee0e148b10398828bcc75c0f",
+    "semantic_hash": "bc9a3a1dee0e148b10398828bcc75c0f"
+  },
+  "Packages/com.codomaster.uniject/Tests/Runtime/ContainerResolvePerformanceTests.cs": {
+    "mtime": 1787160283.5902712,
+    "ast_hash": "ace83d0fcb446526aaaa582e18055ad0",
+    "semantic_hash": "ace83d0fcb446526aaaa582e18055ad0"
   }
 }

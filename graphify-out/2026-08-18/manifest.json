@@ -1425,14 +1425,14 @@
     "semantic_hash": "633d73dde5d2ed8903a98bf518c582a3"
   },
   "Packages/com.codomaster.uniject/Runtime/Container.cs": {
-    "mtime": 1785403414.1758265,
-    "ast_hash": "bf185303d8e5363617ef7f8f0d1c44b3",
-    "semantic_hash": "bf185303d8e5363617ef7f8f0d1c44b3"
+    "mtime": 1787063208.3085315,
+    "ast_hash": "7b37eacd121b9a2f8960d001920d35a4",
+    "semantic_hash": "7b37eacd121b9a2f8960d001920d35a4"
   },
   "Packages/com.codomaster.uniject/Runtime/Contexts/Context.cs": {
-    "mtime": 1785610738.6909022,
-    "ast_hash": "21e4bfa5be989a2b14a86b70d93f04a9",
-    "semantic_hash": "21e4bfa5be989a2b14a86b70d93f04a9"
+    "mtime": 1787063221.7027495,
+    "ast_hash": "ae3341ce96e84cd168303689b708e16b",
+    "semantic_hash": "ae3341ce96e84cd168303689b708e16b"
   },
   "Packages/com.codomaster.uniject/Runtime/Contexts/GameObjectContext.cs": {
     "mtime": 1785610204.347758,
@@ -1635,7 +1635,7 @@
     "semantic_hash": "dfd8da6bd48738b3ebbf9db79dd7fff5"
   },
   "Packages/com.codomaster.uniject/Runtime/Pool.cs": {
-    "mtime": 1785229675.3098495,
+    "mtime": 1787063402.2281656,
     "ast_hash": "27d527bf18bff34962c56c113e4074f5",
     "semantic_hash": "27d527bf18bff34962c56c113e4074f5"
   },
@@ -1730,9 +1730,9 @@
     "semantic_hash": "3e4573120c99cac9365f64a46876fb0a"
   },
   "Packages/com.codomaster.uniject/Tests/Editor/ContainerEntryPointsTests.cs": {
-    "mtime": 1781895199.4359794,
-    "ast_hash": "d0ad9aa3d4304bce1bf5c3b6b406d3e5",
-    "semantic_hash": "d0ad9aa3d4304bce1bf5c3b6b406d3e5"
+    "mtime": 1787063417.9127114,
+    "ast_hash": "eac7042aa83f5a7f43d5e9d838ac1015",
+    "semantic_hash": "eac7042aa83f5a7f43d5e9d838ac1015"
   },
   "Packages/com.codomaster.uniject/Tests/Editor/ContainerFactoryFromComponentInNewPrefabTests.cs": {
     "mtime": 1782420170.5724878,
