@@ -11,6 +11,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Boot.unity
     guid: 5e5c286ed12134522aeb3df4aaa3bf80
+  - enabled: 1
+    path: Packages/com.codomaster.uniject/Tests/Runtime/Fixtures/Scenes/SceneLoaderRequested.unity
+    guid: b44349a47528491baa5f42f4cc8d0e3f
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0
